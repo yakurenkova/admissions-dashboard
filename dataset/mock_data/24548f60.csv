@@ -1,0 +1,779 @@
+,gender,program,submitted_on,age_on_program_start,years_work_experience,nationality,other_nationality,applicant_state
+0,Female,Full-time MBA,2021-08-14,28,2,Canada,,enrolled
+1,Male,Full-time MBA,2024-01-12,30,6,United States,,enrolled
+2,Male,Full-time MBA,2022-01-31,28,8,India,,rejected
+3,Male,Full-time MBA,2023-09-09,32,11,Mexico,,rejected
+4,Male,Full-time MBA,2022-07-14,30,4,China,,declined_offer
+5,Male,Full-time MBA,2021-08-29,29,5,Germany,,enrolled
+6,Male,Full-time MBA,2022-01-04,25,3,India,,rejected
+7,Male,Full-time MBA,2021-12-23,26,6,India,,rejected
+8,Male,Full-time MBA,2023-08-21,26,4,Nigeria,,withdrawn
+9,Female,Full-time MBA,2023-12-04,28,5,Russian Federation,,withdrawn
+10,Male,Full-time MBA,2023-02-23,30,7,India,Ukraine,rejected
+11,Male,Full-time MBA,2021-01-05,36,10,Turkey,,enrolled
+12,Female,Full-time MBA,2022-07-24,33,13,Ireland,,enrolled
+13,Male,Full-time MBA,2024-01-11,36,12,China,,enrolled
+14,Male,Full-time MBA,2022-11-08,30,6,India,,rejected
+15,Male,Full-time MBA,2020-10-11,29,5,Italy,Lebanon,enrolled
+16,Male,Full-time MBA,2023-03-14,29,6,India,,on_hold
+17,Male,Full-time MBA,2021-10-21,32,8,United States,,enrolled
+18,Male,Full-time MBA,2021-12-31,30,7,Taiwan,,enrolled
+19,Female,Full-time MBA,2023-11-09,33,10,Germany,,withdrawn
+20,Male,Full-time MBA,2024-01-12,25,3,India,Tunisia,on_hold
+21,Female,Full-time MBA,2021-03-28,29,6,India,,enrolled
+22,Male,Full-time MBA,2022-11-15,36,10,India,,rejected
+23,Male,Full-time MBA,2023-03-17,33,13,India,,rejected
+24,Male,Full-time MBA,2020-12-21,30,6,Turkey,,enrolled
+25,Male,Full-time MBA,2021-07-02,29,2,China,,enrolled
+26,Female,Full-time MBA,2022-06-21,37,16,India,,rejected
+27,Male,Full-time MBA,2023-12-28,36,7,Peru,,declined_offer
+28,Male,Full-time MBA,2021-09-09,38,11,India,,rejected
+29,Male,Full-time MBA,2020-11-29,29,8,United States,,rejected
+30,Male,Full-time MBA,2020-09-01,36,10,Pakistan,,enrolled
+31,Female,Full-time MBA,2021-04-03,27,1,India,,rejected
+32,Female,Full-time MBA,2024-01-14,40,17,United States,,enrolled
+33,Male,Full-time MBA,2020-11-15,26,6,India,,rejected
+34,Male,Full-time MBA,2021-10-25,26,4,Sweden,,declined_offer
+35,Male,Full-time MBA,2022-08-29,37,8,Pakistan,,enrolled
+36,Male,Full-time MBA,2020-10-01,31,8,India,,deferred
+37,Male,Full-time MBA,2024-02-17,25,3,Colombia,,enrolled
+38,Female,Full-time MBA,2022-05-30,30,3,Germany,,enrolled
+39,Female,Full-time MBA,2021-09-20,35,9,United States,,enrolled
+40,Male,Full-time MBA,2021-05-06,32,6,United States,Philippines,declined_offer
+41,Female,Full-time MBA,2022-01-20,31,3,Nigeria,,enrolled
+42,Male,Full-time MBA,2023-06-21,30,6,India,,declined_offer
+43,Female,Full-time MBA,2022-01-25,31,8,Colombia,,enrolled
+44,Male,Full-time MBA,2023-09-25,27,7,India,Rwanda,declined_offer
+45,Male,Full-time MBA,2020-12-27,35,8,Nigeria,,enrolled
+46,Male,Full-time MBA,2023-07-28,32,8,Switzerland,Algeria,enrolled
+47,Female,Full-time MBA,2024-02-22,30,6,India,,withdrawn
+48,Male,Full-time MBA,2022-07-04,28,5,Spain,,withdrawn
+49,Female,Full-time MBA,2020-09-13,25,1,United Kingdom,,declined_offer
+50,Male,Full-time MBA,2020-12-05,29,3,United States,Estonia,enrolled
+51,Male,Full-time MBA,2023-01-01,34,10,India,,declined_offer
+52,Male,Full-time MBA,2022-10-27,25,3,India,,rejected
+53,Male,Full-time MBA,2022-12-13,27,2,India,,rejected
+54,Male,Full-time MBA,2023-07-22,42,17,India,,rejected
+55,Female,Full-time MBA,2021-08-20,27,5,China,,enrolled
+56,Female,Full-time MBA,2023-03-11,36,15,Italy,,rejected
+57,Female,Full-time MBA,2023-04-27,27,5,India,,declined_offer
+58,Male,Full-time MBA,2024-01-27,36,12,Georgia,,withdrawn
+59,Male,Full-time MBA,2022-10-27,26,4,India,,rejected
+60,Female,Full-time MBA,2022-02-20,34,11,Germany,,declined_offer
+61,Male,Full-time MBA,2021-10-23,23,2,United States,,rejected
+62,Male,Full-time MBA,2023-02-27,31,11,Brazil,,declined_offer
+63,Male,Full-time MBA,2022-12-01,31,5,Ukraine,,declined_offer
+64,Male,Full-time MBA,2023-01-28,30,6,China,,rejected
+65,Male,Full-time MBA,2022-02-14,31,6,China,,declined_offer
+66,Male,Full-time MBA,2024-03-07,38,11,Germany,,enrolled
+67,Male,Full-time MBA,2020-12-14,36,9,India,,on_hold
+68,Male,Full-time MBA,2023-01-16,25,3,Philippines,,rejected
+69,Female,Full-time MBA,2022-12-23,30,7,India,,rejected
+70,Female,Full-time MBA,2024-01-12,36,14,India,,rejected
+71,Male,Full-time MBA,2021-01-26,31,5,Italy,,rejected
+72,Male,Full-time MBA,2022-09-06,40,17,Italy,,withdrawn
+73,Male,Full-time MBA,2024-01-22,34,14,Canada,,enrolled
+74,Male,Full-time MBA,2021-05-31,34,6,India,,rejected
+75,Male,Full-time MBA,2023-01-02,27,1,China,,rejected
+76,Female,Full-time MBA,2024-03-30,34,14,Mexico,,enrolled
+77,Male,Full-time MBA,2021-01-05,34,7,India,,declined_offer
+78,Male,Full-time MBA,2021-09-30,26,4,India,,withdrawn
+79,Female,Full-time MBA,2021-01-19,37,11,Philippines,,enrolled
+80,Male,Full-time MBA,2020-11-25,36,7,Korea,,declined_offer
+81,Female,Full-time MBA,2021-10-17,34,6,Norway,,enrolled
+82,Female,Full-time MBA,2022-03-07,30,7,Ghana,Netherlands,enrolled
+83,Male,Full-time MBA,2022-04-21,31,4,Kenya,,rejected
+84,Female,Full-time MBA,2023-08-13,28,4,India,,rejected
+85,Male,Full-time MBA,2020-11-22,30,4,India,,declined_offer
+86,Male,Full-time MBA,2022-04-05,30,7,India,,rejected
+87,Male,Full-time MBA,2023-02-21,29,8,Peru,,rejected
+88,Male,Full-time MBA,2024-02-03,40,16,India,,declined_offer
+89,Female,Full-time MBA,2022-09-27,42,13,China,,enrolled
+90,Male,Full-time MBA,2022-09-24,24,4,India,,on_hold
+91,Male,Full-time MBA,2023-09-17,30,8,India,,enrolled
+92,Male,Full-time MBA,2022-12-18,31,4,India,,rejected
+93,Male,Full-time MBA,2021-06-16,27,7,Germany,,declined_offer
+94,Male,Full-time MBA,2022-09-16,29,5,Italy,,withdrawn
+95,Male,Full-time MBA,2022-06-23,24,2,China,,rejected
+96,Male,Full-time MBA,2021-06-19,32,6,India,Romania,rejected
+97,Female,Full-time MBA,2024-02-20,26,1,India,Bulgaria,declined_offer
+98,Female,Full-time MBA,2022-07-09,29,2,India,,withdrawn
+99,Male,Full-time MBA,2024-02-26,32,11,Mexico,Australia,withdrawn
+100,Female,Full-time MBA,2024-01-31,31,10,India,,withdrawn
+101,Male,Full-time MBA,2022-06-16,29,2,China,,enrolled
+102,Male,Full-time MBA,2021-01-25,32,10,United States,,declined_offer
+103,Male,Full-time MBA,2020-12-13,28,6,Nigeria,,enrolled
+104,Male,Full-time MBA,2023-01-21,26,5,India,,rejected
+105,Male,Full-time MBA,2024-02-14,33,10,India,,rejected
+106,Male,Full-time MBA,2020-10-21,35,12,Nigeria,Colombia,declined_offer
+107,Male,Full-time MBA,2022-10-30,34,12,Spain,,declined_offer
+108,Male,Full-time MBA,2024-02-21,30,10,China,,enrolled
+109,Male,Full-time MBA,2022-03-09,31,6,Georgia,,enrolled
+110,Male,Full-time MBA,2021-03-28,25,3,United States,,enrolled
+111,Male,Full-time MBA,2022-07-08,24,3,United States,,enrolled
+112,Female,Full-time MBA,2021-11-29,26,4,Hungary,,declined_offer
+113,Male,Full-time MBA,2022-11-07,38,17,China,,rejected
+114,Female,Full-time MBA,2023-02-27,30,6,India,,withdrawn
+115,Male,Full-time MBA,2022-07-09,28,6,Turkey,,rejected
+116,Male,Full-time MBA,2023-09-24,32,8,Russian Federation,,enrolled
+117,Female,Full-time MBA,2022-02-28,32,6,China,,enrolled
+118,Male,Full-time MBA,2023-04-19,33,4,China,,enrolled
+119,Male,Full-time MBA,2020-10-10,25,3,Ghana,Canada,withdrawn
+120,Male,Full-time MBA,2024-03-03,36,13,United States,,enrolled
+121,Female,Full-time MBA,2020-11-04,28,4,United States,,declined_offer
+122,Male,Full-time MBA,2021-06-08,29,6,China,,enrolled
+123,Male,Full-time MBA,2021-02-21,30,7,India,Switzerland,enrolled
+124,Male,Full-time MBA,2023-11-15,36,14,Taiwan,,declined_offer
+125,Male,Full-time MBA,2021-07-09,33,10,India,,rejected
+126,Male,Full-time MBA,2021-07-15,29,8,India,,enrolled
+127,Male,Full-time MBA,2021-10-28,31,5,Peru,,enrolled
+128,Male,Full-time MBA,2022-02-06,29,6,Taiwan,,enrolled
+129,Male,Full-time MBA,2022-03-16,31,8,China,,enrolled
+130,Male,Full-time MBA,2022-08-23,28,4,Peru,,rejected
+131,Male,Full-time MBA,2021-08-15,26,4,Germany,,declined_offer
+132,Female,Full-time MBA,2020-10-09,35,15,Germany,,rejected
+133,Female,Full-time MBA,2023-04-04,30,8,India,,declined_offer
+134,Male,Full-time MBA,2022-10-25,27,4,United States,,declined_offer
+135,Male,Full-time MBA,2023-11-17,31,6,India,,deferred
+136,Male,Full-time MBA,2022-12-22,28,7,India,,on_hold
+137,Male,Full-time MBA,2021-10-08,29,3,Ghana,,withdrawn
+138,Female,Full-time MBA,2021-10-07,33,12,Iran,,enrolled
+139,Male,Full-time MBA,2022-06-04,30,6,India,,enrolled
+140,Female,Full-time MBA,2023-01-30,26,2,India,Finland,withdrawn
+141,Female,Full-time MBA,2023-05-16,29,6,India,,rejected
+142,Male,Full-time MBA,2023-05-14,26,1,India,,rejected
+143,Female,Full-time MBA,2022-08-23,30,7,China,,rejected
+144,Male,Full-time MBA,2023-04-23,28,5,India,,rejected
+145,Male,Full-time MBA,2023-04-23,36,16,India,Colombia,on_hold
+146,Male,Full-time MBA,2024-01-19,34,12,China,,withdrawn
+147,Male,Full-time MBA,2022-09-18,35,10,India,Australia,enrolled
+148,Male,Full-time MBA,2020-12-20,31,5,Algeria,,enrolled
+149,Female,Full-time MBA,2021-09-11,27,5,United States,,rejected
+150,Female,Full-time MBA,2023-08-16,25,3,India,,declined_offer
+151,Female,Full-time MBA,2023-03-27,30,9,India,,enrolled
+152,Female,Full-time MBA,2022-09-13,37,10,India,,declined_offer
+153,Male,Full-time MBA,2023-10-21,33,9,India,,rejected
+154,Female,Full-time MBA,2021-07-26,26,4,India,,declined_offer
+155,Male,Full-time MBA,2022-03-11,33,8,India,,rejected
+156,Male,Full-time MBA,2020-09-25,35,14,India,,rejected
+157,Female,Full-time MBA,2020-10-25,35,12,Philippines,,declined_offer
+158,Male,Full-time MBA,2021-12-23,29,7,India,,rejected
+159,Female,Full-time MBA,2024-01-02,25,3,United Kingdom,,withdrawn
+160,Female,Full-time MBA,2023-08-12,31,4,India,,declined_offer
+161,Male,Full-time MBA,2023-01-24,38,14,Colombia,,declined_offer
+162,Male,Full-time MBA,2024-02-29,27,4,Germany,,rejected
+163,Female,Full-time MBA,2023-08-28,33,8,India,,declined_offer
+164,Male,Full-time MBA,2021-01-19,29,7,India,,rejected
+165,Male,Full-time MBA,2020-11-13,31,9,Iran,Algeria,enrolled
+166,Female,Full-time MBA,2021-10-31,38,16,India,,declined_offer
+167,Male,Full-time MBA,2023-03-03,31,3,India,,withdrawn
+168,Male,Full-time MBA,2022-04-08,36,12,United States,,declined_offer
+169,Female,Full-time MBA,2023-11-29,26,1,India,,enrolled
+170,Male,Full-time MBA,2021-06-13,40,20,Kenya,,enrolled
+171,Female,Full-time MBA,2023-12-31,31,6,China,,declined_offer
+172,Male,Full-time MBA,2021-12-23,33,12,India,,withdrawn
+173,Male,Full-time MBA,2021-04-16,26,3,Mexico,,enrolled
+174,Male,Full-time MBA,2022-05-04,30,3,India,,on_hold
+175,Male,Full-time MBA,2023-07-17,25,3,India,,rejected
+176,Male,Full-time MBA,2024-03-28,30,6,Chile,,declined_offer
+177,Male,Full-time MBA,2022-08-07,27,2,United States,,declined_offer
+178,Female,Full-time MBA,2021-11-20,34,6,India,,declined_offer
+179,Male,Full-time MBA,2021-12-18,27,6,India,,on_hold
+180,Male,Full-time MBA,2022-12-29,31,8,Russian Federation,,declined_offer
+181,Male,Full-time MBA,2023-08-13,32,8,India,,withdrawn
+182,Male,Full-time MBA,2023-10-28,29,4,India,,rejected
+183,Female,Full-time MBA,2022-07-20,34,6,India,,deferred
+184,Male,Full-time MBA,2022-10-05,30,8,Switzerland,,declined_offer
+185,Male,Full-time MBA,2020-12-09,32,5,India,,rejected
+186,Male,Full-time MBA,2021-03-31,32,9,India,,rejected
+187,Male,Full-time MBA,2022-09-10,30,10,India,Hong Kong,enrolled
+188,Male,Full-time MBA,2022-09-15,33,12,India,,rejected
+189,Male,Full-time MBA,2023-01-04,33,5,Australia,,on_hold
+190,Female,Full-time MBA,2021-01-19,26,3,India,,rejected
+191,Male,Full-time MBA,2021-01-28,32,5,Colombia,,rejected
+192,Male,Full-time MBA,2021-07-28,32,9,Pakistan,,rejected
+193,Male,Full-time MBA,2020-12-26,21,1,India,,rejected
+194,Male,Full-time MBA,2022-09-11,34,11,India,,on_hold
+195,Male,Full-time MBA,2023-02-24,37,8,China,,deferred
+196,Male,Full-time MBA,2022-06-30,29,3,India,,rejected
+197,Male,Full-time MBA,2024-02-14,27,5,Hungary,,withdrawn
+198,Male,Full-time MBA,2023-12-04,30,8,India,,rejected
+199,Male,Full-time MBA,2023-09-06,32,9,India,,rejected
+200,Male,Full-time MBA,2022-07-28,30,5,Hungary,,enrolled
+201,Male,Full-time MBA,2021-07-04,28,2,India,,on_hold
+202,Male,Full-time MBA,2022-01-11,28,8,India,,rejected
+203,Male,Full-time MBA,2021-09-07,26,4,India,,rejected
+204,Female,Full-time MBA,2022-05-13,31,3,China,,deferred
+205,Male,Full-time MBA,2022-05-25,34,10,Mexico,,rejected
+206,Male,Full-time MBA,2021-04-07,26,4,India,,declined_offer
+207,Male,Full-time MBA,2024-03-13,31,7,Kenya,,enrolled
+208,Female,Full-time MBA,2021-05-10,34,13,United States,,enrolled
+209,Male,Full-time MBA,2021-03-25,35,13,India,,rejected
+210,Male,Full-time MBA,2024-01-10,27,6,India,,rejected
+211,Female,Full-time MBA,2022-05-22,31,8,Georgia,,enrolled
+212,Male,Full-time MBA,2023-11-12,33,7,Iran,,declined_offer
+213,Male,Full-time MBA,2021-12-30,25,3,India,,rejected
+214,Female,Full-time MBA,2023-09-30,29,6,India,,rejected
+215,Male,Full-time MBA,2023-04-19,30,10,India,,rejected
+216,Male,Full-time MBA,2022-09-20,29,6,Korea,,enrolled
+217,Male,Full-time MBA,2021-05-26,31,7,Russian Federation,,enrolled
+218,Male,Full-time MBA,2023-03-02,27,7,United States,,enrolled
+219,Male,Full-time MBA,2021-03-28,30,3,India,,rejected
+220,Female,Full-time MBA,2021-07-18,27,1,India,,withdrawn
+221,Male,Full-time MBA,2022-06-01,26,3,China,,declined_offer
+222,Male,Full-time MBA,2023-03-19,31,8,Jordan,,enrolled
+223,Female,Full-time MBA,2021-10-06,32,9,Brazil,,enrolled
+224,Male,Full-time MBA,2021-09-21,28,4,Nigeria,,enrolled
+225,Male,Full-time MBA,2021-12-21,27,2,Hungary,,rejected
+226,Male,Full-time MBA,2023-12-11,40,15,Ghana,,rejected
+227,Male,Full-time MBA,2021-04-30,28,2,Turkey,,declined_offer
+228,Male,Full-time MBA,2021-07-14,27,5,Colombia,,rejected
+229,Male,Full-time MBA,2024-03-30,30,10,India,,rejected
+230,Male,Full-time MBA,2023-01-28,26,4,Taiwan,,withdrawn
+231,Male,Full-time MBA,2021-09-05,35,8,United States,Netherlands,declined_offer
+232,Female,Full-time MBA,2023-04-18,27,4,Iran,,rejected
+233,Male,Full-time MBA,2022-04-01,36,8,India,,withdrawn
+234,Male,Full-time MBA,2021-10-07,33,11,India,,enrolled
+235,Male,Full-time MBA,2022-11-14,27,5,India,,rejected
+236,Male,Full-time MBA,2023-04-08,38,15,Germany,Nigeria,withdrawn
+237,Male,Full-time MBA,2022-07-24,30,8,Georgia,,declined_offer
+238,Male,Full-time MBA,2023-10-07,33,10,India,,enrolled
+239,Male,Full-time MBA,2023-06-08,28,3,India,,deferred
+240,Female,Full-time MBA,2021-08-04,29,4,India,,rejected
+241,Male,Full-time MBA,2023-01-18,29,9,India,,rejected
+242,Male,Full-time MBA,2023-07-15,29,5,Turkey,Egypt,deferred
+243,Male,Full-time MBA,2020-11-08,29,5,United States,,rejected
+244,Female,Full-time MBA,2022-06-17,30,9,Germany,Portugal,withdrawn
+245,Male,Full-time MBA,2023-04-12,35,9,India,,declined_offer
+246,Male,Full-time MBA,2021-06-03,34,8,United States,,rejected
+247,Male,Full-time MBA,2023-05-25,27,4,Hungary,,enrolled
+248,Male,Full-time MBA,2022-10-15,32,8,India,,deferred
+249,Male,Full-time MBA,2021-11-13,36,8,India,,withdrawn
+250,Male,Full-time MBA,2021-05-14,29,8,Turkey,,enrolled
+251,Male,Full-time MBA,2022-04-20,39,13,Egypt,,declined_offer
+252,Male,Full-time MBA,2022-12-02,34,6,India,,declined_offer
+253,Male,Full-time MBA,2023-05-26,30,8,India,,deferred
+254,Male,Full-time MBA,2020-10-12,37,12,China,Tunisia,declined_offer
+255,Male,Full-time MBA,2021-01-03,25,3,India,Georgia,enrolled
+256,Male,Full-time MBA,2024-01-29,39,14,India,,rejected
+257,Male,Full-time MBA,2022-07-08,30,7,India,,enrolled
+258,Male,Full-time MBA,2023-07-21,38,10,India,,enrolled
+259,Male,Full-time MBA,2021-04-22,29,6,Germany,,enrolled
+260,Female,Full-time MBA,2020-10-25,36,10,China,,declined_offer
+261,Male,Full-time MBA,2023-07-30,32,4,India,,rejected
+262,Male,Full-time MBA,2024-03-19,31,8,India,,on_hold
+263,Male,Full-time MBA,2023-05-26,26,6,India,,rejected
+264,Male,Full-time MBA,2023-12-03,27,7,Mexico,,deferred
+265,Female,Full-time MBA,2021-01-27,29,6,India,,rejected
+266,Female,Full-time MBA,2020-09-23,29,6,Germany,,enrolled
+267,Male,Full-time MBA,2021-10-21,27,2,India,,rejected
+268,Female,Full-time MBA,2022-06-30,30,4,India,,enrolled
+269,Male,Full-time MBA,2023-10-23,36,12,Egypt,,declined_offer
+270,Male,Full-time MBA,2022-04-23,29,2,China,,deferred
+271,Male,Full-time MBA,2021-12-22,27,4,India,,withdrawn
+272,Male,Full-time MBA,2021-03-21,28,2,Egypt,,enrolled
+273,Male,Full-time MBA,2023-03-30,38,16,United States,Bulgaria,enrolled
+274,Male,Full-time MBA,2024-03-18,29,7,India,,rejected
+275,Male,Full-time MBA,2022-07-13,27,6,United States,,rejected
+276,Male,Full-time MBA,2022-01-12,29,5,India,,rejected
+277,Male,Full-time MBA,2024-01-14,28,8,India,,withdrawn
+278,Female,Full-time MBA,2024-01-21,29,7,Nigeria,,rejected
+279,Male,Full-time MBA,2021-05-31,36,15,India,,rejected
+280,Male,Full-time MBA,2022-06-01,32,6,India,,withdrawn
+281,Male,Full-time MBA,2022-04-09,32,12,Turkey,,declined_offer
+282,Male,Full-time MBA,2021-09-19,35,9,India,,deferred
+283,Male,Full-time MBA,2023-01-22,28,8,India,,declined_offer
+284,Male,Full-time MBA,2024-01-14,35,11,India,,enrolled
+285,Male,Full-time MBA,2021-02-13,32,8,China,,rejected
+286,Male,Full-time MBA,2020-12-08,27,7,India,,rejected
+287,Female,Full-time MBA,2024-01-31,23,3,Turkey,,enrolled
+288,Male,Full-time MBA,2023-12-19,35,12,India,,rejected
+289,Male,Full-time MBA,2022-03-29,30,4,India,,rejected
+290,Male,Full-time MBA,2021-12-18,30,8,Portugal,,enrolled
+291,Male,Full-time MBA,2020-09-21,28,5,India,,rejected
+292,Male,Full-time MBA,2023-09-20,33,10,India,,enrolled
+293,Female,Full-time MBA,2023-02-24,36,11,India,,rejected
+294,Male,Full-time MBA,2021-10-28,26,5,United States,,enrolled
+295,Male,Full-time MBA,2021-10-06,33,11,India,,rejected
+296,Male,Full-time MBA,2021-12-22,30,9,Georgia,,rejected
+297,Male,Full-time MBA,2023-02-18,31,6,China,,withdrawn
+298,Male,Full-time MBA,2023-02-14,28,3,United States,,enrolled
+299,Female,Full-time MBA,2021-09-27,28,6,India,,enrolled
+300,Female,Full-time MBA,2021-11-17,37,10,India,,rejected
+301,Female,Full-time MBA,2022-02-03,26,4,India,,enrolled
+302,Female,Full-time MBA,2022-05-16,31,9,India,,withdrawn
+303,Male,Full-time MBA,2021-09-05,38,11,United States,,enrolled
+304,Male,Full-time MBA,2022-06-24,28,2,China,,declined_offer
+305,Female,Full-time MBA,2023-11-02,25,3,United States,,rejected
+306,Male,Full-time MBA,2023-12-20,33,11,Nigeria,Ukraine,declined_offer
+307,Male,Full-time MBA,2022-05-22,27,5,India,,rejected
+308,Male,Full-time MBA,2020-11-19,31,11,India,,on_hold
+309,Female,Full-time MBA,2020-11-24,27,5,India,,on_hold
+310,Female,Full-time MBA,2023-11-10,26,4,India,,rejected
+311,Female,Full-time MBA,2023-04-22,33,9,India,Poland,declined_offer
+312,Male,Full-time MBA,2021-08-06,38,11,United States,,enrolled
+313,Male,Full-time MBA,2021-11-02,26,4,India,,rejected
+314,Male,Full-time MBA,2023-01-17,30,10,India,,enrolled
+315,Female,Full-time MBA,2022-05-11,46,17,India,,declined_offer
+316,Male,Full-time MBA,2022-01-26,27,4,India,,enrolled
+317,Female,Full-time MBA,2022-06-25,31,8,United States,,enrolled
+318,Male,Full-time MBA,2024-03-07,31,8,China,,enrolled
+319,Female,Full-time MBA,2023-10-27,31,9,India,,rejected
+320,Male,Full-time MBA,2022-09-22,28,6,Germany,,enrolled
+321,Male,Full-time MBA,2023-04-11,29,8,India,,rejected
+322,Male,Full-time MBA,2024-03-18,25,3,India,,rejected
+323,Male,Full-time MBA,2020-11-03,27,3,China,,rejected
+324,Male,Full-time MBA,2021-04-01,34,6,India,,rejected
+325,Male,Full-time MBA,2022-10-30,27,5,Turkey,,enrolled
+326,Female,Full-time MBA,2021-11-12,27,5,India,,rejected
+327,Male,Full-time MBA,2022-01-08,31,6,India,,withdrawn
+328,Male,Full-time MBA,2021-11-10,30,6,Nigeria,,enrolled
+329,Male,Full-time MBA,2021-03-31,28,7,Kenya,,rejected
+330,Female,Full-time MBA,2020-11-30,28,4,India,,rejected
+331,Male,Full-time MBA,2020-09-21,34,7,India,,rejected
+332,Male,Full-time MBA,2023-05-05,28,3,India,,rejected
+333,Male,Full-time MBA,2023-03-25,27,3,China,,withdrawn
+334,Female,Full-time MBA,2021-12-27,34,11,India,,rejected
+335,Female,Full-time MBA,2023-03-15,30,6,Georgia,,enrolled
+336,Female,Full-time MBA,2022-01-12,30,7,India,,rejected
+337,Male,Full-time MBA,2022-12-19,25,3,United States,,enrolled
+338,Male,Full-time MBA,2020-09-16,37,8,United States,,enrolled
+339,Male,Full-time MBA,2023-01-03,26,4,India,,declined_offer
+340,Male,Full-time MBA,2020-11-16,35,6,India,United States,rejected
+341,Female,Full-time MBA,2024-01-13,35,10,India,,declined_offer
+342,Male,Full-time MBA,2021-04-15,28,6,India,,on_hold
+343,Male,Full-time MBA,2023-12-08,31,9,United States,,enrolled
+344,Male,Full-time MBA,2021-12-06,27,4,India,,rejected
+345,Male,Full-time MBA,2022-10-21,29,6,Turkey,,enrolled
+346,Male,Full-time MBA,2021-10-24,36,15,Philippines,,withdrawn
+347,Female,Full-time MBA,2022-08-18,32,8,Spain,,rejected
+348,Female,Full-time MBA,2020-12-25,34,13,China,,rejected
+349,Male,Full-time MBA,2023-06-11,34,5,France,,enrolled
+350,Female,Full-time MBA,2023-01-24,25,4,Pakistan,,declined_offer
+351,Female,Full-time MBA,2024-03-30,27,5,China,,rejected
+352,Male,Full-time MBA,2023-09-19,36,14,India,,rejected
+353,Male,Full-time MBA,2022-09-20,32,12,Ukraine,,enrolled
+354,Male,Full-time MBA,2022-10-14,24,1,India,,rejected
+355,Female,Full-time MBA,2023-04-28,29,9,Australia,,enrolled
+356,Male,Full-time MBA,2022-05-04,32,5,India,Netherlands,rejected
+357,Male,Full-time MBA,2023-08-10,29,5,Turkey,,declined_offer
+358,Female,Full-time MBA,2023-04-02,29,7,India,,declined_offer
+359,Female,Full-time MBA,2021-05-28,24,4,Nigeria,,withdrawn
+360,Male,Full-time MBA,2022-02-20,32,10,China,,withdrawn
+361,Male,Full-time MBA,2022-01-11,26,4,India,,enrolled
+362,Female,Full-time MBA,2022-06-30,29,3,Germany,,rejected
+363,Male,Full-time MBA,2021-01-16,34,13,Egypt,,enrolled
+364,Female,Full-time MBA,2023-10-04,25,3,India,,rejected
+365,Male,Full-time MBA,2020-09-16,32,8,United States,Croatia,rejected
+366,Male,Full-time MBA,2022-12-19,36,13,India,,withdrawn
+367,Male,Full-time MBA,2023-08-16,36,16,China,,enrolled
+368,Male,Full-time MBA,2020-09-13,31,5,France,,enrolled
+369,Male,Full-time MBA,2022-05-14,23,3,Canada,,declined_offer
+370,Male,Full-time MBA,2021-12-01,32,8,India,Chile,enrolled
+371,Female,Full-time MBA,2021-12-22,37,17,India,,rejected
+372,Male,Full-time MBA,2022-08-09,33,5,United States,,declined_offer
+373,Male,Full-time MBA,2022-04-07,33,11,India,,on_hold
+374,Male,Full-time MBA,2022-09-02,27,2,India,,declined_offer
+375,Male,Full-time MBA,2021-12-17,34,7,China,,withdrawn
+376,Male,Full-time MBA,2021-05-02,29,2,Pakistan,,enrolled
+377,Male,Full-time MBA,2023-09-26,25,3,India,,enrolled
+378,Male,Full-time MBA,2020-10-02,28,8,Sweden,,withdrawn
+379,Male,Full-time MBA,2022-08-23,28,3,India,,rejected
+380,Male,Full-time MBA,2024-03-24,28,8,Italy,,rejected
+381,Male,Full-time MBA,2021-06-06,33,9,China,,enrolled
+382,Male,Full-time MBA,2020-10-17,36,15,China,,enrolled
+383,Male,Full-time MBA,2023-07-31,27,5,Chile,,declined_offer
+384,Male,Full-time MBA,2022-08-02,26,5,India,,rejected
+385,Male,Full-time MBA,2023-08-04,38,18,India,,on_hold
+386,Male,Full-time MBA,2021-08-26,28,5,Nigeria,,enrolled
+387,Male,Full-time MBA,2023-06-03,34,10,Russian Federation,,withdrawn
+388,Male,Full-time MBA,2021-10-26,30,6,China,,enrolled
+389,Male,Full-time MBA,2022-04-04,37,11,United States,,declined_offer
+390,Female,Full-time MBA,2020-12-18,38,17,India,,declined_offer
+391,Male,Full-time MBA,2024-01-23,27,5,Russian Federation,,enrolled
+392,Male,Full-time MBA,2023-09-06,28,7,India,,declined_offer
+393,Female,Full-time MBA,2023-10-30,30,6,India,,declined_offer
+394,Female,Full-time MBA,2024-03-22,29,6,India,,rejected
+395,Female,Full-time MBA,2023-08-11,30,4,India,,rejected
+396,Male,Full-time MBA,2023-07-23,29,5,India,,rejected
+397,Male,Full-time MBA,2022-03-31,26,5,India,,withdrawn
+398,Male,Full-time MBA,2020-12-28,33,9,India,,rejected
+399,Male,Full-time MBA,2022-05-18,30,8,Chile,,declined_offer
+400,Male,Full-time MBA,2021-10-17,29,6,India,Ireland,on_hold
+401,Male,Full-time MBA,2022-04-07,40,16,France,,enrolled
+402,Female,Full-time MBA,2021-10-25,29,7,Mexico,,enrolled
+403,Male,Full-time MBA,2021-12-27,25,3,Nigeria,,declined_offer
+404,Female,Full-time MBA,2022-01-16,27,6,India,,enrolled
+405,Female,Full-time MBA,2020-12-27,30,6,Italy,,withdrawn
+406,Male,Full-time MBA,2022-04-26,27,7,India,,rejected
+407,Male,Full-time MBA,2021-09-19,32,8,India,,rejected
+408,Male,Full-time MBA,2021-01-20,26,4,China,,enrolled
+409,Male,Full-time MBA,2020-12-03,40,16,Canada,,enrolled
+410,Female,Full-time MBA,2023-08-19,26,3,India,,rejected
+411,Male,Full-time MBA,2023-05-18,33,4,India,,rejected
+412,Male,Full-time MBA,2020-12-06,26,5,India,,rejected
+413,Male,Full-time MBA,2021-08-18,30,6,India,,on_hold
+414,Male,Full-time MBA,2023-05-30,35,13,India,,rejected
+415,Male,Full-time MBA,2020-10-13,33,6,India,,rejected
+416,Male,Full-time MBA,2024-02-01,30,6,China,,rejected
+417,Male,Full-time MBA,2024-02-28,33,10,India,,rejected
+418,Male,Full-time MBA,2021-01-11,27,4,India,,rejected
+419,Male,Full-time MBA,2023-01-15,26,3,India,,declined_offer
+420,Male,Full-time MBA,2023-04-18,29,4,China,,declined_offer
+421,Male,Full-time MBA,2021-10-25,33,11,United States,,declined_offer
+422,Male,Full-time MBA,2023-11-04,25,4,Kenya,Ghana,enrolled
+423,Male,Full-time MBA,2022-09-21,29,4,United States,,declined_offer
+424,Non-binary,Full-time MBA,2023-04-09,33,5,China,,rejected
+425,Male,Full-time MBA,2022-07-18,45,20,Ghana,,withdrawn
+426,Male,Full-time MBA,2020-09-22,32,5,United States,,enrolled
+427,Female,Full-time MBA,2020-10-05,28,4,United Kingdom,,rejected
+428,Male,Full-time MBA,2022-04-18,41,19,India,,deferred
+429,Male,Full-time MBA,2021-12-23,31,9,Mexico,,declined_offer
+430,Female,Full-time MBA,2022-06-22,27,7,India,,rejected
+431,Female,Full-time MBA,2023-03-25,29,6,Nigeria,,rejected
+432,Male,Full-time MBA,2022-12-22,40,11,United States,,enrolled
+433,Male,Full-time MBA,2022-11-13,27,4,Egypt,,declined_offer
+434,Male,Full-time MBA,2021-10-04,29,5,Italy,,enrolled
+435,Male,Full-time MBA,2021-12-16,34,7,India,,rejected
+436,Male,Full-time MBA,2020-11-22,29,6,Ukraine,,enrolled
+437,Female,Full-time MBA,2022-06-08,34,14,Mexico,,declined_offer
+438,Female,Full-time MBA,2021-10-07,29,6,Russian Federation,,declined_offer
+439,Male,Full-time MBA,2020-11-08,36,9,India,,rejected
+440,Male,Full-time MBA,2020-09-22,32,6,Nigeria,Sweden,enrolled
+441,Male,Full-time MBA,2022-09-03,31,6,India,,rejected
+442,Female,Full-time MBA,2020-11-10,27,5,India,,rejected
+443,Male,Full-time MBA,2023-03-23,32,4,Spain,,rejected
+444,Male,Full-time MBA,2021-04-07,32,4,India,,rejected
+445,Male,Full-time MBA,2022-11-19,26,1,China,,rejected
+446,Male,Full-time MBA,2022-03-27,31,5,India,,rejected
+447,Female,Full-time MBA,2023-06-13,27,7,India,,rejected
+448,Male,Full-time MBA,2022-03-07,30,6,India,,withdrawn
+449,Male,Full-time MBA,2022-08-19,29,7,India,,on_hold
+450,Female,Full-time MBA,2024-03-13,28,7,United States,,rejected
+451,Male,Full-time MBA,2022-10-18,21,0,India,,rejected
+452,Male,Full-time MBA,2020-12-01,25,4,India,,declined_offer
+453,Male,Full-time MBA,2023-06-25,30,7,Turkey,,deferred
+454,Male,Full-time MBA,2020-12-12,33,6,Egypt,,rejected
+455,Female,Full-time MBA,2021-07-06,38,15,Peru,Japan,declined_offer
+456,Male,Full-time MBA,2023-06-23,33,11,Canada,,enrolled
+457,Male,Full-time MBA,2023-05-24,30,3,India,,rejected
+458,Male,Full-time MBA,2023-07-14,34,10,India,,rejected
+459,Male,Full-time MBA,2022-11-12,33,11,Nigeria,,enrolled
+460,Male,Full-time MBA,2021-04-19,34,13,United States,,rejected
+461,Female,Full-time MBA,2022-12-23,35,10,India,,rejected
+462,Female,Full-time MBA,2024-02-25,37,16,India,,withdrawn
+463,Male,Full-time MBA,2021-06-05,26,4,India,,rejected
+464,Male,Full-time MBA,2022-05-21,30,6,Germany,,declined_offer
+465,Male,Full-time MBA,2023-08-25,35,11,India,,rejected
+466,Female,Full-time MBA,2021-07-25,29,3,India,,withdrawn
+467,Female,Full-time MBA,2023-11-18,32,5,United States,,enrolled
+468,Male,Full-time MBA,2020-11-09,27,4,India,,deferred
+469,Male,Full-time MBA,2022-02-21,34,11,Czech Republic,,enrolled
+470,Female,Full-time MBA,2022-11-25,32,11,India,,rejected
+471,Male,Full-time MBA,2022-03-19,29,2,India,,rejected
+472,Male,Full-time MBA,2022-05-30,29,6,United States,,enrolled
+473,Male,Full-time MBA,2023-11-16,28,6,United States,,declined_offer
+474,Male,Full-time MBA,2021-05-01,29,6,India,,rejected
+475,Female,Full-time MBA,2021-06-14,33,12,United States,,enrolled
+476,Female,Full-time MBA,2020-12-13,27,5,India,,enrolled
+477,Male,Full-time MBA,2021-04-28,29,9,India,,withdrawn
+478,Female,Full-time MBA,2021-05-29,29,7,India,,enrolled
+479,Female,Full-time MBA,2021-06-17,27,2,Germany,,rejected
+480,Male,Full-time MBA,2022-02-27,28,4,India,,rejected
+481,Male,Full-time MBA,2022-04-23,29,7,India,,rejected
+482,Male,Full-time MBA,2023-10-07,32,4,India,,withdrawn
+483,Female,Full-time MBA,2023-01-14,32,12,Italy,,rejected
+484,Female,Full-time MBA,2021-12-02,31,7,Korea,,declined_offer
+485,Male,Full-time MBA,2020-12-09,39,16,India,,rejected
+486,Male,Full-time MBA,2022-10-09,28,5,United Kingdom,,withdrawn
+487,Female,Full-time MBA,2021-03-31,29,8,China,,declined_offer
+488,Male,Full-time MBA,2021-10-18,31,7,India,,rejected
+489,Male,Full-time MBA,2023-11-19,30,6,India,,enrolled
+490,Female,Full-time MBA,2022-11-13,33,12,France,,declined_offer
+491,Male,Full-time MBA,2023-02-16,31,5,India,,rejected
+492,Male,Full-time MBA,2022-01-25,31,9,India,,enrolled
+493,Female,Full-time MBA,2021-06-29,28,6,India,,rejected
+494,Male,Full-time MBA,2023-08-02,28,5,India,,rejected
+495,Male,Full-time MBA,2023-07-29,28,4,India,,on_hold
+496,Male,Full-time MBA,2023-12-25,23,1,Egypt,,enrolled
+497,Male,Full-time MBA,2021-11-24,29,6,United States,,enrolled
+498,Male,Full-time MBA,2024-01-21,34,10,Egypt,,enrolled
+499,Female,Full-time MBA,2022-09-08,31,5,India,,rejected
+500,Male,Full-time MBA,2022-01-24,29,6,India,,rejected
+501,Male,Full-time MBA,2022-05-29,30,10,Taiwan,,enrolled
+502,Male,Full-time MBA,2021-03-12,27,1,India,,withdrawn
+503,Male,Full-time MBA,2020-10-06,33,9,India,,rejected
+504,Female,Full-time MBA,2022-04-03,30,9,India,,declined_offer
+505,Male,Full-time MBA,2023-08-13,27,5,Iran,,declined_offer
+506,Female,Full-time MBA,2023-01-20,36,12,India,,declined_offer
+507,Male,Full-time MBA,2021-10-04,35,13,India,,rejected
+508,Female,Full-time MBA,2024-01-14,32,8,United States,,withdrawn
+509,Male,Full-time MBA,2021-09-16,27,4,Nigeria,,rejected
+510,Male,Full-time MBA,2023-03-21,24,2,India,,rejected
+511,Male,Full-time MBA,2021-04-25,34,8,Turkey,San Marino,declined_offer
+512,Male,Full-time MBA,2022-08-01,28,4,Hungary,,withdrawn
+513,Male,Full-time MBA,2022-09-20,30,7,India,,on_hold
+514,Male,Full-time MBA,2021-09-26,28,4,India,,rejected
+515,Male,Full-time MBA,2021-09-01,28,6,Canada,,enrolled
+516,Non-binary,Full-time MBA,2022-03-28,36,9,United Kingdom,,declined_offer
+517,Female,Full-time MBA,2022-05-07,32,12,United States,,declined_offer
+518,Male,Full-time MBA,2023-04-26,29,6,Germany,,withdrawn
+519,Male,Full-time MBA,2022-02-16,30,6,Peru,,rejected
+520,Male,Full-time MBA,2023-10-07,25,3,United States,,declined_offer
+521,Male,Full-time MBA,2022-07-10,30,8,Peru,,rejected
+522,Male,Full-time MBA,2023-11-12,27,2,Russian Federation,,enrolled
+523,Female,Full-time MBA,2022-03-01,28,5,Brazil,,enrolled
+524,Male,Full-time MBA,2021-10-31,25,4,Pakistan,,declined_offer
+525,Male,Full-time MBA,2023-03-21,36,12,India,,rejected
+526,Male,Full-time MBA,2022-10-26,36,12,Canada,,withdrawn
+527,Male,Full-time MBA,2022-05-03,28,3,Iran,,enrolled
+528,Male,Full-time MBA,2021-11-13,29,7,United States,,rejected
+529,Male,Full-time MBA,2021-02-07,38,13,United States,,enrolled
+530,Male,Full-time MBA,2023-05-25,29,9,India,,declined_offer
+531,Male,Full-time MBA,2023-09-21,41,15,India,,on_hold
+532,Female,Full-time MBA,2021-03-17,26,1,India,,declined_offer
+533,Male,Full-time MBA,2022-05-12,35,12,India,,declined_offer
+534,Male,Full-time MBA,2023-11-08,36,9,China,,rejected
+535,Male,Full-time MBA,2024-03-02,29,6,United States,,declined_offer
+536,Male,Full-time MBA,2023-10-05,39,14,India,,on_hold
+537,Female,Full-time MBA,2022-05-22,34,6,India,,rejected
+538,Male,Full-time MBA,2022-01-27,30,8,France,,enrolled
+539,Male,Full-time MBA,2022-07-06,31,8,Nigeria,,rejected
+540,Male,Full-time MBA,2022-06-05,32,5,China,,withdrawn
+541,Male,Full-time MBA,2021-04-21,34,10,India,,rejected
+542,Male,Full-time MBA,2022-02-01,45,16,Romania,,enrolled
+543,Male,Full-time MBA,2021-03-14,28,8,India,,rejected
+544,Female,Full-time MBA,2021-02-17,25,3,Portugal,,rejected
+545,Male,Full-time MBA,2020-11-10,30,6,Ghana,,enrolled
+546,Male,Full-time MBA,2021-05-19,26,4,Russian Federation,,rejected
+547,Male,Full-time MBA,2024-03-22,25,3,Pakistan,,rejected
+548,Female,Full-time MBA,2024-01-08,38,15,China,,enrolled
+549,Male,Full-time MBA,2021-06-07,33,8,India,,withdrawn
+550,Male,Full-time MBA,2021-12-02,32,8,China,,enrolled
+551,Male,Full-time MBA,2022-07-13,31,8,India,,rejected
+552,Male,Full-time MBA,2020-12-05,37,16,Taiwan,,declined_offer
+553,Male,Full-time MBA,2022-01-27,30,5,United Kingdom,,declined_offer
+554,Male,Full-time MBA,2022-02-07,34,13,India,,rejected
+555,Female,Full-time MBA,2023-03-06,24,2,Canada,,withdrawn
+556,Male,Full-time MBA,2021-08-27,29,4,India,,declined_offer
+557,Male,Full-time MBA,2021-11-01,26,5,India,,rejected
+558,Male,Full-time MBA,2021-09-01,37,8,China,,enrolled
+559,Male,Full-time MBA,2022-02-14,28,7,India,,declined_offer
+560,Male,Full-time MBA,2021-02-11,30,7,China,,rejected
+561,Male,Full-time MBA,2021-03-21,26,4,Egypt,,declined_offer
+562,Female,Full-time MBA,2022-10-29,27,5,India,Rwanda,enrolled
+563,Female,Full-time MBA,2023-02-20,26,5,India,,declined_offer
+564,Female,Full-time MBA,2020-10-08,30,6,India,,withdrawn
+565,Female,Full-time MBA,2023-02-20,30,7,India,,rejected
+566,Female,Full-time MBA,2020-12-03,32,8,India,,declined_offer
+567,Male,Full-time MBA,2022-09-06,24,2,United States,,declined_offer
+568,Male,Full-time MBA,2021-06-26,30,4,India,,rejected
+569,Male,Full-time MBA,2021-10-31,36,12,Egypt,,enrolled
+570,Non-binary,Full-time MBA,2023-10-15,33,11,Mexico,,withdrawn
+571,Male,Full-time MBA,2021-03-17,26,1,India,,withdrawn
+572,Female,Full-time MBA,2021-02-17,27,7,India,,rejected
+573,Female,Full-time MBA,2023-09-10,26,5,India,,rejected
+574,Male,Full-time MBA,2021-06-12,27,2,Russian Federation,,withdrawn
+575,Male,Full-time MBA,2023-10-28,32,9,Nigeria,,declined_offer
+576,Male,Full-time MBA,2022-08-27,26,2,India,,rejected
+577,Male,Full-time MBA,2020-09-08,26,4,India,,declined_offer
+578,Male,Full-time MBA,2023-11-30,34,11,India,,rejected
+579,Male,Full-time MBA,2024-01-04,34,10,India,,withdrawn
+580,Male,Full-time MBA,2022-11-16,29,9,India,,rejected
+581,Female,Full-time MBA,2021-06-10,30,8,Germany,,declined_offer
+582,Male,Full-time MBA,2021-11-20,25,3,India,,rejected
+583,Male,Full-time MBA,2021-05-03,28,6,India,,declined_offer
+584,Male,Full-time MBA,2022-11-17,28,5,Chile,Ghana,declined_offer
+585,Male,Full-time MBA,2023-10-14,29,8,Germany,,rejected
+586,Male,Full-time MBA,2021-12-23,28,6,India,,rejected
+587,Female,Full-time MBA,2023-05-16,30,6,Germany,,rejected
+588,Male,Full-time MBA,2022-05-31,27,2,Taiwan,,enrolled
+589,Male,Full-time MBA,2022-11-30,26,4,Peru,,declined_offer
+590,Male,Full-time MBA,2021-10-06,30,6,Ghana,,rejected
+591,Male,Full-time MBA,2023-12-19,31,8,Philippines,Romania,enrolled
+592,Female,Full-time MBA,2020-12-18,31,6,Taiwan,,enrolled
+593,Male,Full-time MBA,2021-04-28,30,3,India,,rejected
+594,Male,Full-time MBA,2022-09-28,31,11,Germany,,declined_offer
+595,Female,Full-time MBA,2023-08-12,31,8,India,,rejected
+596,Female,Full-time MBA,2021-11-11,37,16,Germany,,declined_offer
+597,Male,Full-time MBA,2022-09-07,28,4,United States,,enrolled
+598,Male,Full-time MBA,2021-11-20,29,6,Germany,,enrolled
+599,Female,Full-time MBA,2021-11-25,28,6,India,,withdrawn
+600,Male,Full-time MBA,2023-08-03,35,13,India,,on_hold
+601,Male,Full-time MBA,2022-12-20,27,2,Mexico,,rejected
+602,Female,Full-time MBA,2023-05-19,37,14,India,,rejected
+603,Male,Full-time MBA,2021-06-23,26,3,Canada,,withdrawn
+604,Male,Full-time MBA,2021-01-20,29,6,United States,,enrolled
+605,Female,Full-time MBA,2022-07-02,42,14,India,,declined_offer
+606,Female,Full-time MBA,2022-03-16,25,3,India,Serbia,withdrawn
+607,Female,Full-time MBA,2023-04-17,26,4,India,,deferred
+608,Female,Full-time MBA,2023-10-07,28,4,India,,rejected
+609,Female,Full-time MBA,2021-10-16,29,7,United States,,declined_offer
+610,Male,Full-time MBA,2021-04-24,36,15,China,,enrolled
+611,Male,Full-time MBA,2022-02-24,28,6,Germany,,enrolled
+612,Female,Full-time MBA,2021-11-05,32,5,India,,declined_offer
+613,Male,Full-time MBA,2021-04-30,25,3,China,,enrolled
+614,Female,Full-time MBA,2021-04-02,26,4,Georgia,,declined_offer
+615,Male,Full-time MBA,2023-12-17,38,11,India,,rejected
+616,Female,Full-time MBA,2021-03-07,25,3,Brazil,,enrolled
+617,Male,Full-time MBA,2020-11-12,34,5,India,Ireland,declined_offer
+618,Female,Full-time MBA,2022-01-10,31,7,United States,,rejected
+619,Male,Full-time MBA,2023-08-14,28,8,India,,declined_offer
+620,Female,Full-time MBA,2020-10-30,41,18,Russian Federation,,declined_offer
+621,Male,Full-time MBA,2021-09-22,29,5,India,Romania,rejected
+622,Male,Full-time MBA,2023-01-24,34,10,China,,rejected
+623,Male,Full-time MBA,2022-05-11,26,6,India,,enrolled
+624,Female,Full-time MBA,2022-02-05,32,5,India,,enrolled
+625,Male,Full-time MBA,2022-07-31,30,6,India,,rejected
+626,Male,Full-time MBA,2022-11-14,27,5,Germany,,declined_offer
+627,Male,Full-time MBA,2022-07-25,29,7,India,,rejected
+628,Male,Full-time MBA,2023-05-28,36,14,India,,rejected
+629,Male,Full-time MBA,2021-10-16,36,7,Nigeria,,enrolled
+630,Male,Full-time MBA,2024-01-31,34,14,India,,enrolled
+631,Male,Full-time MBA,2023-12-19,33,9,Peru,,declined_offer
+632,Male,Full-time MBA,2024-02-10,29,6,India,,rejected
+633,Male,Full-time MBA,2023-02-26,30,6,Colombia,,declined_offer
+634,Male,Full-time MBA,2020-12-28,26,6,India,,rejected
+635,Male,Full-time MBA,2022-08-13,26,4,China,,enrolled
+636,Female,Full-time MBA,2021-02-17,30,6,India,,withdrawn
+637,Female,Full-time MBA,2022-02-16,29,4,United States,,declined_offer
+638,Female,Full-time MBA,2022-09-07,28,5,United Kingdom,,enrolled
+639,Male,Full-time MBA,2023-09-07,25,3,India,Philippines,on_hold
+640,Male,Full-time MBA,2022-12-24,32,5,India,,enrolled
+641,Female,Full-time MBA,2021-03-15,30,9,India,,withdrawn
+642,Male,Full-time MBA,2021-03-28,28,4,China,,withdrawn
+643,Male,Full-time MBA,2022-12-28,28,7,India,,declined_offer
+644,Male,Full-time MBA,2023-06-15,31,7,China,,declined_offer
+645,Female,Full-time MBA,2021-10-10,32,9,United States,,withdrawn
+646,Male,Full-time MBA,2022-09-05,31,8,India,,on_hold
+647,Male,Full-time MBA,2023-10-07,28,2,India,,rejected
+648,Female,Full-time MBA,2022-10-19,28,5,India,,declined_offer
+649,Female,Full-time MBA,2021-10-25,25,4,Nigeria,,enrolled
+650,Male,Full-time MBA,2023-02-24,28,5,India,,deferred
+651,Male,Full-time MBA,2022-10-19,31,7,China,,withdrawn
+652,Female,Full-time MBA,2022-04-20,39,11,India,,rejected
+653,Male,Full-time MBA,2020-12-06,29,4,India,,enrolled
+654,Female,Full-time MBA,2021-11-22,28,5,India,Poland,declined_offer
+655,Male,Full-time MBA,2022-11-26,24,2,Russian Federation,,rejected
+656,Male,Full-time MBA,2021-06-30,27,4,Nigeria,,enrolled
+657,Male,Full-time MBA,2021-01-31,29,5,Georgia,,enrolled
+658,Male,Full-time MBA,2021-07-28,27,6,Brazil,,declined_offer
+659,Male,Full-time MBA,2022-01-30,35,15,United States,,declined_offer
+660,Male,Full-time MBA,2024-02-19,32,9,United States,Lebanon,withdrawn
+661,Male,Full-time MBA,2024-03-08,28,5,Mexico,,enrolled
+662,Female,Full-time MBA,2022-07-26,26,5,India,,declined_offer
+663,Male,Full-time MBA,2023-05-13,39,14,China,,enrolled
+664,Male,Full-time MBA,2021-08-23,28,3,Mexico,,declined_offer
+665,Male,Full-time MBA,2023-03-26,31,7,India,,rejected
+666,Male,Full-time MBA,2021-08-15,27,4,China,,rejected
+667,Male,Full-time MBA,2020-11-23,28,3,India,,rejected
+668,Male,Full-time MBA,2023-09-21,30,6,Canada,,declined_offer
+669,Male,Full-time MBA,2022-07-29,25,3,India,,rejected
+670,Male,Full-time MBA,2023-12-01,38,10,Hong Kong,,deferred
+671,Male,Full-time MBA,2023-03-28,26,3,United States,,enrolled
+672,Female,Full-time MBA,2021-05-12,33,10,Taiwan,,enrolled
+673,Male,Full-time MBA,2021-10-10,33,5,India,,withdrawn
+674,Male,Full-time MBA,2023-05-27,35,12,India,,declined_offer
+675,Male,Full-time MBA,2024-01-16,31,8,India,,on_hold
+676,Male,Full-time MBA,2024-02-27,37,8,China,,enrolled
+677,Male,Full-time MBA,2022-02-20,26,4,Russian Federation,,declined_offer
+678,Male,Full-time MBA,2023-10-09,25,3,Pakistan,,withdrawn
+679,Male,Full-time MBA,2021-04-30,34,12,Colombia,,enrolled
+680,Female,Full-time MBA,2023-07-03,36,13,India,,withdrawn
+681,Male,Full-time MBA,2023-06-28,30,5,India,,declined_offer
+682,Male,Full-time MBA,2021-12-15,33,9,Mexico,,enrolled
+683,Female,Full-time MBA,2021-06-02,36,14,Ghana,,enrolled
+684,Female,Full-time MBA,2022-04-07,29,5,Taiwan,,enrolled
+685,Male,Full-time MBA,2020-12-30,36,10,United States,,deferred
+686,Female,Full-time MBA,2021-05-01,34,13,United States,,enrolled
+687,Male,Full-time MBA,2023-08-31,30,9,China,,enrolled
+688,Female,Full-time MBA,2022-08-08,33,11,United Kingdom,Sweden,enrolled
+689,Male,Full-time MBA,2023-06-29,38,17,India,,enrolled
+690,Female,Full-time MBA,2021-12-12,31,5,Nigeria,,enrolled
+691,Female,Full-time MBA,2024-01-14,28,6,Brazil,,enrolled
+692,Male,Full-time MBA,2022-10-22,34,6,Ireland,,enrolled
+693,Female,Full-time MBA,2022-03-18,30,4,India,,rejected
+694,Male,Full-time MBA,2024-01-28,41,14,China,,declined_offer
+695,Male,Full-time MBA,2022-04-06,30,10,Nigeria,,declined_offer
+696,Male,Full-time MBA,2023-12-09,27,3,India,,withdrawn
+697,Male,Full-time MBA,2021-03-25,26,4,China,,enrolled
+698,Male,Full-time MBA,2021-08-06,31,3,United States,Tunisia,enrolled
+699,Male,Full-time MBA,2022-02-01,29,4,United States,Romania,enrolled
+700,Male,Full-time MBA,2021-05-11,36,12,India,,on_hold
+701,Male,Full-time MBA,2021-11-28,29,7,United States,,rejected
+702,Male,Full-time MBA,2021-03-18,34,6,Lebanon,Ukraine,enrolled
+703,Male,Full-time MBA,2022-01-29,28,4,United States,,enrolled
+704,Female,Full-time MBA,2021-08-04,31,11,Canada,,deferred
+705,Male,Full-time MBA,2022-12-18,26,6,Taiwan,,enrolled
+706,Male,Full-time MBA,2022-09-09,36,8,Nigeria,,enrolled
+707,Male,Full-time MBA,2023-07-31,30,4,Philippines,,deferred
+708,Male,Full-time MBA,2021-09-16,21,0,Russian Federation,,enrolled
+709,Male,Full-time MBA,2021-12-23,28,3,Brazil,,enrolled
+710,Male,Full-time MBA,2021-04-08,29,7,China,,declined_offer
+711,Male,Full-time MBA,2022-10-01,33,11,United States,,enrolled
+712,Male,Full-time MBA,2020-09-29,33,11,India,,on_hold
+713,Female,Full-time MBA,2023-01-26,27,5,India,,withdrawn
+714,Male,Full-time MBA,2021-04-06,28,4,Germany,,declined_offer
+715,Male,Full-time MBA,2023-03-26,28,5,Philippines,,on_hold
+716,Male,Full-time MBA,2024-01-04,36,12,China,,rejected
+717,Male,Full-time MBA,2023-12-16,33,5,United States,,rejected
+718,Male,Full-time MBA,2021-11-17,33,9,China,,declined_offer
+719,Male,Full-time MBA,2022-02-17,25,4,India,,rejected
+720,Male,Full-time MBA,2021-06-30,33,7,Romania,,deferred
+721,Male,Full-time MBA,2021-12-19,25,3,India,,declined_offer
+722,Female,Full-time MBA,2021-05-21,32,8,India,,rejected
+723,Female,Full-time MBA,2022-10-31,26,4,China,,withdrawn
+724,Female,Full-time MBA,2022-06-03,30,7,United States,,enrolled
+725,Female,Full-time MBA,2022-05-18,29,6,United States,,enrolled
+726,Female,Full-time MBA,2024-01-12,27,5,India,,withdrawn
+727,Male,Full-time MBA,2022-11-24,29,6,India,,rejected
+728,Male,Full-time MBA,2022-11-09,27,4,Korea,,enrolled
+729,Male,Full-time MBA,2024-01-19,28,4,Mexico,,declined_offer
+730,Female,Full-time MBA,2023-06-21,27,5,India,,rejected
+731,Male,Full-time MBA,2022-02-18,40,14,Ireland,,deferred
+732,Male,Full-time MBA,2023-06-16,33,6,India,,withdrawn
+733,Female,Full-time MBA,2021-03-06,38,16,India,,withdrawn
+734,Male,Full-time MBA,2021-07-02,28,5,Germany,,declined_offer
+735,Male,Full-time MBA,2021-04-25,26,5,India,,on_hold
+736,Male,Full-time MBA,2021-07-13,33,11,Italy,Poland,rejected
+737,Female,Full-time MBA,2021-09-16,34,10,India,,rejected
+738,Male,Full-time MBA,2023-10-06,32,5,China,,declined_offer
+739,Non-binary,Full-time MBA,2022-01-04,27,5,France,,declined_offer
+740,Female,Full-time MBA,2022-04-14,33,10,Spain,Egypt,declined_offer
+741,Female,Full-time MBA,2024-03-30,26,3,Turkey,,rejected
+742,Male,Full-time MBA,2023-11-26,28,6,India,,rejected
+743,Male,Full-time MBA,2023-09-25,33,11,Russian Federation,,enrolled
+744,Female,Full-time MBA,2023-01-24,28,5,India,,rejected
+745,Male,Full-time MBA,2021-08-25,29,7,India,,rejected
+746,Male,Full-time MBA,2021-06-05,27,1,Peru,,enrolled
+747,Male,Full-time MBA,2022-09-18,42,18,Kenya,Australia,enrolled
+748,Male,Full-time MBA,2022-06-02,36,10,India,,rejected
+749,Male,Full-time MBA,2023-09-26,30,8,Portugal,,deferred
+750,Male,Full-time MBA,2022-07-07,25,3,India,,withdrawn
+751,Female,Full-time MBA,2022-06-01,33,10,India,,rejected
+752,Male,Full-time MBA,2023-05-16,29,5,India,,rejected
+753,Female,Full-time MBA,2023-05-13,26,3,India,,withdrawn
+754,Male,Full-time MBA,2022-01-07,37,8,China,,rejected
+755,Male,Full-time MBA,2023-07-11,25,4,Nigeria,,rejected
+756,Male,Full-time MBA,2021-01-09,27,7,United States,,enrolled
+757,Male,Full-time MBA,2021-03-07,28,4,United States,,declined_offer
+758,Male,Full-time MBA,2021-02-05,28,7,China,,rejected
+759,Male,Full-time MBA,2021-01-02,35,11,India,,rejected
+760,Female,Full-time MBA,2023-07-20,25,3,Mexico,,declined_offer
+761,Male,Full-time MBA,2022-09-02,31,8,India,,enrolled
+762,Female,Full-time MBA,2020-12-28,28,4,India,,declined_offer
+763,Male,Full-time MBA,2021-07-23,26,5,Nigeria,,withdrawn
+764,Male,Full-time MBA,2022-10-08,31,4,Philippines,Poland,enrolled
+765,Male,Full-time MBA,2022-11-24,36,7,India,,rejected
+766,Male,Full-time MBA,2021-03-27,31,7,India,,declined_offer
+767,Male,Full-time MBA,2023-10-15,28,4,Nigeria,,withdrawn
+768,Male,Full-time MBA,2022-10-22,25,3,Nigeria,,withdrawn
+769,Female,Full-time MBA,2022-04-12,26,5,India,,declined_offer
+770,Male,Full-time MBA,2020-09-23,27,2,United States,Rwanda,enrolled
+771,Male,Full-time MBA,2022-12-20,36,9,United Kingdom,,rejected
+772,Male,Full-time MBA,2023-05-15,29,2,United States,,declined_offer
+773,Female,Full-time MBA,2020-09-16,36,10,Mexico,,rejected
+774,Male,Full-time MBA,2020-09-30,48,20,India,,enrolled
+775,Male,Full-time MBA,2023-09-05,30,6,China,,enrolled
+776,Male,Full-time MBA,2023-03-25,28,5,India,,enrolled
+777,Male,Full-time MBA,2021-12-31,28,7,India,,rejected

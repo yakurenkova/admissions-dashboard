@@ -1,0 +1,116 @@
+,gender,program,submitted_on,age_on_program_start,months_work_experience,nationality,other_nationality,applicant_state
+0,Female,Master in Business Analytics,2023-10-30,24,15,Italy,,enrolled
+1,Female,Master in Business Analytics,2023-12-13,23,10,Ukraine,,enrolled
+2,Female,Master in Business Analytics,2023-11-10,22,0,India,,on_hold
+3,Female,Master in Business Analytics,2024-03-23,24,7,China,Brazil,on_hold
+4,Male,Master in Business Analytics,2023-09-22,24,4,India,Hong Kong,rejected
+5,Male,Master in Business Analytics,2023-10-06,22,11,India,,deferred
+6,Male,Master in Business Analytics,2023-11-24,24,0,India,,withdrawn
+7,Female,Master in Business Analytics,2024-01-07,21,9,United States,,declined_offer
+8,Male,Master in Business Analytics,2023-10-24,23,0,India,,enrolled
+9,Female,Master in Business Analytics,2023-10-24,22,0,Russian Federation,,enrolled
+10,Female,Master in Business Analytics,2023-09-28,25,8,Germany,,withdrawn
+11,Male,Master in Business Analytics,2024-01-07,22,0,France,,enrolled
+12,Male,Master in Business Analytics,2024-01-23,22,0,India,Norway,withdrawn
+13,Female,Master in Business Analytics,2023-09-15,24,2,India,,enrolled
+14,Male,Master in Business Analytics,2024-03-10,24,10,Germany,,enrolled
+15,Male,Master in Business Analytics,2024-01-01,24,0,India,,withdrawn
+16,Male,Master in Business Analytics,2024-03-15,24,18,Russian Federation,Sweden,enrolled
+17,Female,Master in Business Analytics,2023-12-23,25,17,Taiwan,,enrolled
+18,Female,Master in Business Analytics,2023-10-09,23,0,India,,declined_offer
+19,Male,Master in Business Analytics,2023-09-24,23,0,China,,enrolled
+20,Male,Master in Business Analytics,2023-09-11,36,15,India,,deferred
+21,Female,Master in Business Analytics,2023-11-27,22,2,China,,withdrawn
+22,Female,Master in Business Analytics,2023-09-10,25,8,Germany,,on_hold
+23,Male,Master in Business Analytics,2024-02-18,24,17,Russian Federation,,rejected
+24,Female,Master in Business Analytics,2023-12-04,21,0,Spain,,declined_offer
+25,Male,Master in Business Analytics,2023-12-14,24,24,India,,rejected
+26,Female,Master in Business Analytics,2024-03-09,23,0,India,,rejected
+27,Female,Master in Business Analytics,2023-11-22,21,13,Taiwan,,enrolled
+28,Female,Master in Business Analytics,2023-09-23,25,11,India,,declined_offer
+29,Female,Master in Business Analytics,2023-10-01,22,0,India,,rejected
+30,Male,Master in Business Analytics,2023-12-09,22,0,Greece,,enrolled
+31,Male,Master in Business Analytics,2023-09-11,24,10,China,,on_hold
+32,Male,Master in Business Analytics,2023-11-15,22,0,India,,on_hold
+33,Male,Master in Business Analytics,2024-03-18,25,36,India,,enrolled
+34,Male,Master in Business Analytics,2023-11-16,26,11,Russian Federation,,declined_offer
+35,Female,Master in Business Analytics,2024-01-17,22,0,Venezuela,,on_hold
+36,Female,Master in Business Analytics,2024-02-18,23,8,China,,rejected
+37,Female,Master in Business Analytics,2024-02-03,24,17,Lebanon,,on_hold
+38,Male,Master in Business Analytics,2024-02-05,23,4,Norway,,declined_offer
+39,Male,Master in Business Analytics,2023-12-09,26,11,Germany,,rejected
+40,Male,Master in Business Analytics,2023-09-06,23,10,Germany,,declined_offer
+41,Female,Master in Business Analytics,2024-02-14,24,15,Venezuela,,enrolled
+42,Male,Master in Business Analytics,2024-03-27,24,11,China,,rejected
+43,Male,Master in Business Analytics,2024-02-11,24,6,Germany,,declined_offer
+44,Male,Master in Business Analytics,2024-02-06,24,8,Brazil,,enrolled
+45,Female,Master in Business Analytics,2023-11-17,22,0,France,,enrolled
+46,Male,Master in Business Analytics,2024-03-03,22,15,India,,on_hold
+47,Male,Master in Business Analytics,2024-03-24,29,4,India,,on_hold
+48,Female,Master in Business Analytics,2024-01-02,22,0,France,Italy,enrolled
+49,Female,Master in Business Analytics,2024-03-03,25,16,Taiwan,,enrolled
+50,Male,Master in Business Analytics,2023-12-27,24,21,Russian Federation,Bulgaria,rejected
+51,Male,Master in Business Analytics,2024-03-30,22,3,India,,on_hold
+52,Male,Master in Business Analytics,2024-01-29,22,0,India,,rejected
+53,Female,Master in Business Analytics,2023-10-23,24,6,India,,on_hold
+54,Female,Master in Business Analytics,2024-02-26,21,4,India,,rejected
+55,Female,Master in Business Analytics,2023-12-10,23,0,Italy,,rejected
+56,Male,Master in Business Analytics,2023-11-10,23,0,India,,enrolled
+57,Male,Master in Business Analytics,2024-01-11,22,21,India,,rejected
+58,Male,Master in Business Analytics,2023-09-08,22,0,Taiwan,,enrolled
+59,Male,Master in Business Analytics,2024-01-09,25,9,India,,enrolled
+60,Male,Master in Business Analytics,2023-10-20,22,17,Germany,,enrolled
+61,Female,Master in Business Analytics,2024-01-31,22,0,France,,declined_offer
+62,Male,Master in Business Analytics,2023-09-13,23,0,Egypt,,withdrawn
+63,Male,Master in Business Analytics,2023-11-08,23,0,Germany,Sweden,rejected
+64,Female,Master in Business Analytics,2023-11-25,23,8,Italy,,declined_offer
+65,Male,Master in Business Analytics,2024-02-08,22,0,Russian Federation,,declined_offer
+66,Male,Master in Business Analytics,2024-01-05,23,8,Germany,,declined_offer
+67,Male,Master in Business Analytics,2023-12-26,23,0,India,,rejected
+68,Male,Master in Business Analytics,2023-12-20,22,0,India,,deferred
+69,Female,Master in Business Analytics,2024-03-18,25,36,China,,rejected
+70,Male,Master in Business Analytics,2023-10-21,21,0,India,,rejected
+71,Female,Master in Business Analytics,2024-03-05,25,36,Korea,,declined_offer
+72,Female,Master in Business Analytics,2024-02-23,22,19,India,,withdrawn
+73,Female,Master in Business Analytics,2024-01-03,23,4,Italy,,rejected
+74,Female,Master in Business Analytics,2024-03-07,23,0,India,,withdrawn
+75,Female,Master in Business Analytics,2024-03-17,21,0,Taiwan,,enrolled
+76,Female,Master in Business Analytics,2023-12-14,24,4,Italy,,on_hold
+77,Male,Master in Business Analytics,2024-03-28,21,9,Romania,,rejected
+78,Male,Master in Business Analytics,2023-12-16,21,14,India,,declined_offer
+79,Male,Master in Business Analytics,2023-12-14,23,0,Germany,,enrolled
+80,Male,Master in Business Analytics,2023-09-09,25,14,Viet Nam,,declined_offer
+81,Female,Master in Business Analytics,2023-11-23,22,4,Portugal,Jordan,enrolled
+82,Male,Master in Business Analytics,2024-01-10,25,1,Germany,,declined_offer
+83,Male,Master in Business Analytics,2023-10-11,21,0,China,,rejected
+84,Female,Master in Business Analytics,2024-01-04,22,0,India,,rejected
+85,Female,Master in Business Analytics,2024-03-13,22,0,India,,on_hold
+86,Female,Master in Business Analytics,2024-01-06,22,0,China,,declined_offer
+87,Male,Master in Business Analytics,2024-02-18,23,12,Germany,,enrolled
+88,Male,Master in Business Analytics,2024-02-26,24,9,Russian Federation,Korea,enrolled
+89,Female,Master in Business Analytics,2024-03-29,24,3,India,,rejected
+90,Male,Master in Business Analytics,2024-02-23,22,0,Germany,,rejected
+91,Female,Master in Business Analytics,2024-01-16,22,0,China,,rejected
+92,Female,Master in Business Analytics,2024-03-16,22,7,India,,rejected
+93,Female,Master in Business Analytics,2023-10-13,34,0,India,,withdrawn
+94,Male,Master in Business Analytics,2023-10-25,31,5,Mexico,,enrolled
+95,Male,Master in Business Analytics,2023-12-02,25,0,India,,rejected
+96,Female,Master in Business Analytics,2024-02-12,26,5,China,,enrolled
+97,Female,Master in Business Analytics,2024-02-01,22,0,Russian Federation,,enrolled
+98,Male,Master in Business Analytics,2024-03-24,22,7,China,,rejected
+99,Female,Master in Business Analytics,2023-09-17,21,8,Turkey,,declined_offer
+100,Male,Master in Business Analytics,2024-02-18,26,7,India,,rejected
+101,Female,Master in Business Analytics,2024-01-04,22,0,India,,on_hold
+102,Female,Master in Business Analytics,2024-01-15,22,0,India,,on_hold
+103,Male,Master in Business Analytics,2023-12-18,23,2,Brazil,Greece,enrolled
+104,Female,Master in Business Analytics,2024-03-07,25,10,China,,declined_offer
+105,Female,Master in Business Analytics,2023-10-04,22,23,China,,deferred
+106,Female,Master in Business Analytics,2024-02-26,24,10,India,,enrolled
+107,Female,Master in Business Analytics,2024-03-19,21,0,India,,enrolled
+108,Female,Master in Business Analytics,2024-03-07,22,0,Netherlands,,enrolled
+109,Male,Master in Business Analytics,2024-01-01,24,6,Russian Federation,,enrolled
+110,Male,Master in Business Analytics,2023-09-04,24,0,Norway,,rejected
+111,Female,Master in Business Analytics,2023-09-16,21,0,Taiwan,,declined_offer
+112,Female,Master in Business Analytics,2024-03-21,22,0,Germany,,enrolled
+113,Male,Master in Business Analytics,2023-10-17,31,4,India,,rejected
+114,Male,Master in Business Analytics,2024-02-18,21,0,India,,rejected
