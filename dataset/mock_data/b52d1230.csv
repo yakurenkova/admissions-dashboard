@@ -1,988 +1,988 @@
 ,gender,program,submitted_on,age_on_program_start,years_work_experience,nationality,other_nationality,applicant_state
-0,Male,Online MBA,2022-03-23,30,7,Portugal,,declined_offer
-1,Male,Part-time MBA,2021-01-17,27,5,Italy,,enrolled
-2,Female,Online MBA,2023-03-16,37,14,Taiwan,,enrolled
-3,Female,Online MBA,2022-06-16,32,2,Taiwan,,rejected
-4,Male,Online MBA,2023-12-05,44,12,Pakistan,,deferred
-5,Male,Online MBA,2022-06-28,36,14,India,,enrolled
-6,Female,Executive MBA,2023-04-27,32,6,China,,enrolled
-7,Male,Online MBA,2023-07-05,29,5,China,,enrolled
-8,Female,Part-time MBA,2023-08-20,30,4,Ghana,,declined_offer
-9,Male,Executive MBA,2023-06-15,42,17,Iran,,enrolled
-10,Male,Part-time MBA,2024-03-26,35,9,India,,enrolled
-11,Female,Executive MBA,2021-01-08,36,10,Germany,,enrolled
-12,Female,Executive MBA,2022-03-21,35,9,Egypt,,enrolled
-13,Female,Online MBA,2023-11-24,31,3,Germany,,enrolled
-14,Female,Online MBA,2021-02-01,30,2,India,,withdrawn
-15,Female,Online MBA,2021-04-05,40,14,France,,declined_offer
-16,Male,Part-time MBA,2023-01-14,41,12,Iran,,enrolled
-17,Female,Online MBA,2024-01-06,41,10,France,,enrolled
-18,Male,Executive MBA,2023-04-06,34,8,Russian Federation,,rejected
-19,Male,Executive MBA,2021-01-08,38,11,Poland,,declined_offer
-20,Male,Online MBA,2022-09-25,33,8,Germany,,enrolled
-21,Female,Online MBA,2023-09-10,34,10,Italy,,enrolled
-22,Male,Online MBA,2023-10-02,32,8,India,,enrolled
-23,Female,Online MBA,2020-10-12,31,7,Germany,,enrolled
-24,Male,Executive MBA,2020-10-06,31,2,Brazil,,on_hold
-25,Male,Online MBA,2023-11-03,49,16,Germany,,declined_offer
-26,Male,Part-time MBA,2022-07-14,40,18,Russian Federation,,enrolled
-27,Male,Part-time MBA,2023-09-18,42,17,Russian Federation,,enrolled
-28,Female,Part-time MBA,2023-01-03,39,15,India,,on_hold
-29,Male,Executive MBA,2021-04-30,39,19,Russian Federation,,enrolled
-30,Male,Online MBA,2023-03-08,38,15,Germany,,enrolled
-31,Female,Online MBA,2022-02-25,32,4,China,,enrolled
-32,Male,Online MBA,2021-03-05,37,16,Russian Federation,,withdrawn
-33,Female,Part-time MBA,2024-03-03,31,2,China,,enrolled
-34,Male,Executive MBA,2023-02-13,39,12,Russian Federation,,enrolled
-35,Male,Online MBA,2023-05-04,31,3,Switzerland,,enrolled
-36,Male,Online MBA,2023-09-19,37,15,Russian Federation,,enrolled
-37,Male,Online MBA,2022-08-28,31,9,Norway,,enrolled
-38,Female,Online MBA,2021-04-14,31,2,Hong Kong,,enrolled
-39,Male,Part-time MBA,2023-07-13,35,11,India,,withdrawn
-40,Male,Part-time MBA,2021-04-09,34,9,Russian Federation,,declined_offer
-41,Male,Online MBA,2021-05-18,34,13,Finland,,enrolled
-42,Female,Online MBA,2020-11-28,32,4,China,,withdrawn
-43,Male,Online MBA,2021-12-01,31,7,Taiwan,,enrolled
-44,Female,Online MBA,2020-10-17,35,5,Germany,,withdrawn
-45,Female,Executive MBA,2023-06-02,38,14,China,,enrolled
-46,Male,Online MBA,2020-11-17,36,9,India,,rejected
-47,Female,Online MBA,2023-06-05,35,12,Germany,,withdrawn
-48,Male,Online MBA,2021-01-14,25,5,Germany,,enrolled
-49,Male,Part-time MBA,2021-03-22,40,17,India,,enrolled
-50,Male,Online MBA,2022-02-13,49,20,India,,declined_offer
-51,Female,Part-time MBA,2021-04-10,40,11,India,,declined_offer
-52,Male,Executive MBA,2022-12-28,33,8,Germany,,enrolled
-53,Male,Part-time MBA,2022-09-12,37,15,Greece,,declined_offer
-54,Male,Online MBA,2023-02-03,41,19,Romania,,deferred
-55,Male,Executive MBA,2022-02-12,26,5,Taiwan,,enrolled
-56,Male,Online MBA,2023-09-08,29,5,Russian Federation,,enrolled
-57,Male,Online MBA,2023-05-30,37,13,Norway,,enrolled
-58,Male,Part-time MBA,2022-07-20,32,10,France,,enrolled
-59,Female,Online MBA,2022-07-25,38,13,Korea,,enrolled
-60,Male,Executive MBA,2021-11-07,34,12,Netherlands,,withdrawn
-61,Male,Part-time MBA,2022-05-07,27,4,Sweden,,enrolled
-62,Female,Part-time MBA,2020-11-29,33,13,Italy,,enrolled
-63,Female,Online MBA,2021-11-04,40,19,Ukraine,,enrolled
-64,Male,Part-time MBA,2020-11-29,37,17,United States,,enrolled
-65,Male,Online MBA,2023-11-04,39,19,United States,,deferred
-66,Female,Online MBA,2021-04-28,42,20,India,Spain,declined_offer
-67,Male,Online MBA,2023-06-28,32,8,India,,declined_offer
-68,Male,Online MBA,2022-08-10,32,9,Venezuela,,enrolled
-69,Female,Online MBA,2021-07-23,42,20,Spain,,enrolled
-70,Male,Executive MBA,2024-02-18,39,15,India,,rejected
-71,Male,Online MBA,2020-10-19,33,11,Russian Federation,,enrolled
-72,Male,Executive MBA,2020-11-23,33,11,India,,enrolled
-73,Male,Online MBA,2021-06-24,41,19,Germany,,enrolled
-74,Male,Part-time MBA,2022-02-20,35,8,India,,enrolled
-75,Female,Online MBA,2020-12-03,32,5,Ukraine,,enrolled
-76,Male,Online MBA,2021-02-04,22,1,China,,enrolled
-77,Male,Part-time MBA,2023-09-30,38,8,Russian Federation,Georgia,declined_offer
-78,Male,Part-time MBA,2023-07-27,34,3,India,,enrolled
-79,Female,Executive MBA,2022-03-29,38,10,Greece,,withdrawn
-80,Male,Online MBA,2020-10-30,31,8,Poland,Ireland,enrolled
-81,Female,Online MBA,2022-02-23,31,3,Belarus,,enrolled
-82,Male,Online MBA,2021-04-10,28,7,Mexico,,enrolled
-83,Male,Executive MBA,2021-03-20,34,14,Germany,,withdrawn
-84,Female,Executive MBA,2022-12-23,32,9,China,,declined_offer
-85,Male,Online MBA,2023-06-02,41,13,Germany,,rejected
-86,Female,Executive MBA,2020-12-21,31,7,China,,enrolled
-87,Female,Online MBA,2021-12-03,32,2,Italy,,enrolled
-88,Female,Online MBA,2023-08-23,24,1,Italy,Croatia,enrolled
-89,Male,Part-time MBA,2021-05-01,28,5,Russian Federation,,enrolled
-90,Female,Executive MBA,2021-04-09,39,17,China,,enrolled
-91,Male,Executive MBA,2020-10-27,36,16,Germany,,enrolled
-92,Male,Online MBA,2020-11-23,32,8,Romania,,enrolled
-93,Female,Online MBA,2022-10-30,32,8,China,,enrolled
-94,Male,Part-time MBA,2021-06-27,34,5,China,,rejected
-95,Male,Executive MBA,2023-05-20,36,12,China,,enrolled
-96,Male,Part-time MBA,2022-06-23,35,16,Germany,,enrolled
-97,Male,Executive MBA,2021-09-14,40,17,Germany,,enrolled
-98,Male,Part-time MBA,2023-04-02,33,8,France,,rejected
-99,Female,Executive MBA,2021-08-21,37,10,China,,enrolled
-100,Male,Online MBA,2021-02-17,33,10,Mexico,,rejected
-101,Male,Online MBA,2023-11-02,36,5,Germany,,enrolled
-102,Female,Online MBA,2024-03-25,27,7,Mexico,,enrolled
-103,Female,Online MBA,2022-08-02,28,4,Germany,Nigeria,enrolled
-104,Male,Executive MBA,2023-08-08,42,20,United States,,declined_offer
-105,Female,Online MBA,2021-07-05,28,6,Mexico,,rejected
-106,Male,Online MBA,2024-02-25,37,13,India,,withdrawn
-107,Female,Part-time MBA,2022-05-22,39,19,Taiwan,,enrolled
-108,Male,Online MBA,2022-08-24,36,12,Sweden,,rejected
-109,Male,Executive MBA,2023-08-27,47,20,Switzerland,,enrolled
-110,Male,Online MBA,2022-04-26,49,20,Russian Federation,,withdrawn
-111,Male,Part-time MBA,2023-10-21,35,16,Hungary,,withdrawn
-112,Male,Online MBA,2022-06-28,37,15,Spain,,rejected
-113,Female,Part-time MBA,2022-03-22,30,6,Serbia,,enrolled
-114,Male,Executive MBA,2021-08-14,39,17,Germany,,withdrawn
-115,Male,Executive MBA,2023-11-24,36,11,Russian Federation,,enrolled
-116,Female,Executive MBA,2023-04-11,48,17,China,,deferred
-117,Male,Online MBA,2022-11-05,34,8,United States,,enrolled
-118,Female,Executive MBA,2023-02-02,35,15,China,,withdrawn
-119,Female,Online MBA,2021-02-07,38,15,Germany,,enrolled
-120,Male,Online MBA,2021-03-16,36,15,China,,enrolled
-121,Female,Online MBA,2023-03-05,33,8,India,,withdrawn
-122,Female,Executive MBA,2023-05-28,44,13,Greece,,on_hold
-123,Female,Online MBA,2023-11-08,34,5,China,Belarus,enrolled
-124,Female,Part-time MBA,2022-04-20,27,4,Switzerland,Morocco,declined_offer
-125,Male,Part-time MBA,2021-03-21,35,16,Russian Federation,,declined_offer
-126,Male,Executive MBA,2022-12-02,41,19,Ireland,,withdrawn
-127,Female,Online MBA,2022-12-16,37,13,Serbia,,withdrawn
-128,Male,Executive MBA,2022-06-20,41,17,Turkey,Netherlands,enrolled
-129,Male,Part-time MBA,2022-01-22,30,8,Turkey,,declined_offer
-130,Female,Online MBA,2021-01-22,46,18,China,,enrolled
-131,Female,Online MBA,2022-08-02,39,17,China,,declined_offer
-132,Male,Part-time MBA,2021-08-03,25,3,China,,enrolled
-133,Male,Executive MBA,2021-09-08,41,15,Germany,,enrolled
-134,Male,Executive MBA,2023-04-07,39,16,Pakistan,,enrolled
-135,Male,Online MBA,2021-02-11,41,12,Germany,,enrolled
-136,Male,Executive MBA,2024-03-17,35,13,Venezuela,,enrolled
-137,Male,Online MBA,2023-10-17,38,19,Turkey,,enrolled
-138,Female,Executive MBA,2022-10-31,41,15,Italy,,rejected
-139,Male,Online MBA,2022-03-30,31,2,Mexico,Iran,enrolled
-140,Female,Part-time MBA,2021-07-28,26,3,Greece,,enrolled
-141,Female,Online MBA,2022-04-15,36,8,China,,declined_offer
-142,Male,Online MBA,2024-02-28,42,20,Russian Federation,,rejected
-143,Male,Online MBA,2021-08-05,37,16,Russian Federation,,rejected
-144,Female,Executive MBA,2022-10-23,39,14,China,,enrolled
-145,Male,Executive MBA,2022-12-31,42,17,Germany,,enrolled
-146,Male,Online MBA,2023-08-06,34,11,Germany,,enrolled
-147,Male,Executive MBA,2023-05-07,41,10,Russian Federation,,declined_offer
-148,Male,Part-time MBA,2021-12-17,38,18,Germany,,enrolled
-149,Male,Online MBA,2022-01-04,30,3,Belarus,Colombia,declined_offer
-150,Female,Online MBA,2023-07-21,37,14,Taiwan,,enrolled
-151,Male,Online MBA,2022-01-25,40,17,Russian Federation,,enrolled
-152,Male,Part-time MBA,2021-04-17,32,8,Russian Federation,,declined_offer
-153,Male,Executive MBA,2021-07-15,28,3,Russian Federation,Lebanon,enrolled
-154,Female,Online MBA,2023-05-01,37,10,China,,enrolled
-155,Male,Executive MBA,2021-02-22,37,14,United States,,withdrawn
-156,Female,Executive MBA,2020-10-26,46,14,United States,China,enrolled
-157,Male,Executive MBA,2021-05-13,36,14,Russian Federation,,enrolled
-158,Male,Online MBA,2022-07-04,29,8,China,,enrolled
-159,Male,Part-time MBA,2023-01-13,31,5,Russian Federation,,enrolled
-160,Female,Part-time MBA,2022-02-19,30,5,Germany,,withdrawn
-161,Male,Executive MBA,2021-01-02,36,5,Russian Federation,,enrolled
-162,Male,Part-time MBA,2021-08-21,47,14,Germany,,declined_offer
-163,Female,Executive MBA,2021-07-13,42,15,Colombia,Australia,enrolled
-164,Male,Online MBA,2023-11-10,37,10,Germany,,enrolled
-165,Female,Online MBA,2023-03-08,31,8,China,,declined_offer
-166,Female,Part-time MBA,2022-01-16,40,13,China,,enrolled
-167,Male,Online MBA,2022-06-17,32,13,India,Ukraine,rejected
-168,Male,Executive MBA,2021-02-16,44,17,Russian Federation,,declined_offer
-169,Male,Online MBA,2022-01-12,25,2,India,,rejected
-170,Male,Online MBA,2023-12-06,38,15,India,,enrolled
-171,Female,Online MBA,2020-10-15,44,12,Morocco,,enrolled
-172,Male,Part-time MBA,2022-03-14,30,8,Ireland,Hong Kong,enrolled
-173,Female,Online MBA,2022-12-01,48,18,Taiwan,Sweden,enrolled
-174,Male,Online MBA,2022-06-11,26,4,Russian Federation,,enrolled
-175,Male,Executive MBA,2024-03-13,36,12,Russian Federation,,rejected
-176,Female,Executive MBA,2024-03-19,45,19,India,,rejected
-177,Male,Executive MBA,2023-11-22,25,4,Mexico,,enrolled
-178,Male,Executive MBA,2021-03-28,36,6,Egypt,Canada,on_hold
-179,Male,Online MBA,2024-01-29,40,16,Russian Federation,,enrolled
-180,Male,Part-time MBA,2022-10-02,34,8,India,,rejected
-181,Male,Executive MBA,2021-07-13,48,15,Ghana,,rejected
-182,Male,Part-time MBA,2022-10-16,44,14,Germany,,rejected
-183,Male,Online MBA,2021-10-17,33,8,Germany,,withdrawn
-184,Male,Online MBA,2021-10-23,32,5,India,,rejected
-185,Male,Online MBA,2021-09-26,32,5,China,,enrolled
-186,Male,Online MBA,2021-08-20,27,5,Russian Federation,,declined_offer
-187,Female,Part-time MBA,2021-10-09,34,10,China,,enrolled
-188,Male,Part-time MBA,2022-10-25,36,10,Ireland,,rejected
-189,Male,Online MBA,2024-03-18,40,14,Russian Federation,,on_hold
-190,Male,Online MBA,2024-03-21,30,4,China,,enrolled
-191,Male,Executive MBA,2022-01-24,27,5,Germany,,enrolled
-192,Male,Online MBA,2023-03-24,40,17,United States,,enrolled
-193,Female,Executive MBA,2020-11-24,33,9,China,,rejected
-194,Male,Online MBA,2022-02-17,33,8,Germany,,enrolled
-195,Male,Executive MBA,2023-01-27,33,9,United States,Morocco,on_hold
-196,Male,Part-time MBA,2020-12-01,34,4,Viet Nam,,rejected
-197,Female,Online MBA,2021-11-27,32,7,Taiwan,,declined_offer
-198,Male,Executive MBA,2021-03-12,35,5,Sweden,Egypt,enrolled
-199,Female,Part-time MBA,2023-03-23,33,10,Taiwan,,enrolled
-200,Male,Part-time MBA,2020-11-26,28,5,Germany,,enrolled
-201,Male,Online MBA,2023-07-07,41,19,Poland,,enrolled
-202,Male,Executive MBA,2022-10-12,38,11,Russian Federation,,enrolled
-203,Female,Executive MBA,2020-12-04,28,6,India,,deferred
-204,Male,Online MBA,2021-01-15,34,10,Germany,,withdrawn
-205,Male,Online MBA,2021-11-02,44,13,Portugal,,enrolled
-206,Male,Executive MBA,2023-08-07,36,13,Switzerland,,enrolled
-207,Female,Part-time MBA,2022-05-13,27,4,United States,,enrolled
-208,Male,Online MBA,2021-11-19,31,11,Germany,,enrolled
-209,Female,Part-time MBA,2023-06-08,36,9,Germany,,enrolled
-210,Female,Online MBA,2023-06-16,34,15,Germany,Ukraine,withdrawn
-211,Male,Online MBA,2022-03-05,37,12,Russian Federation,,enrolled
-212,Male,Executive MBA,2022-08-24,32,7,Spain,,declined_offer
-213,Female,Online MBA,2021-04-28,45,17,Italy,,declined_offer
-214,Male,Executive MBA,2023-07-05,44,15,Germany,,enrolled
-215,Male,Online MBA,2024-02-17,31,10,China,,on_hold
-216,Female,Executive MBA,2021-03-17,46,20,United Kingdom,,declined_offer
-217,Male,Online MBA,2020-12-02,36,16,Germany,,enrolled
-218,Male,Online MBA,2021-03-17,39,9,Russian Federation,,enrolled
-219,Male,Online MBA,2021-09-12,37,10,Germany,,enrolled
-220,Female,Part-time MBA,2022-08-06,32,5,Italy,,enrolled
-221,Male,Online MBA,2022-11-13,33,9,China,,declined_offer
-222,Female,Online MBA,2021-09-14,32,8,Portugal,,enrolled
-223,Male,Online MBA,2023-08-31,45,20,India,,on_hold
-224,Male,Executive MBA,2023-03-21,43,12,Germany,,enrolled
-225,Male,Part-time MBA,2023-05-04,26,6,Germany,,enrolled
-226,Male,Online MBA,2021-08-17,36,14,Croatia,,withdrawn
-227,Male,Executive MBA,2023-08-14,31,7,United States,,deferred
-228,Female,Online MBA,2021-07-19,36,12,China,,withdrawn
-229,Male,Executive MBA,2024-02-26,30,2,Germany,United States,enrolled
-230,Male,Executive MBA,2021-05-22,40,19,China,,enrolled
-231,Male,Executive MBA,2023-01-07,37,15,Russian Federation,,rejected
-232,Male,Executive MBA,2023-03-20,27,5,Russian Federation,,enrolled
-233,Male,Executive MBA,2022-06-01,43,19,Switzerland,,declined_offer
-234,Male,Online MBA,2022-02-23,38,10,Germany,Chile,rejected
-235,Male,Online MBA,2022-11-01,33,10,Switzerland,,enrolled
-236,Female,Online MBA,2021-10-04,34,10,China,,rejected
-237,Male,Online MBA,2021-04-14,45,14,Greece,,withdrawn
-238,Female,Online MBA,2020-11-06,32,7,China,,enrolled
-239,Female,Online MBA,2022-10-18,34,12,Germany,,enrolled
-240,Female,Online MBA,2023-05-02,36,14,China,,enrolled
-241,Male,Online MBA,2023-11-29,32,9,China,,enrolled
-242,Female,Online MBA,2024-03-11,37,13,China,,enrolled
-243,Male,Executive MBA,2023-08-03,38,10,Russian Federation,,rejected
-244,Male,Executive MBA,2023-07-25,35,14,Turkey,,deferred
-245,Male,Executive MBA,2020-12-04,38,10,China,,enrolled
-246,Male,Executive MBA,2020-10-14,38,8,Russian Federation,,enrolled
-247,Female,Online MBA,2021-07-28,30,11,China,Mexico,enrolled
-248,Male,Part-time MBA,2022-09-22,35,11,Russian Federation,,enrolled
-249,Female,Executive MBA,2021-07-18,24,4,United States,,enrolled
-250,Male,Online MBA,2023-05-09,34,4,Russian Federation,,enrolled
-251,Male,Executive MBA,2024-03-01,43,11,Turkey,,enrolled
-252,Male,Online MBA,2021-04-29,28,5,Germany,,enrolled
-253,Male,Part-time MBA,2022-10-19,31,11,Serbia,Colombia,on_hold
-254,Female,Online MBA,2022-03-31,27,2,China,,withdrawn
-255,Male,Online MBA,2022-06-02,49,20,Russian Federation,,declined_offer
-256,Female,Online MBA,2023-05-11,44,19,Lebanon,,enrolled
-257,Male,Online MBA,2023-08-13,42,13,India,Tunisia,enrolled
-258,Male,Online MBA,2021-10-24,35,10,Russian Federation,,withdrawn
-259,Male,Online MBA,2022-05-30,32,10,Germany,,enrolled
-260,Male,Part-time MBA,2022-08-29,35,8,China,,enrolled
-261,Male,Online MBA,2022-01-04,32,13,Russian Federation,,withdrawn
-262,Male,Online MBA,2022-09-26,35,16,Portugal,Taiwan,enrolled
-263,Female,Part-time MBA,2023-01-25,29,9,Italy,,rejected
-264,Female,Executive MBA,2021-07-02,32,2,Belarus,,enrolled
-265,Male,Part-time MBA,2022-12-20,28,6,India,,on_hold
-266,Male,Online MBA,2020-11-10,49,18,India,,enrolled
-267,Female,Online MBA,2023-03-17,34,8,India,,enrolled
-268,Female,Executive MBA,2023-01-28,50,20,Taiwan,,enrolled
-269,Male,Executive MBA,2022-09-08,31,5,Russian Federation,,enrolled
-270,Male,Online MBA,2021-07-19,26,6,Romania,,declined_offer
-271,Female,Online MBA,2023-09-25,41,17,Hong Kong,,enrolled
-272,Female,Online MBA,2022-10-31,28,5,China,,enrolled
-273,Male,Online MBA,2023-08-16,36,11,Russian Federation,,enrolled
-274,Male,Executive MBA,2022-06-27,23,3,Hungary,,deferred
-275,Female,Online MBA,2022-12-26,36,17,Ukraine,,enrolled
-276,Male,Part-time MBA,2023-01-15,30,9,Germany,,enrolled
-277,Male,Executive MBA,2021-02-27,46,12,Russian Federation,,enrolled
-278,Male,Part-time MBA,2023-04-10,28,5,Germany,,enrolled
-279,Male,Online MBA,2022-02-23,37,15,Romania,Ghana,declined_offer
-280,Female,Executive MBA,2022-01-07,36,13,China,,enrolled
-281,Male,Part-time MBA,2021-12-30,37,15,Russian Federation,,enrolled
-282,Female,Executive MBA,2021-07-25,40,9,Iran,,declined_offer
-283,Female,Online MBA,2022-01-23,36,10,Germany,,rejected
-284,Female,Part-time MBA,2021-02-04,35,15,China,,enrolled
-285,Male,Online MBA,2022-01-09,44,19,India,,withdrawn
-286,Male,Online MBA,2022-07-19,30,7,Russian Federation,,withdrawn
-287,Male,Online MBA,2022-11-19,31,7,Poland,,withdrawn
-288,Female,Online MBA,2021-08-17,32,10,Germany,,enrolled
-289,Female,Online MBA,2023-05-07,28,6,China,,enrolled
-290,Female,Executive MBA,2020-10-12,31,7,China,Mexico,enrolled
-291,Female,Part-time MBA,2021-09-18,36,6,United States,,rejected
-292,Female,Executive MBA,2022-09-06,44,17,China,,enrolled
-293,Female,Online MBA,2021-03-19,35,5,India,,enrolled
-294,Male,Online MBA,2023-09-14,40,14,Germany,,withdrawn
-295,Male,Part-time MBA,2020-12-26,32,9,Russian Federation,,enrolled
-296,Male,Online MBA,2023-03-26,26,4,India,,deferred
-297,Female,Executive MBA,2023-07-03,38,12,Serbia,,declined_offer
-298,Female,Online MBA,2023-03-22,38,11,China,,enrolled
-299,Male,Online MBA,2022-01-23,41,19,France,,enrolled
-300,Male,Part-time MBA,2023-09-12,40,16,Pakistan,,declined_offer
-301,Female,Online MBA,2021-04-25,28,4,China,,enrolled
-302,Male,Executive MBA,2022-05-25,33,3,Mexico,,rejected
-303,Male,Online MBA,2020-10-11,41,20,Russian Federation,,enrolled
-304,Female,Online MBA,2023-01-12,35,5,China,Colombia,enrolled
-305,Female,Part-time MBA,2022-07-30,46,20,Greece,,enrolled
-306,Male,Executive MBA,2021-07-11,48,20,Germany,,withdrawn
-307,Male,Part-time MBA,2021-02-24,32,12,India,Netherlands,enrolled
-308,Male,Online MBA,2023-01-03,28,4,China,,declined_offer
-309,Male,Online MBA,2022-11-15,38,8,China,,enrolled
-310,Male,Online MBA,2022-10-01,40,19,Russian Federation,,withdrawn
-311,Male,Part-time MBA,2021-06-20,42,14,France,,enrolled
-312,Female,Executive MBA,2022-04-04,37,13,France,,enrolled
-313,Male,Part-time MBA,2021-03-12,36,5,Germany,,rejected
-314,Male,Online MBA,2021-08-20,36,5,Russian Federation,,enrolled
-315,Female,Executive MBA,2020-11-23,44,20,Bulgaria,,enrolled
-316,Female,Online MBA,2021-01-20,35,9,China,,withdrawn
-317,Male,Online MBA,2024-03-25,36,9,Russian Federation,,enrolled
-318,Male,Online MBA,2020-11-19,38,16,Russian Federation,,enrolled
-319,Male,Online MBA,2023-01-29,39,15,Morocco,Turkey,rejected
-320,Female,Executive MBA,2021-06-27,33,5,Germany,,on_hold
-321,Male,Part-time MBA,2021-08-20,36,13,Australia,,withdrawn
-322,Male,Part-time MBA,2022-07-26,33,12,Russian Federation,,rejected
-323,Male,Online MBA,2022-08-26,37,6,India,,enrolled
-324,Female,Online MBA,2021-03-31,27,5,Taiwan,,enrolled
-325,Male,Executive MBA,2023-10-24,34,11,Egypt,,enrolled
-326,Male,Executive MBA,2023-01-14,37,11,China,,withdrawn
-327,Female,Online MBA,2024-01-26,41,14,India,,enrolled
-328,Female,Online MBA,2023-07-17,37,18,China,,enrolled
-329,Male,Executive MBA,2021-12-21,36,7,India,,enrolled
-330,Female,Part-time MBA,2022-08-19,32,2,Portugal,,enrolled
-331,Male,Online MBA,2023-02-06,37,17,Hong Kong,,enrolled
-332,Female,Online MBA,2022-02-26,35,13,China,,enrolled
-333,Female,Executive MBA,2023-02-15,36,13,China,,enrolled
-334,Female,Executive MBA,2021-06-10,31,9,United Kingdom,,enrolled
-335,Female,Executive MBA,2022-07-08,38,16,United Kingdom,,rejected
-336,Male,Online MBA,2023-07-16,45,20,Germany,,enrolled
-337,Female,Executive MBA,2021-10-02,36,11,India,,enrolled
-338,Male,Online MBA,2023-12-15,31,5,China,,withdrawn
-339,Female,Executive MBA,2022-03-25,24,2,Kenya,Colombia,withdrawn
-340,Male,Online MBA,2021-10-27,26,1,Russian Federation,,enrolled
-341,Male,Online MBA,2023-03-25,39,12,Russian Federation,,enrolled
-342,Male,Online MBA,2023-03-01,32,2,Germany,,enrolled
-343,Female,Online MBA,2022-03-17,47,16,China,,deferred
-344,Male,Online MBA,2022-04-02,40,9,Germany,,enrolled
-345,Male,Executive MBA,2023-10-04,40,19,Russian Federation,,enrolled
-346,Male,Executive MBA,2023-03-27,26,5,Russian Federation,,enrolled
-347,Female,Online MBA,2020-12-10,37,7,Italy,,enrolled
-348,Female,Online MBA,2024-01-04,35,8,India,,withdrawn
-349,Female,Part-time MBA,2021-10-03,30,6,United States,,rejected
-350,Male,Online MBA,2023-04-01,35,5,India,United Kingdom,declined_offer
-351,Male,Executive MBA,2023-08-28,31,9,Russian Federation,,enrolled
-352,Male,Online MBA,2022-11-17,41,17,Hungary,,enrolled
-353,Female,Part-time MBA,2022-11-03,28,8,China,,enrolled
-354,Male,Executive MBA,2021-05-13,21,0,Turkey,,withdrawn
-355,Male,Online MBA,2021-08-23,38,7,Russian Federation,,enrolled
-356,Male,Online MBA,2022-10-06,35,6,Russian Federation,,enrolled
-357,Male,Part-time MBA,2022-11-09,29,3,Spain,,declined_offer
-358,Male,Online MBA,2023-12-11,31,7,Russian Federation,,enrolled
-359,Male,Part-time MBA,2023-01-26,35,11,Ghana,,rejected
-360,Male,Online MBA,2023-04-08,43,19,Russian Federation,,enrolled
-361,Male,Online MBA,2024-02-14,38,10,Kenya,,withdrawn
-362,Male,Part-time MBA,2021-09-10,31,7,Russian Federation,,enrolled
-363,Male,Online MBA,2024-01-19,37,12,Russian Federation,,rejected
-364,Female,Part-time MBA,2022-09-21,30,9,China,,enrolled
-365,Male,Executive MBA,2022-05-10,40,17,Russian Federation,,deferred
-366,Male,Online MBA,2023-07-01,33,9,Ghana,,enrolled
-367,Male,Online MBA,2023-09-11,25,1,Pakistan,United States,declined_offer
-368,Male,Part-time MBA,2022-11-21,40,17,Germany,,withdrawn
-369,Male,Online MBA,2020-10-06,32,10,Australia,,enrolled
-370,Male,Executive MBA,2021-07-29,35,15,United States,,rejected
-371,Male,Executive MBA,2020-10-01,28,4,France,India,enrolled
-372,Female,Executive MBA,2022-01-01,36,12,China,,enrolled
-373,Female,Online MBA,2023-04-25,38,13,Netherlands,,enrolled
-374,Male,Executive MBA,2021-11-20,46,14,Russian Federation,,enrolled
-375,Male,Online MBA,2024-03-28,39,18,China,,enrolled
-376,Male,Executive MBA,2020-12-22,32,13,Russian Federation,,enrolled
-377,Male,Online MBA,2022-03-15,31,3,Germany,,enrolled
-378,Female,Part-time MBA,2020-11-07,35,4,Belarus,,enrolled
-379,Male,Online MBA,2023-12-08,34,9,Germany,,rejected
-380,Female,Part-time MBA,2023-12-08,28,3,China,,withdrawn
-381,Female,Online MBA,2020-10-31,38,9,Ghana,,enrolled
-382,Male,Online MBA,2020-12-01,40,16,Hong Kong,,enrolled
-383,Female,Executive MBA,2021-09-01,46,17,Pakistan,,withdrawn
-384,Male,Executive MBA,2021-12-16,34,5,Russian Federation,,enrolled
-385,Female,Part-time MBA,2023-07-18,32,8,Kenya,,enrolled
-386,Female,Online MBA,2024-01-03,36,13,Taiwan,,enrolled
-387,Female,Executive MBA,2023-11-28,31,3,Mexico,,enrolled
-388,Male,Online MBA,2023-06-03,40,9,Russian Federation,,rejected
-389,Male,Part-time MBA,2024-01-24,28,7,Germany,,enrolled
-390,Female,Executive MBA,2023-01-05,44,12,China,,withdrawn
-391,Male,Online MBA,2023-07-18,42,19,United States,,enrolled
-392,Female,Online MBA,2021-11-05,26,4,China,,enrolled
-393,Female,Online MBA,2021-02-05,35,6,Germany,,enrolled
-394,Male,Online MBA,2021-11-30,38,10,Russian Federation,,withdrawn
-395,Female,Part-time MBA,2021-02-04,25,2,Germany,,enrolled
-396,Male,Online MBA,2022-06-14,41,10,Taiwan,,enrolled
-397,Male,Online MBA,2023-06-12,44,12,Poland,,withdrawn
-398,Male,Executive MBA,2021-09-05,35,7,Germany,,enrolled
-399,Male,Part-time MBA,2023-09-22,35,12,Portugal,,enrolled
-400,Male,Part-time MBA,2022-01-03,30,7,Russian Federation,,enrolled
-401,Male,Executive MBA,2023-02-06,33,11,Spain,,enrolled
-402,Male,Part-time MBA,2023-04-24,30,9,Russian Federation,,withdrawn
-403,Male,Part-time MBA,2021-12-06,32,11,Russian Federation,,rejected
-404,Female,Online MBA,2022-10-24,27,5,Viet Nam,Mexico,enrolled
-405,Male,Part-time MBA,2023-05-17,41,12,Pakistan,,enrolled
-406,Female,Online MBA,2023-08-17,28,8,China,,rejected
-407,Male,Part-time MBA,2022-03-07,28,4,Hungary,,declined_offer
-408,Female,Part-time MBA,2023-05-21,32,6,Pakistan,,enrolled
-409,Male,Online MBA,2022-02-27,34,12,Sweden,,declined_offer
-410,Male,Online MBA,2023-03-27,28,6,Germany,,enrolled
-411,Male,Part-time MBA,2021-01-30,29,3,Poland,,enrolled
-412,Male,Online MBA,2023-09-06,32,4,Italy,,enrolled
-413,Female,Online MBA,2021-05-19,35,12,China,,enrolled
-414,Male,Online MBA,2020-12-01,46,20,Germany,,enrolled
-415,Female,Online MBA,2022-01-07,33,10,Australia,,enrolled
-416,Male,Online MBA,2023-10-03,42,18,China,,enrolled
-417,Male,Online MBA,2022-11-19,30,4,France,Estonia,deferred
-418,Male,Online MBA,2022-08-23,33,11,Russian Federation,,rejected
-419,Male,Online MBA,2024-02-22,26,6,China,,on_hold
-420,Male,Executive MBA,2021-07-07,48,20,Russian Federation,,declined_offer
-421,Female,Part-time MBA,2021-12-25,38,7,France,,rejected
-422,Male,Executive MBA,2021-08-11,48,19,Spain,,enrolled
-423,Male,Part-time MBA,2021-02-09,32,3,Romania,,declined_offer
-424,Male,Executive MBA,2021-04-21,36,13,San Marino,,declined_offer
-425,Male,Online MBA,2023-11-06,34,11,United States,,on_hold
-426,Female,Part-time MBA,2023-12-15,36,15,China,,enrolled
-427,Male,Executive MBA,2022-03-27,26,2,Mexico,,declined_offer
-428,Female,Part-time MBA,2023-12-16,36,17,Taiwan,,enrolled
-429,Female,Part-time MBA,2023-06-20,27,4,India,Algeria,withdrawn
-430,Female,Part-time MBA,2021-02-01,37,14,Russian Federation,,enrolled
-431,Male,Part-time MBA,2023-10-03,38,16,China,,declined_offer
-432,Male,Executive MBA,2020-10-22,37,15,Russian Federation,,enrolled
-433,Male,Online MBA,2023-10-12,40,14,Russian Federation,,withdrawn
-434,Male,Part-time MBA,2023-09-16,41,13,Germany,,enrolled
-435,Male,Online MBA,2021-08-25,38,17,Australia,,enrolled
-436,Female,Online MBA,2020-10-07,31,6,Bulgaria,,declined_offer
-437,Male,Online MBA,2020-10-06,34,6,Russian Federation,,enrolled
-438,Female,Part-time MBA,2021-01-25,40,9,China,,enrolled
-439,Male,Online MBA,2023-09-05,30,3,Colombia,Philippines,enrolled
-440,Male,Executive MBA,2023-02-11,42,11,China,,rejected
-441,Male,Part-time MBA,2022-01-17,39,18,Poland,,withdrawn
-442,Male,Part-time MBA,2021-07-27,27,5,Germany,,declined_offer
-443,Male,Online MBA,2024-03-04,26,6,Russian Federation,,enrolled
-444,Female,Executive MBA,2021-06-21,35,5,China,,enrolled
-445,Female,Part-time MBA,2023-12-22,30,9,United States,,rejected
-446,Male,Part-time MBA,2024-03-04,44,12,Russian Federation,,enrolled
-447,Male,Online MBA,2021-10-05,48,20,Finland,,enrolled
-448,Male,Part-time MBA,2022-09-01,30,4,China,,enrolled
-449,Male,Executive MBA,2023-12-07,48,19,Egypt,,enrolled
-450,Female,Online MBA,2024-01-31,38,10,Taiwan,,enrolled
-451,Female,Online MBA,2021-12-11,37,9,India,,enrolled
-452,Male,Online MBA,2022-08-25,31,11,Russian Federation,,enrolled
-453,Male,Online MBA,2023-03-19,33,14,Russian Federation,,rejected
-454,Female,Part-time MBA,2021-12-27,31,9,China,,deferred
-455,Male,Executive MBA,2022-01-19,35,5,India,,enrolled
-456,Male,Part-time MBA,2021-11-24,38,19,Germany,,enrolled
-457,Male,Online MBA,2021-10-27,47,17,Pakistan,Taiwan,enrolled
-458,Female,Online MBA,2021-08-16,44,14,Spain,,declined_offer
-459,Female,Online MBA,2023-06-18,37,13,China,,enrolled
-460,Male,Executive MBA,2021-11-20,37,13,China,,declined_offer
-461,Male,Executive MBA,2023-10-01,26,5,Russian Federation,,enrolled
-462,Female,Online MBA,2023-12-23,49,19,Taiwan,,enrolled
-463,Male,Executive MBA,2022-03-17,29,6,Russian Federation,,enrolled
-464,Male,Online MBA,2022-08-04,37,17,Norway,,enrolled
-465,Male,Online MBA,2021-12-05,26,1,India,,withdrawn
-466,Male,Online MBA,2021-08-27,32,5,Switzerland,,enrolled
-467,Male,Online MBA,2023-01-12,31,6,Germany,,enrolled
-468,Female,Online MBA,2021-06-02,42,17,Spain,,enrolled
-469,Male,Online MBA,2023-07-26,25,2,Finland,,deferred
-470,Male,Online MBA,2023-10-18,36,16,Germany,,enrolled
-471,Male,Online MBA,2023-05-01,35,12,Switzerland,,enrolled
-472,Female,Online MBA,2022-07-20,37,16,Germany,Italy,rejected
-473,Male,Part-time MBA,2022-05-03,40,19,Japan,,rejected
-474,Male,Part-time MBA,2024-01-06,32,3,Germany,,enrolled
-475,Female,Online MBA,2022-03-30,40,14,China,,enrolled
-476,Male,Part-time MBA,2021-02-24,41,10,India,,enrolled
-477,Male,Part-time MBA,2023-07-23,31,9,Germany,,enrolled
-478,Female,Part-time MBA,2023-03-14,28,8,Georgia,,enrolled
-479,Male,Executive MBA,2020-10-07,38,15,Germany,,enrolled
-480,Male,Online MBA,2021-11-05,50,18,China,,on_hold
-481,Male,Executive MBA,2023-03-23,35,12,United States,,enrolled
-482,Male,Online MBA,2023-04-12,33,11,China,,enrolled
-483,Male,Part-time MBA,2022-03-02,23,1,India,,enrolled
-484,Female,Online MBA,2021-08-02,37,12,Taiwan,,enrolled
-485,Male,Online MBA,2022-04-17,28,6,Hungary,,enrolled
-486,Male,Part-time MBA,2021-06-11,26,5,United States,,deferred
-487,Male,Online MBA,2022-11-08,46,17,Colombia,,rejected
-488,Female,Executive MBA,2021-04-24,25,4,Kenya,,enrolled
-489,Male,Part-time MBA,2021-12-02,28,2,Ireland,,enrolled
-490,Male,Online MBA,2022-08-22,39,10,Russian Federation,,declined_offer
-491,Male,Online MBA,2023-08-12,31,11,Pakistan,,enrolled
-492,Female,Executive MBA,2023-09-12,35,10,Pakistan,,enrolled
-493,Male,Online MBA,2023-09-09,35,5,India,,enrolled
-494,Male,Executive MBA,2023-09-15,34,15,Italy,,deferred
-495,Male,Online MBA,2021-02-09,26,5,China,Ghana,enrolled
-496,Male,Online MBA,2023-09-02,39,8,Russian Federation,,declined_offer
-497,Male,Executive MBA,2023-03-04,36,15,Germany,,enrolled
-498,Male,Online MBA,2024-01-13,44,16,Pakistan,,withdrawn
-499,Female,Online MBA,2023-02-01,41,11,Viet Nam,,deferred
-500,Male,Part-time MBA,2021-10-09,28,8,Poland,,enrolled
-501,Male,Executive MBA,2022-10-24,49,19,Russian Federation,,enrolled
-502,Male,Part-time MBA,2021-05-15,29,5,Germany,,enrolled
-503,Male,Online MBA,2022-12-29,31,9,Pakistan,,enrolled
-504,Female,Online MBA,2021-11-08,30,7,Hong Kong,,rejected
-505,Male,Executive MBA,2022-07-17,35,11,China,,enrolled
-506,Male,Online MBA,2022-02-22,35,16,Colombia,,enrolled
-507,Male,Executive MBA,2023-10-13,36,17,Colombia,,declined_offer
-508,Male,Online MBA,2023-05-20,40,16,Algeria,,enrolled
-509,Male,Online MBA,2023-09-08,25,3,Poland,Colombia,withdrawn
-510,Female,Part-time MBA,2022-09-27,31,4,Taiwan,,withdrawn
-511,Female,Online MBA,2022-10-29,49,20,Japan,,enrolled
-512,Female,Part-time MBA,2021-09-18,40,14,Italy,Netherlands,declined_offer
-513,Male,Part-time MBA,2022-01-08,32,5,Germany,,enrolled
-514,Male,Online MBA,2023-08-28,37,16,India,,enrolled
-515,Male,Online MBA,2021-03-19,47,13,Viet Nam,,on_hold
-516,Female,Part-time MBA,2023-01-12,35,12,Hungary,,enrolled
-517,Female,Online MBA,2023-07-30,29,8,Pakistan,,declined_offer
-518,Male,Online MBA,2023-05-07,39,15,Germany,,enrolled
-519,Male,Executive MBA,2022-06-19,33,2,Poland,,declined_offer
-520,Male,Online MBA,2021-08-02,31,11,France,,enrolled
-521,Male,Online MBA,2021-07-19,34,7,Germany,,enrolled
-522,Female,Online MBA,2024-03-07,43,12,Germany,Belarus,enrolled
-523,Male,Online MBA,2022-11-27,36,12,Spain,,deferred
-524,Male,Online MBA,2023-01-05,30,4,Poland,,rejected
-525,Male,Part-time MBA,2022-06-14,34,8,China,,declined_offer
-526,Male,Executive MBA,2022-01-01,37,6,China,,enrolled
-527,Female,Part-time MBA,2021-11-28,35,9,Italy,,rejected
-528,Female,Online MBA,2024-01-10,39,15,China,,enrolled
-529,Male,Part-time MBA,2022-09-16,37,12,Russian Federation,,enrolled
-530,Male,Online MBA,2024-01-27,42,15,Pakistan,,rejected
-531,Male,Online MBA,2023-03-18,47,20,India,,rejected
-532,Male,Part-time MBA,2022-02-05,35,7,India,,enrolled
-533,Male,Executive MBA,2023-10-16,40,15,Russian Federation,,rejected
-534,Male,Online MBA,2022-05-03,41,20,Kenya,,enrolled
-535,Male,Executive MBA,2022-01-26,45,15,Germany,,on_hold
-536,Male,Online MBA,2022-01-13,32,9,Germany,,enrolled
-537,Female,Online MBA,2021-09-17,35,6,Taiwan,,rejected
-538,Female,Online MBA,2023-08-21,29,5,China,,enrolled
-539,Male,Part-time MBA,2023-08-16,27,5,Russian Federation,,rejected
-540,Male,Executive MBA,2024-01-06,38,18,Poland,,enrolled
-541,Female,Part-time MBA,2023-12-16,35,7,China,,enrolled
-542,Male,Executive MBA,2021-06-20,38,9,Turkey,Morocco,enrolled
-543,Male,Executive MBA,2023-07-16,35,5,Russian Federation,Kenya,rejected
-544,Male,Executive MBA,2022-04-30,40,17,Germany,,enrolled
-545,Male,Part-time MBA,2023-10-01,28,6,Germany,,rejected
-546,Female,Executive MBA,2021-08-21,37,12,Georgia,,enrolled
-547,Male,Online MBA,2021-07-02,50,18,Nigeria,,withdrawn
-548,Male,Online MBA,2023-01-01,34,8,France,,enrolled
-549,Male,Part-time MBA,2023-12-01,34,4,China,,enrolled
-550,Male,Online MBA,2022-09-01,27,4,China,,declined_offer
-551,Female,Part-time MBA,2021-02-25,38,13,Netherlands,,withdrawn
-552,Female,Online MBA,2024-02-05,32,7,Germany,,enrolled
-553,Male,Online MBA,2023-10-04,28,6,Germany,,deferred
-554,Male,Online MBA,2023-05-17,49,17,Colombia,,enrolled
-555,Male,Executive MBA,2022-06-06,35,12,Germany,,declined_offer
-556,Female,Online MBA,2020-12-09,37,17,Spain,Georgia,declined_offer
-557,Female,Online MBA,2023-10-23,33,2,China,,on_hold
-558,Male,Part-time MBA,2021-11-02,41,16,Russian Federation,,deferred
-559,Female,Online MBA,2022-11-11,40,16,China,,enrolled
-560,Male,Online MBA,2022-01-19,25,4,Pakistan,,enrolled
-561,Female,Online MBA,2023-08-29,35,15,China,,enrolled
-562,Female,Part-time MBA,2021-06-10,36,12,United States,,enrolled
-563,Female,Online MBA,2021-07-18,37,11,Mexico,,enrolled
-564,Male,Online MBA,2022-03-12,33,10,Russian Federation,Taiwan,declined_offer
-565,Male,Part-time MBA,2022-06-10,36,10,Taiwan,,enrolled
-566,Female,Online MBA,2022-08-19,27,4,China,,enrolled
-567,Female,Online MBA,2023-08-01,35,13,Germany,,withdrawn
-568,Male,Online MBA,2023-12-19,33,10,Switzerland,,rejected
-569,Male,Part-time MBA,2021-04-11,29,9,Germany,,declined_offer
-570,Male,Online MBA,2022-08-04,31,9,Russian Federation,,deferred
-571,Male,Online MBA,2021-07-06,33,12,India,,enrolled
-572,Male,Online MBA,2021-12-12,46,19,India,,enrolled
-573,Male,Part-time MBA,2022-08-22,29,2,Russian Federation,,enrolled
-574,Female,Part-time MBA,2024-01-23,26,3,China,,withdrawn
-575,Male,Executive MBA,2020-12-05,43,13,Viet Nam,,enrolled
-576,Female,Part-time MBA,2020-12-03,32,6,China,,enrolled
-577,Male,Executive MBA,2022-09-04,35,12,Russian Federation,,enrolled
-578,Male,Executive MBA,2023-08-05,43,19,Germany,,enrolled
-579,Male,Executive MBA,2022-06-12,36,12,China,,rejected
-580,Male,Online MBA,2023-09-08,29,5,Russian Federation,,enrolled
-581,Male,Online MBA,2020-12-31,36,6,Hungary,,enrolled
-582,Male,Part-time MBA,2020-11-24,31,8,Portugal,,enrolled
-583,Male,Executive MBA,2020-11-22,49,19,Venezuela,,declined_offer
-584,Male,Online MBA,2021-04-21,31,5,Brazil,,declined_offer
-585,Female,Online MBA,2022-07-13,40,18,Peru,,rejected
-586,Female,Online MBA,2021-08-14,33,8,India,,withdrawn
-587,Female,Part-time MBA,2020-11-30,34,11,Ireland,,enrolled
-588,Female,Online MBA,2021-02-06,33,11,India,,enrolled
-589,Male,Online MBA,2023-06-10,36,12,Germany,,enrolled
-590,Female,Part-time MBA,2021-10-22,35,13,Pakistan,,withdrawn
-591,Male,Online MBA,2021-08-21,30,11,Russian Federation,,enrolled
-592,Male,Part-time MBA,2022-04-10,33,12,China,,rejected
-593,Female,Online MBA,2021-06-23,47,19,Greece,,enrolled
-594,Female,Part-time MBA,2022-10-06,29,8,Ukraine,,enrolled
-595,Female,Part-time MBA,2024-03-02,32,3,China,,rejected
-596,Male,Part-time MBA,2023-02-06,30,3,Germany,,enrolled
-597,Male,Online MBA,2023-02-27,40,18,Germany,,enrolled
-598,Male,Online MBA,2021-08-10,40,16,Russian Federation,,withdrawn
-599,Male,Part-time MBA,2020-10-28,41,17,Russian Federation,,enrolled
-600,Female,Online MBA,2021-05-27,42,18,China,,withdrawn
-601,Male,Online MBA,2024-01-10,29,7,France,,enrolled
-602,Male,Online MBA,2021-10-23,41,12,China,,enrolled
-603,Male,Online MBA,2021-05-14,34,11,India,,deferred
-604,Female,Part-time MBA,2023-03-03,30,8,China,,declined_offer
-605,Female,Online MBA,2020-10-23,26,5,China,,enrolled
-606,Female,Executive MBA,2021-10-05,36,6,Algeria,,deferred
-607,Female,Online MBA,2022-11-25,44,13,China,,enrolled
-608,Male,Online MBA,2023-05-10,44,20,Russian Federation,,enrolled
-609,Male,Online MBA,2021-07-17,37,14,Germany,,rejected
-610,Male,Part-time MBA,2021-06-22,24,2,China,,enrolled
-611,Female,Online MBA,2020-10-28,39,14,China,,rejected
-612,Female,Online MBA,2021-11-07,41,12,Pakistan,,enrolled
-613,Female,Online MBA,2022-09-14,35,10,India,,withdrawn
-614,Female,Online MBA,2021-03-30,30,5,China,,enrolled
-615,Male,Executive MBA,2022-07-03,29,6,Italy,,enrolled
-616,Male,Online MBA,2022-06-26,33,10,Russian Federation,,enrolled
-617,Male,Online MBA,2021-01-25,43,20,India,,enrolled
-618,Female,Online MBA,2022-08-29,33,9,China,,enrolled
-619,Female,Online MBA,2024-03-15,25,4,China,,withdrawn
-620,Male,Online MBA,2022-09-07,30,9,France,,enrolled
-621,Male,Executive MBA,2023-09-28,28,3,India,,enrolled
-622,Male,Online MBA,2023-06-26,38,14,Germany,,enrolled
-623,Male,Online MBA,2023-01-09,29,5,Russian Federation,,withdrawn
-624,Male,Executive MBA,2023-10-28,38,9,India,,rejected
-625,Male,Online MBA,2023-04-11,33,12,Netherlands,,enrolled
-626,Female,Part-time MBA,2021-05-28,34,5,China,,withdrawn
-627,Female,Executive MBA,2022-11-17,26,5,China,,enrolled
-628,Female,Part-time MBA,2023-12-18,31,12,Serbia,,enrolled
-629,Male,Online MBA,2023-04-23,34,6,Germany,,deferred
-630,Female,Online MBA,2023-05-01,26,4,Turkey,,withdrawn
-631,Male,Part-time MBA,2022-04-09,30,7,Poland,,on_hold
-632,Male,Online MBA,2021-09-07,22,2,Germany,,enrolled
-633,Male,Executive MBA,2021-05-23,39,15,India,,enrolled
-634,Male,Executive MBA,2023-09-19,46,18,Russian Federation,,declined_offer
-635,Male,Online MBA,2023-07-23,30,6,China,,enrolled
-636,Female,Part-time MBA,2021-12-19,35,12,France,,enrolled
-637,Male,Online MBA,2023-04-15,33,6,Germany,,enrolled
-638,Female,Part-time MBA,2022-02-20,37,9,Korea,,rejected
-639,Male,Online MBA,2023-05-14,35,4,India,,deferred
-640,Female,Part-time MBA,2021-10-28,30,7,Italy,,rejected
-641,Male,Executive MBA,2021-02-04,39,16,Pakistan,,enrolled
-642,Male,Online MBA,2021-12-01,40,13,Russian Federation,,declined_offer
-643,Male,Executive MBA,2023-01-03,38,19,Iran,,enrolled
-644,Male,Online MBA,2023-12-01,46,20,India,,declined_offer
-645,Male,Online MBA,2022-09-23,46,15,China,,enrolled
-646,Male,Online MBA,2022-08-15,38,16,India,,withdrawn
-647,Male,Part-time MBA,2022-12-31,30,9,Switzerland,,enrolled
-648,Male,Part-time MBA,2022-05-01,28,4,Pakistan,,enrolled
-649,Male,Part-time MBA,2020-11-23,29,2,India,,enrolled
-650,Female,Executive MBA,2024-03-07,26,5,China,,enrolled
-651,Male,Online MBA,2023-12-31,36,10,Russian Federation,,enrolled
-652,Male,Executive MBA,2024-03-11,48,20,China,,enrolled
-653,Male,Online MBA,2023-10-22,40,15,Russian Federation,,withdrawn
-654,Female,Online MBA,2022-06-08,32,5,China,,enrolled
-655,Male,Part-time MBA,2020-10-30,33,11,Germany,,rejected
-656,Male,Executive MBA,2023-05-16,34,9,India,,rejected
-657,Male,Executive MBA,2023-10-16,27,3,Ghana,,rejected
-658,Male,Online MBA,2021-07-04,44,15,China,,enrolled
-659,Male,Part-time MBA,2021-05-16,33,11,Russian Federation,,enrolled
-660,Female,Executive MBA,2020-10-18,26,4,China,,enrolled
-661,Female,Online MBA,2022-02-26,34,14,Turkey,,deferred
-662,Female,Executive MBA,2020-11-15,36,11,China,,declined_offer
-663,Female,Online MBA,2022-09-08,41,17,Italy,,withdrawn
-664,Male,Executive MBA,2024-01-06,24,2,United States,Philippines,enrolled
-665,Male,Online MBA,2023-01-01,46,16,Russian Federation,,enrolled
-666,Male,Online MBA,2022-03-26,36,17,China,,withdrawn
-667,Male,Online MBA,2021-04-06,43,19,Nigeria,,enrolled
-668,Male,Online MBA,2021-08-04,28,3,United States,,enrolled
-669,Male,Online MBA,2023-03-02,32,4,Pakistan,,enrolled
-670,Male,Online MBA,2022-03-09,38,15,Germany,,enrolled
-671,Female,Executive MBA,2023-06-11,33,7,Japan,,enrolled
-672,Male,Part-time MBA,2023-06-03,35,13,Germany,,enrolled
-673,Male,Online MBA,2020-11-20,42,20,Germany,,withdrawn
-674,Male,Executive MBA,2023-07-16,29,5,Germany,,declined_offer
-675,Female,Online MBA,2022-03-10,26,1,China,,enrolled
-676,Male,Part-time MBA,2022-11-14,35,16,Germany,,enrolled
-677,Female,Online MBA,2023-08-30,38,19,Greece,,enrolled
-678,Male,Online MBA,2024-02-05,42,17,Taiwan,,enrolled
-679,Female,Online MBA,2022-07-26,39,17,China,,enrolled
-680,Male,Executive MBA,2022-01-24,38,19,Poland,,enrolled
-681,Male,Online MBA,2021-05-29,36,8,Russian Federation,,enrolled
-682,Male,Part-time MBA,2024-03-14,29,6,Germany,,enrolled
-683,Male,Online MBA,2023-09-01,34,9,India,Chile,enrolled
-684,Male,Executive MBA,2024-03-17,41,15,France,,enrolled
-685,Male,Part-time MBA,2023-07-14,29,9,Russian Federation,,declined_offer
-686,Male,Online MBA,2023-11-12,27,7,Russian Federation,,enrolled
-687,Female,Part-time MBA,2021-08-21,35,11,Greece,,enrolled
-688,Male,Online MBA,2023-04-02,27,3,India,,enrolled
-689,Male,Part-time MBA,2024-02-01,28,8,Switzerland,,withdrawn
-690,Male,Executive MBA,2021-02-27,35,4,China,,deferred
-691,Male,Part-time MBA,2021-09-02,47,20,Russian Federation,,enrolled
-692,Male,Online MBA,2022-06-11,27,5,India,,enrolled
-693,Female,Part-time MBA,2022-09-26,29,7,China,,enrolled
-694,Male,Executive MBA,2021-03-16,46,19,India,,enrolled
-695,Female,Part-time MBA,2022-07-06,41,16,Germany,,enrolled
-696,Female,Part-time MBA,2021-09-28,29,3,China,,enrolled
-697,Male,Part-time MBA,2023-04-23,33,7,Sweden,,enrolled
-698,Female,Executive MBA,2022-01-17,38,10,Taiwan,,enrolled
-699,Female,Online MBA,2022-06-26,32,10,Germany,,enrolled
-700,Female,Online MBA,2021-01-25,28,6,China,,enrolled
-701,Female,Online MBA,2022-10-19,36,6,Venezuela,,declined_offer
-702,Female,Part-time MBA,2024-01-26,26,2,Spain,,enrolled
-703,Female,Executive MBA,2021-12-28,39,10,United States,,enrolled
-704,Male,Part-time MBA,2022-11-24,37,14,Germany,,declined_offer
-705,Male,Online MBA,2021-10-01,33,13,India,,enrolled
-706,Male,Executive MBA,2023-12-16,30,8,Russian Federation,,withdrawn
-707,Male,Online MBA,2022-03-05,31,10,Russian Federation,,enrolled
-708,Female,Online MBA,2023-11-26,49,20,Germany,,rejected
-709,Male,Online MBA,2023-08-27,28,5,China,,enrolled
-710,Female,Online MBA,2021-07-01,33,11,China,,declined_offer
-711,Male,Online MBA,2021-02-12,41,18,India,,enrolled
-712,Male,Executive MBA,2021-08-30,32,5,Germany,,enrolled
-713,Female,Online MBA,2021-10-22,26,4,Italy,,enrolled
-714,Female,Executive MBA,2022-11-28,29,7,India,,enrolled
-715,Male,Executive MBA,2022-04-30,37,16,Finland,,enrolled
-716,Male,Online MBA,2021-07-23,36,13,Viet Nam,,enrolled
-717,Male,Online MBA,2023-11-12,27,5,Switzerland,,enrolled
-718,Male,Executive MBA,2021-05-06,38,13,Germany,,enrolled
-719,Male,Part-time MBA,2021-03-30,30,10,United Kingdom,,enrolled
-720,Male,Executive MBA,2021-06-30,42,18,Russian Federation,,enrolled
-721,Male,Part-time MBA,2021-08-21,30,7,Spain,,enrolled
-722,Female,Part-time MBA,2021-07-03,30,8,Egypt,,enrolled
-723,Male,Online MBA,2022-01-09,37,8,China,,enrolled
-724,Female,Online MBA,2023-05-05,35,5,Germany,,declined_offer
-725,Male,Online MBA,2023-03-08,44,12,Spain,,withdrawn
-726,Male,Online MBA,2021-09-06,32,3,United Kingdom,,rejected
-727,Male,Online MBA,2021-06-08,33,8,China,Rwanda,enrolled
-728,Female,Part-time MBA,2022-10-04,33,14,Taiwan,,enrolled
-729,Male,Online MBA,2022-05-18,35,15,Russian Federation,,rejected
-730,Male,Part-time MBA,2022-10-09,28,6,Russian Federation,,withdrawn
-731,Male,Online MBA,2020-12-04,33,4,Germany,,enrolled
-732,Male,Online MBA,2021-03-17,40,18,Germany,,enrolled
-733,Female,Part-time MBA,2023-05-15,30,2,China,,enrolled
-734,Male,Online MBA,2022-03-30,22,2,Germany,,declined_offer
-735,Female,Executive MBA,2022-11-19,40,11,China,,declined_offer
-736,Female,Part-time MBA,2021-11-24,28,6,Italy,,declined_offer
-737,Male,Online MBA,2024-03-07,36,12,Germany,,enrolled
-738,Male,Online MBA,2022-08-30,50,15,Russian Federation,,enrolled
-739,Male,Online MBA,2024-03-06,33,9,Germany,,rejected
-740,Female,Online MBA,2022-07-17,32,7,Pakistan,,declined_offer
-741,Male,Online MBA,2023-04-03,34,11,China,,enrolled
-742,Male,Online MBA,2023-04-22,34,11,Pakistan,Tunisia,declined_offer
-743,Male,Part-time MBA,2021-01-13,31,9,Venezuela,,enrolled
-744,Female,Executive MBA,2022-11-19,32,9,Germany,Iran,enrolled
-745,Male,Online MBA,2021-08-09,35,6,Russian Federation,,enrolled
-746,Male,Executive MBA,2021-09-01,42,19,China,,declined_offer
-747,Male,Part-time MBA,2024-02-07,29,5,India,,declined_offer
-748,Female,Part-time MBA,2021-12-24,34,11,China,,rejected
-749,Male,Online MBA,2021-11-30,35,12,Sweden,,withdrawn
-750,Male,Online MBA,2021-10-01,26,1,India,,enrolled
-751,Male,Online MBA,2022-06-26,47,12,Turkey,,rejected
-752,Male,Online MBA,2023-08-09,27,3,Norway,,withdrawn
-753,Male,Executive MBA,2022-09-02,39,16,Germany,,enrolled
-754,Female,Online MBA,2021-05-25,40,17,Greece,,enrolled
-755,Male,Online MBA,2022-02-26,31,7,Lebanon,,enrolled
-756,Male,Executive MBA,2023-10-24,40,19,Russian Federation,,rejected
-757,Female,Online MBA,2023-10-05,31,11,Germany,,enrolled
-758,Male,Online MBA,2022-05-19,37,14,India,,enrolled
-759,Female,Online MBA,2021-10-12,35,16,India,,enrolled
-760,Male,Executive MBA,2021-04-19,37,10,United States,,withdrawn
-761,Male,Part-time MBA,2023-11-24,36,14,France,,enrolled
-762,Male,Online MBA,2022-03-03,36,6,China,,enrolled
-763,Male,Online MBA,2021-12-24,30,6,Iran,Kenya,enrolled
-764,Female,Online MBA,2023-10-17,31,7,India,,enrolled
-765,Male,Part-time MBA,2024-03-10,32,6,India,,enrolled
-766,Male,Part-time MBA,2023-01-10,33,12,United States,,enrolled
-767,Female,Part-time MBA,2022-03-26,35,11,Sweden,,enrolled
-768,Male,Online MBA,2021-04-09,37,18,France,,withdrawn
-769,Male,Online MBA,2022-04-08,47,20,Russian Federation,,enrolled
-770,Male,Online MBA,2022-09-16,41,18,Lebanon,,enrolled
-771,Male,Online MBA,2021-10-01,49,14,Russian Federation,,enrolled
-772,Male,Online MBA,2022-11-03,48,17,Kenya,,enrolled
-773,Male,Executive MBA,2022-08-17,32,8,Russian Federation,,enrolled
-774,Male,Online MBA,2022-10-30,31,10,France,,on_hold
-775,Female,Online MBA,2020-11-07,28,6,China,,rejected
-776,Male,Part-time MBA,2023-11-19,34,15,Russian Federation,,enrolled
-777,Male,Executive MBA,2023-11-25,40,16,United Kingdom,,enrolled
-778,Male,Online MBA,2021-08-30,39,16,Germany,,enrolled
-779,Male,Executive MBA,2021-05-03,29,4,India,,rejected
-780,Female,Executive MBA,2021-07-08,33,6,India,,enrolled
-781,Male,Executive MBA,2022-07-02,43,13,Russian Federation,Viet Nam,enrolled
-782,Female,Online MBA,2022-09-26,40,20,India,,enrolled
-783,Male,Online MBA,2024-01-28,44,14,Germany,,enrolled
-784,Male,Online MBA,2021-08-16,36,16,Russian Federation,,enrolled
-785,Male,Executive MBA,2023-10-27,44,20,India,,rejected
-786,Male,Online MBA,2021-10-24,47,20,Russian Federation,,withdrawn
-787,Female,Online MBA,2022-06-30,35,16,China,,withdrawn
-788,Male,Executive MBA,2020-12-03,42,17,United States,Algeria,enrolled
-789,Male,Online MBA,2022-07-13,35,5,Russian Federation,,enrolled
-790,Male,Online MBA,2024-02-02,38,18,Germany,,rejected
-791,Male,Online MBA,2022-10-19,34,3,Russian Federation,,declined_offer
-792,Female,Part-time MBA,2021-07-31,29,7,United States,,enrolled
-793,Male,Part-time MBA,2021-01-20,36,9,Nigeria,,enrolled
-794,Male,Part-time MBA,2021-02-07,38,16,Russian Federation,,withdrawn
-795,Male,Executive MBA,2023-06-10,37,11,Brazil,,enrolled
-796,Female,Online MBA,2023-11-13,37,10,Greece,,rejected
-797,Female,Part-time MBA,2022-06-07,32,3,Philippines,Peru,withdrawn
-798,Male,Part-time MBA,2023-10-07,26,5,Russian Federation,,withdrawn
-799,Male,Executive MBA,2024-01-06,43,14,Algeria,Iran,declined_offer
-800,Male,Online MBA,2023-11-20,28,5,Germany,,declined_offer
-801,Male,Executive MBA,2021-11-10,44,19,India,,enrolled
-802,Male,Executive MBA,2024-02-24,42,17,Hungary,,enrolled
-803,Male,Online MBA,2023-07-04,37,17,Russian Federation,,enrolled
-804,Male,Part-time MBA,2022-01-09,38,8,Mexico,,declined_offer
-805,Male,Online MBA,2023-12-28,26,3,Germany,,enrolled
-806,Male,Online MBA,2021-06-01,38,16,Russian Federation,,enrolled
-807,Male,Online MBA,2021-06-26,46,14,Germany,,enrolled
-808,Male,Online MBA,2022-06-22,40,12,Pakistan,,declined_offer
-809,Male,Part-time MBA,2022-06-03,35,9,Germany,,rejected
-810,Female,Online MBA,2022-02-23,29,5,China,,enrolled
-811,Male,Executive MBA,2023-04-01,34,12,India,,enrolled
-812,Male,Online MBA,2024-01-15,40,18,India,,declined_offer
-813,Male,Executive MBA,2021-03-24,36,13,Egypt,,enrolled
-814,Female,Online MBA,2021-07-14,28,8,China,,enrolled
-815,Male,Online MBA,2022-01-10,34,3,Russian Federation,,enrolled
-816,Male,Online MBA,2023-12-02,45,20,India,,enrolled
-817,Female,Executive MBA,2023-07-18,28,3,Italy,,enrolled
-818,Female,Executive MBA,2021-04-06,21,0,Venezuela,,enrolled
-819,Female,Executive MBA,2024-02-23,29,7,China,,withdrawn
-820,Male,Part-time MBA,2021-06-19,32,3,United Kingdom,,enrolled
-821,Male,Online MBA,2022-07-02,38,19,China,,enrolled
-822,Female,Online MBA,2023-01-18,38,15,China,,enrolled
-823,Female,Part-time MBA,2023-05-07,31,9,Germany,,enrolled
-824,Male,Online MBA,2023-03-27,40,18,Russian Federation,,rejected
-825,Male,Online MBA,2021-06-05,35,16,China,,deferred
-826,Female,Part-time MBA,2023-06-10,24,2,China,,enrolled
-827,Male,Online MBA,2021-01-18,29,5,Rwanda,,enrolled
-828,Male,Online MBA,2023-12-19,34,10,India,,enrolled
-829,Male,Executive MBA,2020-10-25,34,14,Philippines,,withdrawn
-830,Male,Executive MBA,2021-09-02,33,2,Germany,Russian Federation,enrolled
-831,Male,Part-time MBA,2023-10-11,28,5,Iran,,enrolled
-832,Male,Part-time MBA,2023-12-29,35,16,Russian Federation,,deferred
-833,Male,Online MBA,2021-12-26,30,6,Germany,,declined_offer
-834,Male,Online MBA,2021-03-06,39,8,China,,withdrawn
-835,Male,Part-time MBA,2020-11-19,28,6,Germany,,rejected
-836,Male,Executive MBA,2022-12-29,37,6,Serbia,,enrolled
-837,Female,Online MBA,2021-12-03,26,3,France,,enrolled
-838,Male,Online MBA,2023-12-26,44,12,Germany,,enrolled
-839,Male,Online MBA,2021-03-21,37,12,Russian Federation,,rejected
-840,Male,Online MBA,2023-06-28,32,12,Germany,,enrolled
-841,Male,Online MBA,2021-08-02,29,5,United States,,declined_offer
-842,Male,Online MBA,2021-04-26,36,17,Croatia,,rejected
-843,Male,Part-time MBA,2021-02-08,44,15,Russian Federation,,enrolled
-844,Female,Online MBA,2022-10-30,46,20,India,,enrolled
-845,Female,Executive MBA,2022-11-17,39,19,Poland,,withdrawn
-846,Male,Part-time MBA,2023-07-18,40,11,Russian Federation,,enrolled
-847,Male,Part-time MBA,2023-10-27,27,7,Serbia,,enrolled
-848,Male,Online MBA,2021-07-09,40,18,Egypt,,enrolled
-849,Male,Online MBA,2021-09-19,44,20,Germany,,withdrawn
-850,Female,Part-time MBA,2022-01-14,35,11,Ireland,,enrolled
-851,Male,Executive MBA,2022-02-12,45,19,India,,enrolled
-852,Male,Executive MBA,2023-07-12,33,9,Russian Federation,,rejected
-853,Female,Online MBA,2020-10-20,29,5,France,,withdrawn
-854,Male,Online MBA,2021-05-07,33,7,Mexico,,declined_offer
-855,Female,Part-time MBA,2022-12-14,31,2,Germany,,enrolled
-856,Male,Online MBA,2023-04-10,38,7,China,,enrolled
-857,Male,Part-time MBA,2022-04-11,29,4,Russian Federation,,rejected
-858,Female,Online MBA,2023-01-26,31,8,Italy,,rejected
-859,Female,Executive MBA,2022-12-17,35,8,Germany,,enrolled
-860,Male,Executive MBA,2024-03-29,39,17,China,,deferred
-861,Male,Online MBA,2023-03-09,40,16,Germany,,enrolled
-862,Male,Executive MBA,2023-09-09,46,20,Norway,,enrolled
-863,Male,Executive MBA,2024-03-04,29,6,Germany,,declined_offer
-864,Male,Online MBA,2022-03-06,32,6,Russian Federation,,rejected
-865,Male,Executive MBA,2022-11-06,41,10,Russian Federation,Egypt,declined_offer
-866,Male,Executive MBA,2021-06-16,40,20,Russian Federation,,declined_offer
-867,Male,Executive MBA,2023-03-08,44,20,Russian Federation,,deferred
-868,Male,Executive MBA,2021-07-09,49,18,Croatia,,enrolled
-869,Male,Online MBA,2020-11-17,32,11,Poland,,enrolled
-870,Male,Online MBA,2023-07-07,36,8,Germany,,rejected
-871,Male,Online MBA,2022-08-29,36,9,China,,enrolled
-872,Male,Online MBA,2021-02-10,30,10,India,,enrolled
-873,Male,Part-time MBA,2020-10-25,35,8,Greece,,declined_offer
-874,Male,Online MBA,2022-07-31,31,5,China,,enrolled
-875,Male,Part-time MBA,2021-08-12,30,11,China,,enrolled
-876,Male,Online MBA,2023-05-02,31,8,Romania,,enrolled
-877,Female,Online MBA,2023-12-23,31,8,China,,enrolled
-878,Male,Executive MBA,2024-03-07,43,11,Russian Federation,,withdrawn
-879,Male,Online MBA,2020-10-29,40,9,Portugal,,enrolled
-880,Male,Online MBA,2021-07-14,34,10,Germany,,enrolled
-881,Male,Part-time MBA,2021-07-27,35,12,Algeria,,enrolled
-882,Female,Executive MBA,2023-06-15,32,13,China,,withdrawn
-883,Male,Executive MBA,2023-09-06,33,9,India,,enrolled
-884,Male,Online MBA,2022-07-16,30,8,Russian Federation,,declined_offer
-885,Female,Executive MBA,2021-09-17,40,15,Germany,,enrolled
-886,Male,Executive MBA,2021-03-30,26,4,Brazil,,withdrawn
-887,Male,Executive MBA,2021-05-24,32,10,Norway,,enrolled
-888,Male,Part-time MBA,2020-10-13,48,13,India,,enrolled
-889,Female,Part-time MBA,2023-09-18,34,10,Italy,,enrolled
-890,Female,Online MBA,2022-04-03,50,20,China,,withdrawn
-891,Male,Online MBA,2022-04-13,44,14,India,,rejected
-892,Male,Executive MBA,2023-02-14,37,6,Germany,Korea,enrolled
-893,Male,Online MBA,2021-12-28,32,2,Czech Republic,,enrolled
-894,Male,Part-time MBA,2023-02-07,29,2,Russian Federation,,withdrawn
-895,Female,Online MBA,2021-04-25,30,7,China,,enrolled
-896,Male,Online MBA,2024-03-01,38,15,Romania,,deferred
-897,Male,Part-time MBA,2022-11-06,37,15,Serbia,,enrolled
-898,Female,Part-time MBA,2021-06-04,30,6,China,,enrolled
-899,Male,Online MBA,2023-11-15,24,3,United States,,rejected
-900,Male,Part-time MBA,2022-09-25,33,3,Russian Federation,,enrolled
-901,Male,Online MBA,2022-04-08,34,10,Germany,,enrolled
-902,Male,Part-time MBA,2023-12-12,36,14,Hungary,,enrolled
-903,Male,Part-time MBA,2022-07-24,30,2,Czech Republic,,declined_offer
-904,Male,Executive MBA,2022-08-11,28,5,Germany,,declined_offer
-905,Female,Part-time MBA,2021-06-19,32,7,Italy,,withdrawn
-906,Male,Online MBA,2023-11-19,30,8,Russian Federation,,enrolled
-907,Male,Online MBA,2023-04-27,35,8,Greece,,enrolled
-908,Female,Online MBA,2023-03-02,27,4,Georgia,,declined_offer
-909,Female,Part-time MBA,2021-04-07,33,14,Bulgaria,,declined_offer
-910,Female,Online MBA,2021-05-30,37,13,Germany,,enrolled
-911,Male,Online MBA,2021-09-15,36,6,Portugal,,enrolled
-912,Male,Online MBA,2022-06-01,27,3,Russian Federation,,enrolled
-913,Female,Online MBA,2020-10-09,31,8,Peru,,enrolled
-914,Male,Executive MBA,2021-10-11,21,1,Poland,,enrolled
-915,Male,Online MBA,2021-09-21,31,4,Norway,,enrolled
-916,Male,Online MBA,2023-05-31,33,3,Russian Federation,,enrolled
-917,Male,Executive MBA,2023-05-11,31,8,China,,withdrawn
-918,Male,Online MBA,2021-01-05,37,9,Peru,,rejected
-919,Male,Online MBA,2021-12-26,39,17,United States,,enrolled
-920,Male,Online MBA,2021-12-04,46,16,Germany,,enrolled
-921,Male,Online MBA,2021-04-12,37,15,Ghana,,declined_offer
-922,Male,Online MBA,2022-02-12,33,10,Germany,,enrolled
-923,Male,Executive MBA,2022-07-26,38,19,Poland,,enrolled
-924,Male,Part-time MBA,2023-09-13,31,4,Iran,,declined_offer
-925,Female,Part-time MBA,2022-08-29,34,5,United States,,enrolled
-926,Male,Online MBA,2022-08-04,29,7,Germany,,deferred
-927,Female,Part-time MBA,2023-05-22,33,11,Portugal,,declined_offer
-928,Male,Online MBA,2022-04-21,26,6,Egypt,,enrolled
-929,Female,Part-time MBA,2022-05-06,30,6,China,,declined_offer
-930,Female,Online MBA,2020-11-04,44,19,China,,enrolled
-931,Male,Part-time MBA,2020-11-03,29,4,Russian Federation,,enrolled
-932,Male,Executive MBA,2022-03-07,34,15,Germany,India,enrolled
-933,Male,Online MBA,2021-03-08,40,17,Poland,,rejected
-934,Male,Part-time MBA,2021-10-24,26,3,Russian Federation,,enrolled
-935,Male,Part-time MBA,2021-02-07,31,9,India,,enrolled
-936,Male,Online MBA,2023-02-17,38,7,India,,enrolled
-937,Male,Executive MBA,2024-02-10,31,10,France,,withdrawn
-938,Male,Online MBA,2023-06-10,39,17,Romania,,enrolled
-939,Female,Online MBA,2021-10-07,42,15,United States,,enrolled
-940,Male,Online MBA,2021-08-14,30,8,Taiwan,,enrolled
-941,Male,Online MBA,2023-10-02,40,12,Germany,,enrolled
-942,Male,Online MBA,2022-09-12,30,10,Germany,San Marino,enrolled
-943,Male,Part-time MBA,2022-08-29,32,12,Pakistan,,enrolled
-944,Male,Online MBA,2022-05-19,37,8,Germany,,enrolled
-945,Male,Online MBA,2023-06-09,37,8,India,,withdrawn
-946,Male,Online MBA,2022-10-22,32,13,Australia,,enrolled
-947,Female,Part-time MBA,2022-12-16,32,13,China,United Kingdom,enrolled
-948,Male,Online MBA,2021-11-26,31,8,Turkey,,rejected
-949,Male,Executive MBA,2021-09-11,37,14,United States,,declined_offer
-950,Male,Executive MBA,2022-12-17,34,7,Germany,,rejected
-951,Female,Online MBA,2022-11-12,36,17,Italy,,enrolled
-952,Male,Part-time MBA,2021-05-21,28,2,Italy,,enrolled
-953,Male,Online MBA,2024-01-18,32,6,United States,,rejected
-954,Male,Part-time MBA,2022-06-12,26,4,Viet Nam,,enrolled
-955,Female,Executive MBA,2023-02-21,44,19,China,,enrolled
-956,Female,Online MBA,2022-06-19,34,11,Germany,,declined_offer
-957,Male,Executive MBA,2023-12-02,38,11,Russian Federation,,enrolled
-958,Female,Online MBA,2020-12-10,42,20,Korea,,declined_offer
-959,Male,Executive MBA,2021-08-08,42,20,India,,enrolled
-960,Male,Online MBA,2021-11-07,32,11,Italy,,rejected
-961,Male,Part-time MBA,2023-06-28,32,6,India,,rejected
-962,Male,Online MBA,2023-01-27,33,8,United States,,enrolled
-963,Male,Online MBA,2020-10-13,32,6,India,,enrolled
-964,Male,Online MBA,2021-04-21,31,10,Greece,Ukraine,enrolled
-965,Female,Executive MBA,2023-12-24,48,18,China,Norway,rejected
-966,Female,Online MBA,2021-05-07,42,17,Italy,,withdrawn
-967,Male,Executive MBA,2022-03-26,35,10,United States,,on_hold
-968,Male,Part-time MBA,2023-07-22,32,7,Russian Federation,Poland,enrolled
-969,Male,Executive MBA,2023-10-25,26,5,India,,withdrawn
-970,Male,Part-time MBA,2024-03-19,30,9,China,,enrolled
-971,Male,Online MBA,2024-02-12,26,5,Russian Federation,,rejected
-972,Male,Part-time MBA,2023-01-17,40,20,Germany,,enrolled
-973,Male,Executive MBA,2022-09-13,31,9,India,,enrolled
-974,Male,Online MBA,2021-03-18,30,9,Portugal,,enrolled
-975,Female,Executive MBA,2022-09-21,28,2,Pakistan,,withdrawn
-976,Female,Online MBA,2020-12-10,25,2,Taiwan,,enrolled
-977,Female,Online MBA,2021-05-29,38,16,Italy,,enrolled
-978,Male,Executive MBA,2022-10-21,40,9,Germany,,rejected
-979,Female,Online MBA,2021-05-17,44,20,China,,enrolled
-980,Male,Online MBA,2023-08-02,47,18,Colombia,,declined_offer
-981,Male,Executive MBA,2020-12-08,32,5,Serbia,San Marino,enrolled
-982,Female,Executive MBA,2022-09-28,37,17,Italy,,enrolled
-983,Female,Part-time MBA,2023-05-01,34,5,China,,withdrawn
-984,Male,Online MBA,2023-11-12,32,12,United Kingdom,,enrolled
-985,Female,Part-time MBA,2023-03-01,31,8,China,,enrolled
-986,Non-binary,Online MBA,2021-05-30,30,2,Ireland,,enrolled
+0,Male,Executive MBA,2022-07-11,23,3,China,,rejected
+1,Female,Executive MBA,2022-07-24,36,14,China,,enrolled
+2,Female,Online MBA,2022-12-13,34,5,Italy,,rejected
+3,Female,Executive MBA,2020-12-03,36,7,India,,rejected
+4,Male,Online MBA,2023-06-20,27,3,Russian Federation,,declined_offer
+5,Male,Online MBA,2023-04-13,36,14,India,,rejected
+6,Male,Online MBA,2022-06-19,50,20,Ghana,,enrolled
+7,Male,Executive MBA,2023-10-26,35,13,India,,enrolled
+8,Male,Online MBA,2023-12-21,38,15,Mexico,,declined_offer
+9,Male,Executive MBA,2021-10-10,24,3,United States,,enrolled
+10,Male,Online MBA,2020-10-14,37,16,Russian Federation,,declined_offer
+11,Female,Executive MBA,2023-06-22,31,2,Poland,Belarus,withdrawn
+12,Male,Online MBA,2022-03-03,40,18,United States,,declined_offer
+13,Female,Online MBA,2023-09-27,34,5,United States,,enrolled
+14,Male,Part-time MBA,2022-11-25,35,11,Russian Federation,,on_hold
+15,Male,Online MBA,2022-07-14,37,14,Mexico,,enrolled
+16,Female,Online MBA,2023-02-18,34,10,Mexico,,rejected
+17,Male,Online MBA,2021-06-03,42,10,Serbia,,rejected
+18,Male,Part-time MBA,2023-03-01,31,9,United States,,enrolled
+19,Male,Online MBA,2021-01-02,33,2,Romania,,enrolled
+20,Male,Part-time MBA,2021-12-25,30,8,Mexico,,enrolled
+21,Male,Online MBA,2022-11-28,39,17,Russian Federation,,enrolled
+22,Female,Online MBA,2023-05-02,45,16,Switzerland,,enrolled
+23,Male,Online MBA,2021-07-13,32,11,Russian Federation,,enrolled
+24,Male,Online MBA,2024-03-30,31,8,Portugal,,rejected
+25,Female,Online MBA,2022-10-13,27,3,China,,enrolled
+26,Female,Online MBA,2022-03-02,29,7,Germany,,rejected
+27,Male,Online MBA,2022-06-30,41,14,China,,enrolled
+28,Male,Executive MBA,2022-11-22,46,11,China,,enrolled
+29,Male,Online MBA,2021-11-05,50,19,France,,enrolled
+30,Male,Online MBA,2023-09-05,35,16,Spain,,enrolled
+31,Female,Part-time MBA,2022-05-28,28,3,Philippines,,enrolled
+32,Female,Online MBA,2020-10-14,44,13,Belarus,,rejected
+33,Female,Executive MBA,2022-06-28,39,9,China,,enrolled
+34,Male,Part-time MBA,2024-03-17,34,11,United States,,enrolled
+35,Male,Online MBA,2022-03-16,35,13,Greece,,rejected
+36,Male,Part-time MBA,2023-08-12,41,15,Germany,,declined_offer
+37,Female,Online MBA,2023-12-16,39,8,Italy,,enrolled
+38,Male,Online MBA,2023-05-07,35,14,Germany,,declined_offer
+39,Male,Online MBA,2023-12-02,25,4,India,Ireland,withdrawn
+40,Male,Part-time MBA,2023-03-06,26,4,Germany,,enrolled
+41,Male,Executive MBA,2021-02-24,33,13,Switzerland,,enrolled
+42,Male,Online MBA,2020-10-09,35,11,United States,Turkey,enrolled
+43,Male,Part-time MBA,2022-11-06,33,10,Spain,,enrolled
+44,Male,Online MBA,2023-05-18,42,18,Germany,,withdrawn
+45,Male,Part-time MBA,2022-11-10,30,8,Norway,,enrolled
+46,Male,Part-time MBA,2021-03-05,34,10,Poland,,enrolled
+47,Male,Online MBA,2022-05-19,39,16,Germany,,enrolled
+48,Male,Online MBA,2023-08-26,35,4,Russian Federation,,withdrawn
+49,Male,Online MBA,2024-03-25,26,3,Viet Nam,,enrolled
+50,Female,Executive MBA,2021-10-05,41,18,France,,enrolled
+51,Male,Executive MBA,2023-08-29,39,9,Greece,,enrolled
+52,Male,Online MBA,2021-05-10,35,10,Poland,,rejected
+53,Male,Part-time MBA,2023-04-26,28,8,India,,on_hold
+54,Male,Executive MBA,2023-08-18,35,13,United Kingdom,,enrolled
+55,Male,Online MBA,2020-11-14,32,10,China,,enrolled
+56,Female,Online MBA,2022-05-25,37,13,Kenya,,enrolled
+57,Male,Online MBA,2022-10-18,40,17,India,,withdrawn
+58,Male,Executive MBA,2022-02-02,36,8,Pakistan,,deferred
+59,Male,Online MBA,2023-08-07,35,11,United States,,declined_offer
+60,Male,Executive MBA,2020-12-11,36,16,India,,enrolled
+61,Male,Part-time MBA,2021-03-28,32,8,Russian Federation,,enrolled
+62,Male,Executive MBA,2023-09-17,48,20,Finland,,enrolled
+63,Female,Online MBA,2022-05-15,36,14,United States,,enrolled
+64,Male,Part-time MBA,2021-11-29,30,5,France,,enrolled
+65,Male,Online MBA,2023-07-31,31,8,Germany,,rejected
+66,Male,Online MBA,2021-01-17,36,6,Russian Federation,,enrolled
+67,Male,Online MBA,2021-12-09,37,6,Russian Federation,,enrolled
+68,Female,Online MBA,2023-04-11,35,13,China,,enrolled
+69,Male,Executive MBA,2020-10-15,31,10,Germany,,on_hold
+70,Male,Executive MBA,2021-08-14,33,3,Venezuela,,enrolled
+71,Male,Online MBA,2023-08-20,32,11,India,Morocco,deferred
+72,Male,Executive MBA,2022-08-19,34,14,India,,enrolled
+73,Female,Executive MBA,2022-04-24,40,13,Taiwan,,on_hold
+74,Male,Online MBA,2023-12-16,38,11,Germany,,enrolled
+75,Male,Part-time MBA,2023-08-01,30,10,India,,enrolled
+76,Female,Online MBA,2021-10-18,33,11,Serbia,,enrolled
+77,Female,Part-time MBA,2023-06-21,39,10,Germany,,enrolled
+78,Male,Online MBA,2020-10-11,28,4,Russian Federation,,enrolled
+79,Male,Executive MBA,2023-12-20,30,11,China,,enrolled
+80,Male,Online MBA,2022-11-07,38,18,Pakistan,,enrolled
+81,Male,Part-time MBA,2024-01-16,35,13,China,,withdrawn
+82,Male,Part-time MBA,2021-04-27,35,16,Switzerland,,enrolled
+83,Female,Online MBA,2022-07-29,49,19,India,,enrolled
+84,Male,Executive MBA,2023-07-02,23,3,Germany,,deferred
+85,Male,Online MBA,2023-04-17,31,12,Russian Federation,,enrolled
+86,Female,Online MBA,2022-05-16,37,9,China,,enrolled
+87,Female,Executive MBA,2021-01-27,36,14,Belarus,,enrolled
+88,Male,Executive MBA,2020-12-01,44,20,China,San Marino,rejected
+89,Female,Part-time MBA,2021-04-21,32,7,Spain,,enrolled
+90,Female,Part-time MBA,2020-12-29,38,11,Viet Nam,,enrolled
+91,Male,Online MBA,2021-01-12,41,12,Portugal,,enrolled
+92,Male,Part-time MBA,2022-03-27,32,5,Russian Federation,,enrolled
+93,Male,Part-time MBA,2023-12-02,36,13,Russian Federation,,declined_offer
+94,Male,Executive MBA,2021-04-03,36,14,Greece,,enrolled
+95,Male,Online MBA,2022-12-08,34,11,United Kingdom,,enrolled
+96,Male,Online MBA,2021-08-11,33,11,Spain,,withdrawn
+97,Male,Online MBA,2023-08-24,28,6,Algeria,,enrolled
+98,Non-binary,Executive MBA,2021-01-22,40,13,Pakistan,,withdrawn
+99,Male,Online MBA,2023-02-04,32,7,United States,Serbia,withdrawn
+100,Male,Online MBA,2021-12-07,38,15,Philippines,,rejected
+101,Male,Executive MBA,2020-10-13,40,20,Germany,,enrolled
+102,Female,Part-time MBA,2024-01-02,32,4,China,,rejected
+103,Female,Part-time MBA,2021-06-12,32,4,Germany,,enrolled
+104,Female,Online MBA,2022-01-25,27,4,Germany,,on_hold
+105,Male,Executive MBA,2023-07-23,42,19,China,,enrolled
+106,Male,Executive MBA,2021-10-22,27,3,Russian Federation,Australia,enrolled
+107,Male,Executive MBA,2021-02-05,39,20,Russian Federation,,rejected
+108,Male,Online MBA,2024-03-05,41,14,Spain,,rejected
+109,Male,Online MBA,2020-10-16,38,12,China,,enrolled
+110,Female,Online MBA,2021-12-21,37,6,China,,rejected
+111,Male,Online MBA,2022-08-06,37,6,China,,enrolled
+112,Female,Part-time MBA,2024-02-01,28,5,Germany,,enrolled
+113,Male,Online MBA,2022-11-07,33,14,Greece,,enrolled
+114,Male,Online MBA,2023-03-12,49,15,India,,declined_offer
+115,Male,Online MBA,2022-10-09,35,12,Germany,,rejected
+116,Male,Executive MBA,2021-05-16,38,15,Russian Federation,,enrolled
+117,Male,Part-time MBA,2021-05-22,31,6,Finland,,declined_offer
+118,Male,Executive MBA,2023-07-17,39,12,Italy,,enrolled
+119,Female,Online MBA,2023-06-11,31,12,Spain,,withdrawn
+120,Male,Part-time MBA,2020-10-14,30,5,Romania,,enrolled
+121,Male,Online MBA,2021-12-17,34,4,Russian Federation,,rejected
+122,Male,Part-time MBA,2022-02-05,31,11,Germany,,enrolled
+123,Male,Part-time MBA,2022-01-04,31,12,United States,,enrolled
+124,Female,Online MBA,2023-03-14,30,10,China,,enrolled
+125,Male,Executive MBA,2022-07-18,36,14,Serbia,,enrolled
+126,Male,Online MBA,2023-04-06,40,19,Russian Federation,Norway,declined_offer
+127,Male,Part-time MBA,2023-04-12,31,8,China,,enrolled
+128,Male,Online MBA,2023-05-24,37,13,Pakistan,,enrolled
+129,Female,Online MBA,2021-09-27,33,13,Taiwan,,withdrawn
+130,Male,Executive MBA,2022-04-05,39,19,Czech Republic,,rejected
+131,Female,Online MBA,2022-01-10,30,10,China,,declined_offer
+132,Male,Online MBA,2021-09-27,38,14,Chile,,enrolled
+133,Male,Part-time MBA,2024-02-10,30,2,Iran,,enrolled
+134,Male,Part-time MBA,2021-11-17,24,3,United States,Hungary,enrolled
+135,Male,Online MBA,2021-01-01,22,0,Poland,,rejected
+136,Male,Online MBA,2023-01-23,38,19,India,,withdrawn
+137,Female,Executive MBA,2022-10-03,38,14,India,,enrolled
+138,Female,Online MBA,2022-12-13,38,15,Taiwan,,declined_offer
+139,Female,Executive MBA,2024-01-03,41,13,China,,enrolled
+140,Female,Executive MBA,2023-05-15,40,17,Pakistan,,enrolled
+141,Male,Online MBA,2022-05-27,45,16,Germany,,enrolled
+142,Male,Executive MBA,2022-10-03,37,18,China,Japan,rejected
+143,Male,Online MBA,2022-11-22,35,13,Germany,,enrolled
+144,Male,Part-time MBA,2022-08-07,28,6,China,,enrolled
+145,Female,Online MBA,2024-03-02,32,12,India,,withdrawn
+146,Male,Part-time MBA,2022-10-10,34,9,Russian Federation,,enrolled
+147,Male,Online MBA,2024-02-15,33,12,India,,enrolled
+148,Male,Online MBA,2021-05-17,27,3,Germany,,enrolled
+149,Female,Part-time MBA,2021-06-30,34,12,India,,declined_offer
+150,Male,Part-time MBA,2023-11-04,41,11,China,,on_hold
+151,Female,Part-time MBA,2022-12-20,32,8,Mexico,,rejected
+152,Female,Online MBA,2022-05-03,35,15,China,,enrolled
+153,Male,Part-time MBA,2021-05-30,31,12,France,Colombia,enrolled
+154,Male,Online MBA,2023-05-21,35,8,Ghana,,rejected
+155,Male,Online MBA,2024-02-28,33,10,India,,enrolled
+156,Female,Part-time MBA,2023-12-09,32,10,China,,enrolled
+157,Female,Online MBA,2023-11-07,38,14,China,Switzerland,declined_offer
+158,Female,Online MBA,2023-12-16,37,6,Morocco,,enrolled
+159,Female,Part-time MBA,2021-07-13,32,8,Italy,,declined_offer
+160,Male,Executive MBA,2023-08-05,36,7,Serbia,,withdrawn
+161,Male,Online MBA,2023-04-27,40,16,Russian Federation,,declined_offer
+162,Male,Online MBA,2022-08-06,38,14,Pakistan,,enrolled
+163,Male,Online MBA,2024-03-18,32,4,Mexico,,rejected
+164,Male,Executive MBA,2021-08-01,34,7,Russian Federation,,declined_offer
+165,Female,Part-time MBA,2021-05-03,30,9,Germany,,declined_offer
+166,Male,Part-time MBA,2021-05-27,27,4,Ghana,,enrolled
+167,Female,Executive MBA,2020-12-14,38,11,Italy,,enrolled
+168,Male,Online MBA,2023-08-01,31,2,India,,enrolled
+169,Female,Online MBA,2023-12-31,37,15,China,,enrolled
+170,Male,Online MBA,2023-06-15,37,8,China,,enrolled
+171,Male,Part-time MBA,2021-03-20,35,7,Taiwan,,declined_offer
+172,Male,Online MBA,2023-05-28,37,18,India,,enrolled
+173,Male,Part-time MBA,2023-03-22,30,8,Ghana,,enrolled
+174,Male,Executive MBA,2023-11-25,37,14,Spain,,enrolled
+175,Male,Executive MBA,2022-11-23,49,17,Colombia,,deferred
+176,Male,Online MBA,2023-10-07,26,4,Germany,,enrolled
+177,Female,Executive MBA,2021-07-28,35,14,China,,enrolled
+178,Male,Executive MBA,2021-10-11,43,16,Germany,,withdrawn
+179,Male,Online MBA,2021-11-20,27,5,Germany,,declined_offer
+180,Male,Online MBA,2023-06-04,34,13,Finland,,enrolled
+181,Male,Executive MBA,2020-11-18,38,10,Germany,,enrolled
+182,Male,Part-time MBA,2022-04-01,41,11,Russian Federation,,enrolled
+183,Female,Online MBA,2023-01-20,49,20,Spain,,enrolled
+184,Male,Online MBA,2023-02-10,35,14,Russian Federation,,rejected
+185,Male,Part-time MBA,2021-12-01,24,2,Mexico,,enrolled
+186,Female,Executive MBA,2023-07-23,42,19,Turkey,,enrolled
+187,Female,Part-time MBA,2021-12-08,28,2,Spain,,enrolled
+188,Male,Executive MBA,2021-04-23,24,3,Nigeria,,enrolled
+189,Male,Part-time MBA,2021-06-16,28,3,Russian Federation,,enrolled
+190,Female,Online MBA,2023-07-10,33,7,Tunisia,,deferred
+191,Female,Online MBA,2021-06-04,28,5,Turkey,Russian Federation,enrolled
+192,Female,Executive MBA,2021-12-02,44,20,Netherlands,,enrolled
+193,Male,Part-time MBA,2021-10-18,34,10,Russian Federation,,rejected
+194,Male,Online MBA,2023-11-15,36,15,Germany,,enrolled
+195,Male,Online MBA,2021-10-03,27,2,Nigeria,,enrolled
+196,Female,Online MBA,2023-05-14,28,5,Taiwan,,enrolled
+197,Female,Executive MBA,2022-02-10,28,5,Taiwan,,withdrawn
+198,Female,Part-time MBA,2023-01-26,41,19,Italy,,declined_offer
+199,Male,Executive MBA,2023-04-30,46,20,Germany,,rejected
+200,Male,Online MBA,2023-07-21,30,11,Russian Federation,,rejected
+201,Male,Online MBA,2021-08-11,32,7,India,,deferred
+202,Male,Online MBA,2021-01-01,42,20,India,,enrolled
+203,Male,Executive MBA,2021-02-08,31,12,Germany,,enrolled
+204,Female,Online MBA,2021-02-01,36,6,Italy,,declined_offer
+205,Male,Online MBA,2021-09-09,29,5,Germany,,enrolled
+206,Male,Online MBA,2021-09-01,25,3,Germany,,declined_offer
+207,Male,Online MBA,2023-09-07,26,4,United States,,enrolled
+208,Male,Online MBA,2022-09-11,33,6,India,,enrolled
+209,Female,Executive MBA,2021-04-18,42,20,India,,declined_offer
+210,Female,Part-time MBA,2020-12-17,40,15,Italy,,enrolled
+211,Male,Part-time MBA,2021-09-07,37,15,Russian Federation,,enrolled
+212,Male,Online MBA,2022-11-11,32,4,China,,enrolled
+213,Male,Online MBA,2022-12-08,46,14,Greece,,declined_offer
+214,Female,Executive MBA,2021-02-01,27,5,Portugal,,enrolled
+215,Male,Online MBA,2020-11-23,44,15,Italy,,enrolled
+216,Female,Online MBA,2020-11-13,38,16,Greece,,enrolled
+217,Female,Online MBA,2020-10-20,38,19,India,,rejected
+218,Male,Executive MBA,2021-04-21,36,6,Italy,,enrolled
+219,Male,Part-time MBA,2020-12-27,35,7,Portugal,,enrolled
+220,Male,Online MBA,2022-11-18,34,7,Russian Federation,,withdrawn
+221,Male,Executive MBA,2021-08-18,40,18,Germany,,enrolled
+222,Male,Part-time MBA,2020-11-14,31,5,Pakistan,,on_hold
+223,Male,Part-time MBA,2024-01-02,32,6,United States,,enrolled
+224,Male,Part-time MBA,2023-06-03,28,8,China,,enrolled
+225,Male,Part-time MBA,2022-03-10,34,5,India,,enrolled
+226,Male,Executive MBA,2021-10-08,21,0,United States,,enrolled
+227,Female,Online MBA,2022-12-17,28,8,Lebanon,,enrolled
+228,Male,Online MBA,2022-08-06,33,10,Germany,,enrolled
+229,Female,Executive MBA,2023-01-21,40,10,France,,enrolled
+230,Male,Online MBA,2021-07-07,37,17,Russian Federation,,declined_offer
+231,Female,Part-time MBA,2021-09-07,30,7,Turkey,,declined_offer
+232,Male,Executive MBA,2022-11-03,31,3,India,,enrolled
+233,Male,Part-time MBA,2022-01-23,38,15,United States,Sweden,withdrawn
+234,Male,Online MBA,2021-10-12,26,3,Germany,Croatia,enrolled
+235,Male,Online MBA,2022-03-04,46,12,India,Morocco,enrolled
+236,Male,Part-time MBA,2021-01-18,26,3,Norway,India,enrolled
+237,Male,Part-time MBA,2021-02-18,24,2,Spain,Philippines,enrolled
+238,Male,Online MBA,2022-10-03,42,19,Italy,Germany,withdrawn
+239,Male,Executive MBA,2023-10-12,25,2,Pakistan,,enrolled
+240,Male,Executive MBA,2023-04-12,34,12,Germany,,rejected
+241,Female,Online MBA,2022-12-15,49,19,China,,enrolled
+242,Male,Online MBA,2021-07-25,33,12,Russian Federation,,rejected
+243,Female,Executive MBA,2021-09-29,37,9,China,,enrolled
+244,Male,Online MBA,2023-07-27,27,3,Germany,,enrolled
+245,Male,Executive MBA,2021-12-01,41,19,Germany,,enrolled
+246,Male,Online MBA,2023-10-15,35,4,Serbia,,declined_offer
+247,Male,Online MBA,2021-11-09,35,13,India,,deferred
+248,Male,Online MBA,2020-11-10,36,15,China,,rejected
+249,Male,Online MBA,2020-10-15,41,18,Germany,Belarus,enrolled
+250,Male,Part-time MBA,2022-05-15,29,7,India,,enrolled
+251,Male,Part-time MBA,2020-11-15,34,9,China,,enrolled
+252,Male,Executive MBA,2022-05-07,44,20,Sweden,France,enrolled
+253,Male,Part-time MBA,2023-10-02,35,7,Russian Federation,,declined_offer
+254,Male,Executive MBA,2022-08-22,37,13,India,,declined_offer
+255,Male,Online MBA,2022-11-29,28,3,Germany,,rejected
+256,Female,Executive MBA,2021-04-28,41,13,France,,enrolled
+257,Male,Online MBA,2021-09-15,33,10,Turkey,,rejected
+258,Female,Online MBA,2022-11-17,36,15,Italy,,enrolled
+259,Female,Online MBA,2022-10-04,41,12,Hungary,,enrolled
+260,Male,Online MBA,2020-12-12,31,8,Netherlands,,enrolled
+261,Male,Online MBA,2021-11-03,29,8,Germany,,enrolled
+262,Male,Online MBA,2022-12-31,46,15,Korea,,declined_offer
+263,Male,Executive MBA,2022-05-01,29,2,Russian Federation,,enrolled
+264,Female,Online MBA,2022-02-09,25,2,China,,enrolled
+265,Male,Executive MBA,2023-09-23,43,16,Russian Federation,,declined_offer
+266,Male,Online MBA,2022-07-11,33,8,Germany,,enrolled
+267,Female,Online MBA,2023-01-18,35,16,Switzerland,,deferred
+268,Male,Online MBA,2021-12-28,33,12,Russian Federation,,enrolled
+269,Male,Online MBA,2021-04-30,25,3,Russian Federation,,declined_offer
+270,Male,Executive MBA,2023-02-21,41,16,United States,,enrolled
+271,Male,Part-time MBA,2021-08-11,33,6,Brazil,,enrolled
+272,Male,Executive MBA,2020-12-19,39,16,Russian Federation,,declined_offer
+273,Male,Online MBA,2023-06-20,28,2,Norway,,enrolled
+274,Female,Part-time MBA,2021-11-16,40,14,Philippines,,enrolled
+275,Male,Online MBA,2022-02-24,36,10,Russian Federation,,enrolled
+276,Female,Executive MBA,2023-05-04,36,5,Greece,,on_hold
+277,Female,Executive MBA,2022-04-17,35,15,Turkey,,declined_offer
+278,Male,Part-time MBA,2020-10-16,32,12,France,,rejected
+279,Female,Online MBA,2022-02-12,44,13,China,,declined_offer
+280,Male,Online MBA,2021-12-01,34,10,Sweden,,withdrawn
+281,Female,Online MBA,2021-01-18,36,5,Russian Federation,,enrolled
+282,Male,Executive MBA,2021-04-12,39,12,Viet Nam,Ghana,enrolled
+283,Male,Executive MBA,2021-05-06,45,14,Georgia,Brazil,rejected
+284,Male,Part-time MBA,2022-06-01,28,5,China,,enrolled
+285,Male,Part-time MBA,2021-03-05,34,12,India,,enrolled
+286,Male,Online MBA,2022-04-09,37,18,China,,enrolled
+287,Female,Part-time MBA,2023-10-07,31,9,Spain,,deferred
+288,Female,Online MBA,2021-01-20,40,19,Pakistan,,enrolled
+289,Female,Executive MBA,2022-11-10,32,9,China,Japan,enrolled
+290,Male,Online MBA,2023-06-06,27,4,France,,enrolled
+291,Female,Online MBA,2023-01-17,26,4,China,,enrolled
+292,Male,Online MBA,2022-06-05,34,10,United States,,withdrawn
+293,Female,Online MBA,2023-03-14,35,5,Colombia,,on_hold
+294,Female,Part-time MBA,2023-09-29,30,5,Russian Federation,,rejected
+295,Male,Executive MBA,2021-04-15,41,10,Netherlands,,withdrawn
+296,Male,Online MBA,2022-04-21,31,5,Germany,,enrolled
+297,Male,Executive MBA,2021-07-04,31,11,Russian Federation,,deferred
+298,Female,Online MBA,2023-02-02,30,10,Spain,Chile,rejected
+299,Male,Online MBA,2020-10-14,40,13,Mexico,,enrolled
+300,Male,Part-time MBA,2023-12-17,32,4,Germany,,enrolled
+301,Male,Executive MBA,2024-02-10,20,0,United Kingdom,,withdrawn
+302,Male,Online MBA,2021-09-13,44,12,Russian Federation,,enrolled
+303,Male,Part-time MBA,2023-02-22,28,5,India,,deferred
+304,Male,Online MBA,2021-04-21,43,12,Germany,,enrolled
+305,Female,Online MBA,2024-02-01,27,6,China,,enrolled
+306,Female,Executive MBA,2021-12-06,44,20,China,,enrolled
+307,Male,Executive MBA,2022-08-01,24,4,Japan,United States,enrolled
+308,Male,Executive MBA,2023-08-18,31,4,Italy,,enrolled
+309,Female,Online MBA,2021-11-14,36,8,Greece,,rejected
+310,Male,Online MBA,2024-01-08,40,13,Russian Federation,Sweden,enrolled
+311,Male,Part-time MBA,2021-09-08,32,10,Russian Federation,,deferred
+312,Female,Online MBA,2022-08-10,44,13,China,,rejected
+313,Male,Online MBA,2021-05-29,43,12,Spain,,withdrawn
+314,Male,Online MBA,2021-08-24,32,4,Germany,,withdrawn
+315,Female,Online MBA,2023-01-20,33,14,Germany,,enrolled
+316,Male,Part-time MBA,2022-04-06,46,16,India,Ghana,declined_offer
+317,Male,Executive MBA,2024-02-20,36,14,China,,enrolled
+318,Female,Online MBA,2022-01-20,29,7,China,,enrolled
+319,Male,Online MBA,2021-07-08,42,12,Russian Federation,,enrolled
+320,Male,Part-time MBA,2023-06-03,25,2,Turkey,San Marino,declined_offer
+321,Female,Part-time MBA,2020-12-08,33,10,China,,enrolled
+322,Male,Online MBA,2022-11-02,32,2,Ghana,,enrolled
+323,Female,Online MBA,2021-07-18,41,18,Italy,,enrolled
+324,Male,Online MBA,2021-05-30,42,19,Russian Federation,,enrolled
+325,Male,Executive MBA,2022-05-03,26,3,Korea,,enrolled
+326,Male,Part-time MBA,2024-02-28,35,15,Ghana,,enrolled
+327,Male,Executive MBA,2024-03-19,48,16,Germany,,withdrawn
+328,Male,Online MBA,2022-07-13,32,3,Pakistan,,declined_offer
+329,Male,Part-time MBA,2020-11-01,33,10,Germany,,enrolled
+330,Male,Online MBA,2021-06-07,34,5,Switzerland,,rejected
+331,Male,Part-time MBA,2022-03-10,34,15,Russian Federation,,enrolled
+332,Male,Part-time MBA,2022-12-27,34,5,India,,enrolled
+333,Male,Online MBA,2021-05-30,34,13,Pakistan,,enrolled
+334,Male,Executive MBA,2022-11-24,29,5,Russian Federation,,enrolled
+335,Female,Online MBA,2022-03-01,44,18,China,,withdrawn
+336,Male,Online MBA,2023-05-11,41,12,China,,enrolled
+337,Female,Online MBA,2021-08-20,35,5,Italy,,enrolled
+338,Male,Online MBA,2022-03-16,37,11,Germany,,enrolled
+339,Male,Online MBA,2021-02-26,32,10,Germany,,enrolled
+340,Male,Online MBA,2020-12-27,40,12,Russian Federation,,enrolled
+341,Male,Executive MBA,2021-04-19,43,14,Germany,Mexico,deferred
+342,Female,Part-time MBA,2021-03-15,33,9,China,,deferred
+343,Male,Part-time MBA,2022-10-13,40,16,China,,enrolled
+344,Male,Online MBA,2021-05-23,44,17,India,,enrolled
+345,Female,Executive MBA,2022-03-12,45,16,China,,enrolled
+346,Male,Online MBA,2023-10-04,30,6,India,,withdrawn
+347,Male,Online MBA,2022-08-30,31,3,Portugal,,enrolled
+348,Male,Online MBA,2023-11-27,37,9,Russian Federation,Serbia,deferred
+349,Male,Online MBA,2022-09-09,35,15,India,,enrolled
+350,Female,Online MBA,2020-12-05,38,18,Sweden,,withdrawn
+351,Male,Online MBA,2023-03-14,33,10,China,,rejected
+352,Female,Executive MBA,2023-07-27,38,14,Germany,,deferred
+353,Male,Online MBA,2022-04-29,29,4,Russian Federation,Hungary,withdrawn
+354,Female,Online MBA,2021-10-12,32,4,United States,,enrolled
+355,Female,Online MBA,2023-11-13,39,10,Ukraine,,rejected
+356,Male,Online MBA,2022-04-26,36,10,United States,,declined_offer
+357,Male,Executive MBA,2022-12-10,45,14,Pakistan,,enrolled
+358,Male,Executive MBA,2023-11-21,46,16,Ireland,,enrolled
+359,Male,Online MBA,2021-10-22,28,6,India,,enrolled
+360,Male,Part-time MBA,2022-12-16,29,4,India,,enrolled
+361,Male,Part-time MBA,2024-01-09,30,2,Russian Federation,,rejected
+362,Male,Part-time MBA,2022-06-17,34,10,Russian Federation,,enrolled
+363,Male,Online MBA,2023-07-21,34,6,Russian Federation,,enrolled
+364,Female,Online MBA,2021-09-20,36,11,India,,declined_offer
+365,Female,Online MBA,2021-05-14,44,19,Turkey,Kenya,enrolled
+366,Male,Online MBA,2021-05-18,24,2,India,,enrolled
+367,Male,Online MBA,2022-10-29,36,10,Germany,,enrolled
+368,Male,Executive MBA,2022-02-18,39,17,Pakistan,United Kingdom,enrolled
+369,Female,Executive MBA,2021-05-05,43,13,India,,rejected
+370,Male,Executive MBA,2023-05-21,40,12,Germany,,enrolled
+371,Male,Online MBA,2020-12-05,36,13,United States,,enrolled
+372,Male,Online MBA,2022-09-17,28,6,Norway,Kenya,enrolled
+373,Male,Executive MBA,2023-04-04,40,16,Hong Kong,,enrolled
+374,Female,Online MBA,2023-01-29,46,17,Italy,,rejected
+375,Male,Executive MBA,2023-07-26,26,3,Germany,,declined_offer
+376,Male,Executive MBA,2022-07-12,38,16,Japan,,enrolled
+377,Male,Online MBA,2021-12-11,30,10,Germany,,enrolled
+378,Male,Online MBA,2021-08-09,31,7,Spain,,enrolled
+379,Female,Executive MBA,2022-04-10,39,10,India,,enrolled
+380,Male,Executive MBA,2024-02-12,31,9,Russian Federation,,withdrawn
+381,Female,Online MBA,2021-08-10,26,3,India,,withdrawn
+382,Male,Online MBA,2021-07-05,42,10,Russian Federation,,enrolled
+383,Female,Executive MBA,2023-05-18,32,13,Ukraine,Estonia,enrolled
+384,Female,Online MBA,2022-10-30,30,8,China,,enrolled
+385,Female,Online MBA,2020-10-07,33,11,Italy,,enrolled
+386,Male,Online MBA,2023-05-11,36,16,Norway,,enrolled
+387,Male,Part-time MBA,2022-01-20,36,9,Turkey,,declined_offer
+388,Male,Online MBA,2024-02-29,36,10,Germany,,rejected
+389,Female,Online MBA,2022-07-01,34,12,China,,rejected
+390,Male,Part-time MBA,2021-02-25,26,1,Sweden,,enrolled
+391,Male,Part-time MBA,2022-04-02,31,6,Germany,,enrolled
+392,Male,Part-time MBA,2021-11-18,34,9,Portugal,,withdrawn
+393,Male,Online MBA,2022-10-26,37,7,India,,enrolled
+394,Male,Part-time MBA,2021-05-27,26,5,Croatia,,withdrawn
+395,Male,Executive MBA,2020-12-27,48,14,India,Taiwan,enrolled
+396,Male,Online MBA,2022-01-06,29,6,Germany,,enrolled
+397,Male,Online MBA,2022-10-30,43,17,Mexico,,rejected
+398,Male,Online MBA,2022-11-21,34,11,Germany,,deferred
+399,Female,Online MBA,2021-08-10,27,6,China,Bulgaria,enrolled
+400,Male,Online MBA,2022-02-01,40,14,Nigeria,Iran,enrolled
+401,Male,Online MBA,2023-04-30,33,11,France,,enrolled
+402,Male,Online MBA,2022-12-01,29,6,Morocco,,declined_offer
+403,Male,Online MBA,2023-08-08,38,7,India,,enrolled
+404,Male,Part-time MBA,2021-05-13,32,6,Norway,,enrolled
+405,Male,Part-time MBA,2021-02-21,34,5,Russian Federation,,declined_offer
+406,Male,Online MBA,2021-02-24,38,11,Switzerland,Jordan,enrolled
+407,Male,Online MBA,2024-01-01,30,5,Switzerland,,enrolled
+408,Female,Online MBA,2022-11-09,32,7,Peru,,withdrawn
+409,Female,Part-time MBA,2023-07-15,32,9,India,,enrolled
+410,Male,Online MBA,2023-05-01,41,18,Russian Federation,,rejected
+411,Male,Executive MBA,2021-08-05,42,13,India,,enrolled
+412,Male,Online MBA,2021-10-23,31,4,Spain,,enrolled
+413,Female,Online MBA,2022-11-28,34,14,China,,enrolled
+414,Male,Online MBA,2021-03-05,25,4,Germany,,rejected
+415,Male,Online MBA,2022-03-13,35,16,Australia,,enrolled
+416,Female,Executive MBA,2021-07-01,31,4,India,,enrolled
+417,Female,Online MBA,2023-02-28,28,8,Iran,,enrolled
+418,Male,Online MBA,2021-02-02,22,2,France,,withdrawn
+419,Female,Executive MBA,2024-02-20,38,15,China,,enrolled
+420,Female,Online MBA,2021-07-26,31,11,Sweden,,enrolled
+421,Male,Part-time MBA,2022-03-25,38,15,Russian Federation,Poland,enrolled
+422,Female,Part-time MBA,2024-03-24,35,16,Germany,,rejected
+423,Male,Online MBA,2021-08-06,41,11,Italy,,enrolled
+424,Male,Executive MBA,2021-01-16,40,10,China,,enrolled
+425,Female,Executive MBA,2022-02-25,44,16,China,,enrolled
+426,Female,Online MBA,2021-02-08,42,10,China,,enrolled
+427,Male,Online MBA,2023-06-26,25,2,Germany,,enrolled
+428,Female,Online MBA,2023-03-13,28,3,India,,enrolled
+429,Male,Executive MBA,2024-03-04,27,1,Portugal,,enrolled
+430,Female,Executive MBA,2022-07-07,36,14,Germany,,enrolled
+431,Male,Online MBA,2022-01-01,32,8,France,,enrolled
+432,Male,Part-time MBA,2021-12-12,24,4,India,Sweden,enrolled
+433,Female,Online MBA,2020-11-22,47,20,Italy,,enrolled
+434,Female,Part-time MBA,2023-05-07,28,7,Taiwan,,enrolled
+435,Female,Online MBA,2023-02-08,22,0,China,,enrolled
+436,Male,Part-time MBA,2022-09-12,26,4,Russian Federation,,enrolled
+437,Male,Online MBA,2024-03-08,46,19,Ireland,,enrolled
+438,Female,Part-time MBA,2022-10-29,28,5,Italy,,enrolled
+439,Female,Online MBA,2023-11-07,39,15,Germany,,declined_offer
+440,Female,Part-time MBA,2024-01-10,24,1,China,,enrolled
+441,Male,Online MBA,2022-01-13,40,12,Ghana,,deferred
+442,Female,Part-time MBA,2023-10-23,34,8,China,,enrolled
+443,Male,Executive MBA,2022-02-28,42,19,China,,enrolled
+444,Female,Part-time MBA,2021-10-06,46,16,Germany,,enrolled
+445,Female,Online MBA,2024-02-07,31,11,Italy,,enrolled
+446,Female,Part-time MBA,2021-12-26,26,5,Taiwan,,enrolled
+447,Female,Online MBA,2023-03-30,38,14,Turkey,,enrolled
+448,Male,Online MBA,2021-11-19,30,3,Russian Federation,Canada,enrolled
+449,Female,Part-time MBA,2021-06-30,30,8,Germany,,declined_offer
+450,Male,Online MBA,2023-06-28,30,11,France,,rejected
+451,Female,Online MBA,2023-09-23,40,14,India,San Marino,enrolled
+452,Male,Executive MBA,2022-02-23,36,16,Germany,,enrolled
+453,Female,Online MBA,2021-03-17,34,5,China,,withdrawn
+454,Male,Executive MBA,2023-09-13,36,17,United States,,on_hold
+455,Male,Online MBA,2022-05-18,37,9,Germany,,enrolled
+456,Male,Online MBA,2022-10-23,33,3,Germany,Netherlands,on_hold
+457,Male,Online MBA,2020-12-15,42,10,United States,,enrolled
+458,Male,Part-time MBA,2022-03-10,30,6,Spain,,deferred
+459,Female,Online MBA,2023-05-20,38,16,China,,withdrawn
+460,Male,Executive MBA,2022-04-21,41,11,India,,enrolled
+461,Female,Online MBA,2023-09-19,36,14,Iran,,enrolled
+462,Male,Part-time MBA,2023-06-12,27,5,Pakistan,,withdrawn
+463,Male,Online MBA,2022-08-29,33,12,France,,enrolled
+464,Male,Part-time MBA,2023-10-02,35,12,Sweden,,deferred
+465,Male,Online MBA,2024-01-17,35,5,Russian Federation,,withdrawn
+466,Female,Executive MBA,2022-09-23,45,14,China,,enrolled
+467,Female,Part-time MBA,2020-10-31,26,4,China,Algeria,enrolled
+468,Male,Online MBA,2023-10-31,36,10,Greece,,rejected
+469,Male,Executive MBA,2020-10-19,35,11,Kenya,,rejected
+470,Male,Part-time MBA,2021-08-28,31,9,Russian Federation,,enrolled
+471,Male,Online MBA,2023-04-23,31,11,Russian Federation,,declined_offer
+472,Male,Online MBA,2023-03-16,36,7,China,,declined_offer
+473,Female,Online MBA,2022-03-27,26,1,Turkey,,rejected
+474,Male,Online MBA,2021-03-15,32,8,China,,rejected
+475,Male,Executive MBA,2023-02-09,28,7,France,,rejected
+476,Male,Online MBA,2022-10-01,37,18,Egypt,,enrolled
+477,Female,Online MBA,2021-11-15,37,13,Italy,,enrolled
+478,Male,Online MBA,2023-02-23,39,20,Mexico,,deferred
+479,Male,Online MBA,2022-06-03,36,8,France,,rejected
+480,Male,Executive MBA,2024-01-11,44,19,Germany,,enrolled
+481,Male,Executive MBA,2021-01-01,31,9,India,,enrolled
+482,Female,Executive MBA,2021-11-30,37,11,Estonia,,enrolled
+483,Male,Part-time MBA,2023-05-30,28,6,India,,on_hold
+484,Male,Part-time MBA,2021-10-25,36,5,United States,,enrolled
+485,Male,Part-time MBA,2023-10-12,31,6,Sweden,,enrolled
+486,Female,Part-time MBA,2021-09-17,36,15,Pakistan,,rejected
+487,Male,Executive MBA,2022-05-18,43,11,Germany,,deferred
+488,Male,Executive MBA,2021-10-16,36,13,Jordan,,declined_offer
+489,Male,Part-time MBA,2021-10-12,38,10,Germany,,enrolled
+490,Male,Executive MBA,2021-06-21,28,6,Russian Federation,,enrolled
+491,Male,Executive MBA,2021-11-21,34,15,India,,rejected
+492,Female,Executive MBA,2022-12-07,44,12,China,,enrolled
+493,Male,Executive MBA,2023-11-09,39,18,Russian Federation,,enrolled
+494,Female,Part-time MBA,2022-10-30,35,13,China,,rejected
+495,Female,Online MBA,2021-10-18,34,11,China,,enrolled
+496,Male,Online MBA,2021-02-11,35,4,China,,enrolled
+497,Female,Online MBA,2023-08-12,25,4,Germany,,enrolled
+498,Male,Part-time MBA,2023-01-23,26,3,Egypt,,enrolled
+499,Male,Executive MBA,2022-08-11,33,5,India,,declined_offer
+500,Male,Online MBA,2021-05-17,31,3,Colombia,,rejected
+501,Male,Executive MBA,2022-09-05,32,13,Germany,,declined_offer
+502,Female,Online MBA,2021-02-18,31,8,India,,enrolled
+503,Male,Online MBA,2020-11-05,38,15,Germany,,enrolled
+504,Female,Online MBA,2022-10-20,37,10,France,,enrolled
+505,Male,Online MBA,2022-08-30,32,6,China,,withdrawn
+506,Female,Online MBA,2023-06-27,24,2,Taiwan,,withdrawn
+507,Male,Part-time MBA,2024-01-01,29,9,Pakistan,,enrolled
+508,Male,Part-time MBA,2021-12-07,34,6,Algeria,Canada,enrolled
+509,Male,Online MBA,2023-05-08,37,9,Pakistan,,enrolled
+510,Male,Part-time MBA,2022-05-04,29,5,Russian Federation,Sweden,declined_offer
+511,Female,Online MBA,2022-09-15,37,14,China,,enrolled
+512,Male,Online MBA,2024-03-25,40,12,Chile,,rejected
+513,Male,Online MBA,2023-09-14,27,4,Germany,,withdrawn
+514,Male,Part-time MBA,2023-06-07,28,3,Russian Federation,,enrolled
+515,Male,Part-time MBA,2021-01-04,33,3,China,,declined_offer
+516,Male,Online MBA,2021-12-04,40,16,United States,,on_hold
+517,Male,Executive MBA,2022-10-26,32,6,Korea,,declined_offer
+518,Male,Part-time MBA,2022-02-17,39,20,Germany,,withdrawn
+519,Male,Part-time MBA,2022-01-03,32,6,Germany,,withdrawn
+520,Male,Executive MBA,2020-11-19,34,11,Australia,,enrolled
+521,Female,Online MBA,2023-11-22,27,1,Germany,,enrolled
+522,Male,Online MBA,2021-03-17,46,12,Poland,,rejected
+523,Female,Online MBA,2022-10-03,43,20,China,,enrolled
+524,Male,Executive MBA,2022-11-11,24,3,Spain,,rejected
+525,Male,Online MBA,2023-01-23,45,19,Italy,,enrolled
+526,Male,Online MBA,2022-06-07,31,3,Spain,,declined_offer
+527,Male,Online MBA,2023-05-09,47,20,Russian Federation,,declined_offer
+528,Male,Part-time MBA,2023-08-31,31,5,Brazil,,rejected
+529,Female,Online MBA,2023-09-13,46,19,Germany,,enrolled
+530,Male,Executive MBA,2022-06-05,40,15,Poland,,enrolled
+531,Male,Part-time MBA,2023-04-29,28,5,India,,enrolled
+532,Male,Online MBA,2024-03-23,44,19,Mexico,,rejected
+533,Male,Online MBA,2022-04-27,32,5,Czech Republic,,enrolled
+534,Male,Online MBA,2021-10-18,31,8,France,,enrolled
+535,Male,Online MBA,2022-12-14,33,12,Russian Federation,,enrolled
+536,Male,Executive MBA,2021-06-16,38,16,Egypt,,deferred
+537,Female,Online MBA,2021-04-05,34,9,Turkey,,enrolled
+538,Female,Online MBA,2021-05-21,40,20,Italy,Iran,withdrawn
+539,Female,Online MBA,2024-01-05,40,18,Germany,Kenya,enrolled
+540,Male,Online MBA,2023-07-22,33,13,United States,,enrolled
+541,Male,Part-time MBA,2022-02-23,31,5,Spain,Chile,enrolled
+542,Male,Part-time MBA,2021-11-01,44,19,India,,enrolled
+543,Female,Part-time MBA,2022-12-11,28,7,Hong Kong,,rejected
+544,Male,Online MBA,2022-03-27,29,5,France,,enrolled
+545,Male,Part-time MBA,2022-01-04,29,7,France,,enrolled
+546,Male,Executive MBA,2022-02-21,37,13,France,,enrolled
+547,Male,Online MBA,2020-11-17,27,5,Romania,,enrolled
+548,Female,Online MBA,2024-02-11,33,3,Germany,,enrolled
+549,Male,Executive MBA,2024-03-04,29,2,Switzerland,,enrolled
+550,Male,Executive MBA,2021-03-11,31,4,China,,enrolled
+551,Male,Part-time MBA,2022-06-08,34,3,China,,rejected
+552,Male,Executive MBA,2020-12-22,34,3,Russian Federation,,enrolled
+553,Male,Executive MBA,2022-10-14,31,5,Germany,,declined_offer
+554,Male,Executive MBA,2022-11-30,32,10,Kenya,,enrolled
+555,Male,Executive MBA,2023-02-10,38,12,Germany,,rejected
+556,Male,Part-time MBA,2021-08-26,29,3,Germany,,enrolled
+557,Male,Online MBA,2024-01-06,35,16,Philippines,,enrolled
+558,Male,Online MBA,2022-04-29,31,9,Switzerland,,declined_offer
+559,Male,Executive MBA,2020-12-21,28,6,Germany,,enrolled
+560,Male,Executive MBA,2023-03-16,42,18,Russian Federation,,declined_offer
+561,Male,Online MBA,2023-06-26,30,9,Spain,Pakistan,declined_offer
+562,Male,Online MBA,2022-09-12,30,7,Russian Federation,Finland,declined_offer
+563,Male,Part-time MBA,2021-01-19,28,8,United States,,enrolled
+564,Male,Executive MBA,2020-10-16,40,15,Germany,Switzerland,enrolled
+565,Male,Executive MBA,2021-06-21,38,18,Germany,,enrolled
+566,Male,Executive MBA,2023-01-08,42,19,Iran,,declined_offer
+567,Female,Online MBA,2022-10-28,26,6,Hong Kong,,rejected
+568,Male,Online MBA,2023-10-20,46,16,China,,enrolled
+569,Male,Online MBA,2021-01-01,29,4,Iran,,rejected
+570,Female,Executive MBA,2020-10-18,35,8,India,,enrolled
+571,Female,Executive MBA,2020-12-17,33,9,China,,enrolled
+572,Male,Online MBA,2023-07-04,28,4,Pakistan,,enrolled
+573,Male,Part-time MBA,2022-10-31,35,14,China,,withdrawn
+574,Female,Part-time MBA,2022-05-09,32,4,Germany,,enrolled
+575,Female,Part-time MBA,2021-02-14,34,3,Algeria,,enrolled
+576,Female,Part-time MBA,2023-03-22,36,10,China,,rejected
+577,Male,Online MBA,2021-04-24,31,2,Germany,,enrolled
+578,Male,Part-time MBA,2023-04-30,32,9,Germany,,rejected
+579,Female,Online MBA,2022-10-23,34,10,Netherlands,,enrolled
+580,Male,Online MBA,2021-05-27,44,17,Italy,,rejected
+581,Male,Part-time MBA,2023-05-11,34,4,China,,enrolled
+582,Female,Online MBA,2023-06-02,36,5,China,,enrolled
+583,Male,Online MBA,2024-03-27,35,13,Ghana,,enrolled
+584,Male,Online MBA,2023-09-12,42,20,Germany,,enrolled
+585,Male,Part-time MBA,2023-10-12,29,5,Germany,,rejected
+586,Male,Part-time MBA,2022-09-06,25,4,Portugal,,enrolled
+587,Male,Online MBA,2021-04-13,31,3,Germany,,enrolled
+588,Male,Executive MBA,2022-11-11,40,16,Portugal,,enrolled
+589,Female,Online MBA,2024-02-21,32,5,Estonia,,enrolled
+590,Male,Online MBA,2021-12-30,37,14,United States,,enrolled
+591,Female,Online MBA,2021-01-07,37,13,Taiwan,Pakistan,declined_offer
+592,Male,Part-time MBA,2024-02-18,32,11,Germany,Nigeria,enrolled
+593,Female,Part-time MBA,2022-02-17,33,6,Italy,,enrolled
+594,Female,Online MBA,2023-05-03,42,17,China,,withdrawn
+595,Male,Online MBA,2023-07-19,44,20,Spain,,enrolled
+596,Male,Online MBA,2021-02-01,33,9,Germany,,enrolled
+597,Female,Online MBA,2023-08-06,31,3,China,,on_hold
+598,Male,Executive MBA,2024-01-02,38,8,China,,rejected
+599,Female,Online MBA,2022-12-20,36,13,United States,,declined_offer
+600,Male,Online MBA,2023-09-05,35,5,Turkey,,enrolled
+601,Male,Part-time MBA,2021-04-29,33,11,Russian Federation,,rejected
+602,Male,Executive MBA,2023-11-09,41,15,Norway,,withdrawn
+603,Female,Part-time MBA,2023-12-01,30,6,China,,enrolled
+604,Female,Part-time MBA,2024-02-04,30,8,China,,declined_offer
+605,Female,Part-time MBA,2023-01-27,33,13,India,,enrolled
+606,Male,Executive MBA,2023-08-29,33,13,Russian Federation,,enrolled
+607,Male,Online MBA,2023-12-13,40,20,Norway,,enrolled
+608,Male,Online MBA,2023-07-10,35,4,Germany,,enrolled
+609,Male,Executive MBA,2021-04-20,44,15,Russian Federation,,withdrawn
+610,Male,Part-time MBA,2022-10-17,31,8,Russian Federation,,enrolled
+611,Male,Online MBA,2023-02-23,37,10,Russian Federation,,withdrawn
+612,Male,Online MBA,2020-12-22,27,3,Germany,,on_hold
+613,Male,Part-time MBA,2022-03-29,25,4,Greece,,enrolled
+614,Male,Executive MBA,2022-06-16,38,19,Russian Federation,,rejected
+615,Female,Online MBA,2021-04-27,36,14,Nigeria,,enrolled
+616,Female,Online MBA,2022-11-04,36,17,Germany,,enrolled
+617,Male,Online MBA,2023-08-11,42,16,China,,on_hold
+618,Male,Online MBA,2020-10-22,42,18,India,,rejected
+619,Male,Executive MBA,2023-08-08,43,20,China,,enrolled
+620,Male,Online MBA,2021-07-07,37,14,China,,withdrawn
+621,Male,Online MBA,2020-10-12,37,13,Morocco,,enrolled
+622,Male,Executive MBA,2021-05-15,47,13,Finland,,withdrawn
+623,Female,Part-time MBA,2022-05-14,31,6,Russian Federation,,enrolled
+624,Female,Online MBA,2021-12-13,38,14,China,,enrolled
+625,Male,Executive MBA,2022-04-21,44,18,Poland,,enrolled
+626,Female,Online MBA,2022-11-27,34,14,Germany,,declined_offer
+627,Male,Executive MBA,2021-01-28,35,13,Venezuela,,enrolled
+628,Male,Online MBA,2021-02-25,26,5,Russian Federation,,enrolled
+629,Female,Online MBA,2023-06-05,44,19,China,,enrolled
+630,Male,Online MBA,2023-03-30,37,17,Tunisia,,deferred
+631,Female,Part-time MBA,2021-02-27,29,5,China,,enrolled
+632,Male,Online MBA,2023-12-01,33,9,Russian Federation,,enrolled
+633,Male,Part-time MBA,2021-10-06,29,3,Peru,,enrolled
+634,Male,Part-time MBA,2020-11-29,29,7,Mexico,,enrolled
+635,Male,Part-time MBA,2021-04-24,29,6,Russian Federation,,enrolled
+636,Male,Executive MBA,2022-06-27,36,9,Germany,,rejected
+637,Male,Online MBA,2023-09-04,32,13,Germany,,enrolled
+638,Female,Executive MBA,2023-09-11,33,11,India,,enrolled
+639,Male,Online MBA,2023-03-06,42,19,Russian Federation,,enrolled
+640,Male,Online MBA,2020-10-28,37,11,Russian Federation,,enrolled
+641,Male,Executive MBA,2022-01-22,40,17,United States,,deferred
+642,Male,Part-time MBA,2023-06-27,40,19,India,,on_hold
+643,Male,Online MBA,2023-08-10,30,7,Norway,,enrolled
+644,Female,Online MBA,2021-02-07,29,5,China,,rejected
+645,Male,Part-time MBA,2021-03-08,32,10,Russian Federation,,declined_offer
+646,Male,Online MBA,2023-12-15,34,11,Bulgaria,,enrolled
+647,Male,Online MBA,2021-03-08,39,8,India,,declined_offer
+648,Male,Part-time MBA,2021-07-23,38,14,Germany,,enrolled
+649,Male,Executive MBA,2021-03-16,31,8,Germany,,declined_offer
+650,Female,Part-time MBA,2023-03-05,30,3,China,,enrolled
+651,Female,Online MBA,2022-06-21,31,3,China,,enrolled
+652,Male,Part-time MBA,2023-08-13,30,7,India,,enrolled
+653,Male,Part-time MBA,2022-01-26,30,7,Germany,,enrolled
+654,Male,Part-time MBA,2023-09-25,34,3,Turkey,,enrolled
+655,Male,Online MBA,2023-06-05,36,14,India,,enrolled
+656,Male,Online MBA,2021-03-03,27,6,France,,withdrawn
+657,Female,Online MBA,2021-07-21,40,12,China,,declined_offer
+658,Female,Part-time MBA,2023-03-17,29,4,Italy,,enrolled
+659,Female,Part-time MBA,2023-01-24,26,3,Italy,,enrolled
+660,Male,Online MBA,2021-03-01,29,5,Venezuela,,rejected
+661,Male,Part-time MBA,2021-03-31,35,6,Russian Federation,,enrolled
+662,Female,Online MBA,2021-10-06,31,9,Taiwan,,enrolled
+663,Female,Part-time MBA,2021-01-27,29,5,India,,declined_offer
+664,Male,Part-time MBA,2020-11-26,36,6,Germany,,rejected
+665,Female,Part-time MBA,2021-03-07,26,3,Germany,,enrolled
+666,Male,Online MBA,2023-12-20,27,4,Egypt,,enrolled
+667,Female,Online MBA,2021-07-05,33,5,India,,withdrawn
+668,Male,Part-time MBA,2022-10-27,29,9,China,,withdrawn
+669,Female,Executive MBA,2021-04-21,39,8,China,,enrolled
+670,Male,Online MBA,2023-02-10,34,11,India,,enrolled
+671,Female,Part-time MBA,2023-12-29,30,9,Germany,,enrolled
+672,Female,Executive MBA,2024-02-11,39,16,Pakistan,,enrolled
+673,Female,Part-time MBA,2022-04-22,30,11,China,,enrolled
+674,Male,Online MBA,2023-01-18,35,10,Russian Federation,,enrolled
+675,Female,Part-time MBA,2023-02-18,41,14,India,,enrolled
+676,Male,Part-time MBA,2021-05-04,30,5,Morocco,Georgia,declined_offer
+677,Female,Online MBA,2021-10-12,34,7,Spain,,enrolled
+678,Male,Online MBA,2021-09-13,34,11,Netherlands,,enrolled
+679,Female,Part-time MBA,2022-12-21,32,8,Spain,,rejected
+680,Female,Part-time MBA,2023-06-07,35,11,Italy,,enrolled
+681,Male,Part-time MBA,2021-07-02,32,10,France,,declined_offer
+682,Male,Part-time MBA,2023-02-04,29,4,India,,withdrawn
+683,Female,Part-time MBA,2021-11-23,35,14,France,,enrolled
+684,Male,Online MBA,2021-09-24,34,8,Germany,,enrolled
+685,Female,Online MBA,2021-04-07,33,9,Germany,,enrolled
+686,Male,Online MBA,2021-03-22,33,14,Russian Federation,,declined_offer
+687,Male,Online MBA,2020-12-06,33,9,India,,rejected
+688,Male,Online MBA,2023-09-08,46,19,Germany,,enrolled
+689,Male,Part-time MBA,2023-10-22,34,5,Germany,,declined_offer
+690,Female,Online MBA,2023-05-10,29,5,Croatia,,deferred
+691,Female,Part-time MBA,2021-06-27,31,4,Turkey,Tunisia,on_hold
+692,Male,Online MBA,2021-06-16,27,5,India,,enrolled
+693,Male,Online MBA,2022-10-21,40,12,Russian Federation,,enrolled
+694,Female,Part-time MBA,2022-01-09,33,10,Chile,,declined_offer
+695,Male,Part-time MBA,2023-07-09,31,6,Norway,,enrolled
+696,Male,Executive MBA,2023-07-09,36,12,Germany,,enrolled
+697,Male,Online MBA,2020-11-12,49,20,Kenya,Russian Federation,rejected
+698,Female,Executive MBA,2021-03-22,37,10,Switzerland,,enrolled
+699,Male,Online MBA,2021-02-24,37,14,China,,on_hold
+700,Female,Part-time MBA,2023-03-01,27,5,Greece,,enrolled
+701,Male,Online MBA,2022-11-13,40,11,Russian Federation,,enrolled
+702,Male,Online MBA,2020-12-01,33,8,Portugal,,withdrawn
+703,Female,Executive MBA,2023-03-29,40,16,Venezuela,,enrolled
+704,Female,Executive MBA,2020-10-07,39,8,Italy,,enrolled
+705,Male,Online MBA,2023-11-04,37,12,Russian Federation,,enrolled
+706,Female,Online MBA,2021-10-28,44,12,Taiwan,,enrolled
+707,Male,Online MBA,2023-02-11,29,7,India,Turkey,on_hold
+708,Female,Part-time MBA,2021-01-05,29,6,Taiwan,,enrolled
+709,Male,Executive MBA,2021-02-03,36,14,India,,deferred
+710,Male,Online MBA,2022-12-12,33,9,China,,on_hold
+711,Male,Executive MBA,2021-08-08,45,20,Russian Federation,,enrolled
+712,Male,Online MBA,2022-10-27,34,11,China,,withdrawn
+713,Male,Executive MBA,2022-11-20,43,16,Estonia,,enrolled
+714,Male,Online MBA,2023-06-01,32,2,Russian Federation,,on_hold
+715,Male,Online MBA,2023-12-16,31,4,Italy,,enrolled
+716,Female,Part-time MBA,2022-01-13,34,9,China,,enrolled
+717,Female,Part-time MBA,2021-06-14,28,8,China,,enrolled
+718,Female,Online MBA,2021-04-04,30,6,China,,withdrawn
+719,Female,Online MBA,2023-12-24,33,10,Rwanda,,enrolled
+720,Female,Online MBA,2021-09-25,36,5,Germany,,enrolled
+721,Female,Executive MBA,2022-08-22,45,19,China,,deferred
+722,Male,Executive MBA,2023-05-19,39,13,Russian Federation,,enrolled
+723,Female,Online MBA,2020-11-16,30,5,China,,declined_offer
+724,Female,Executive MBA,2024-01-03,39,20,China,,enrolled
+725,Male,Online MBA,2020-11-12,31,12,Germany,,enrolled
+726,Male,Executive MBA,2021-01-26,38,14,Russian Federation,,enrolled
+727,Female,Online MBA,2022-11-22,42,13,United States,,enrolled
+728,Male,Executive MBA,2024-01-15,38,11,Serbia,France,enrolled
+729,Male,Executive MBA,2022-08-11,37,18,Russian Federation,,withdrawn
+730,Male,Part-time MBA,2022-04-30,38,12,China,,enrolled
+731,Female,Executive MBA,2022-02-27,44,20,Germany,,withdrawn
+732,Female,Executive MBA,2021-04-05,48,19,Germany,,enrolled
+733,Female,Online MBA,2021-08-24,35,7,Portugal,,enrolled
+734,Male,Executive MBA,2023-08-26,36,17,Pakistan,,withdrawn
+735,Male,Online MBA,2020-11-20,35,12,Russian Federation,,enrolled
+736,Male,Online MBA,2023-03-25,38,16,India,,enrolled
+737,Female,Part-time MBA,2020-11-20,35,6,China,,enrolled
+738,Male,Part-time MBA,2023-05-17,30,5,United States,,enrolled
+739,Female,Online MBA,2021-10-29,31,7,India,,enrolled
+740,Female,Executive MBA,2022-05-16,36,13,Spain,,enrolled
+741,Male,Executive MBA,2023-03-11,43,12,United States,,withdrawn
+742,Male,Online MBA,2021-11-25,33,4,China,,enrolled
+743,Female,Part-time MBA,2022-11-21,38,12,France,,enrolled
+744,Male,Part-time MBA,2023-12-06,29,6,Algeria,,rejected
+745,Male,Part-time MBA,2022-06-05,29,3,India,,enrolled
+746,Male,Online MBA,2022-10-09,40,18,Russian Federation,,enrolled
+747,Male,Online MBA,2021-08-03,30,7,Russian Federation,,enrolled
+748,Male,Online MBA,2020-12-27,37,18,Russian Federation,,enrolled
+749,Male,Executive MBA,2022-07-11,37,8,Poland,,enrolled
+750,Female,Executive MBA,2021-07-16,28,5,Hong Kong,Taiwan,enrolled
+751,Female,Online MBA,2021-08-17,35,15,Viet Nam,,deferred
+752,Male,Online MBA,2020-11-22,40,16,India,,enrolled
+753,Female,Online MBA,2023-02-24,30,9,France,,withdrawn
+754,Female,Executive MBA,2023-06-24,42,20,Korea,,enrolled
+755,Male,Part-time MBA,2023-08-13,46,12,Sweden,,deferred
+756,Male,Online MBA,2024-02-21,46,13,India,,withdrawn
+757,Male,Online MBA,2021-09-17,37,13,Russian Federation,,rejected
+758,Female,Part-time MBA,2023-10-17,38,16,China,,rejected
+759,Male,Part-time MBA,2022-05-28,33,9,United States,,declined_offer
+760,Female,Online MBA,2022-04-26,32,9,China,,enrolled
+761,Male,Executive MBA,2023-09-12,40,14,Portugal,,withdrawn
+762,Male,Part-time MBA,2022-01-14,25,2,China,,enrolled
+763,Male,Part-time MBA,2023-04-11,26,4,Russian Federation,,enrolled
+764,Male,Part-time MBA,2023-11-05,34,7,Russian Federation,,enrolled
+765,Male,Online MBA,2022-09-28,36,10,Russian Federation,,rejected
+766,Female,Part-time MBA,2023-02-15,29,8,China,,withdrawn
+767,Female,Executive MBA,2021-10-07,40,13,China,,deferred
+768,Male,Part-time MBA,2023-04-20,30,11,Russian Federation,,enrolled
+769,Female,Executive MBA,2023-05-04,33,2,China,,declined_offer
+770,Female,Executive MBA,2022-10-22,40,14,United States,,enrolled
+771,Male,Online MBA,2023-01-18,31,7,India,,rejected
+772,Male,Part-time MBA,2022-12-29,30,9,United States,,declined_offer
+773,Male,Online MBA,2022-05-02,31,8,Germany,,enrolled
+774,Male,Online MBA,2022-06-10,26,5,France,,deferred
+775,Female,Online MBA,2021-04-05,26,3,Hungary,,deferred
+776,Female,Online MBA,2022-10-29,31,7,Germany,,enrolled
+777,Male,Executive MBA,2023-11-24,40,14,Romania,,withdrawn
+778,Male,Online MBA,2022-09-30,32,10,Mexico,,enrolled
+779,Male,Online MBA,2020-11-20,31,7,Romania,,enrolled
+780,Female,Executive MBA,2021-05-02,27,7,Taiwan,,declined_offer
+781,Female,Part-time MBA,2021-10-11,34,4,Germany,,enrolled
+782,Male,Online MBA,2020-12-19,28,4,Korea,,enrolled
+783,Male,Online MBA,2021-05-04,36,6,China,,enrolled
+784,Male,Executive MBA,2023-08-15,36,15,Germany,,enrolled
+785,Male,Online MBA,2022-03-21,40,16,Russian Federation,,enrolled
+786,Male,Part-time MBA,2021-01-03,30,8,India,,enrolled
+787,Female,Online MBA,2021-09-03,40,17,India,,rejected
+788,Male,Online MBA,2023-08-11,39,15,Germany,,enrolled
+789,Male,Executive MBA,2022-10-06,31,9,India,,enrolled
+790,Male,Part-time MBA,2022-04-24,38,14,France,,enrolled
+791,Male,Online MBA,2020-10-15,33,6,Russian Federation,,enrolled
+792,Male,Online MBA,2023-10-07,41,16,Norway,,declined_offer
+793,Male,Online MBA,2024-01-23,35,7,Germany,,withdrawn
+794,Male,Online MBA,2021-06-02,45,17,India,,enrolled
+795,Male,Online MBA,2024-01-02,28,5,Russian Federation,,enrolled
+796,Female,Executive MBA,2020-11-17,41,13,Germany,,enrolled
+797,Male,Executive MBA,2022-03-09,23,3,Bulgaria,,withdrawn
+798,Male,Online MBA,2020-12-18,29,2,Portugal,,enrolled
+799,Male,Online MBA,2023-01-31,31,7,France,Venezuela,enrolled
+800,Male,Online MBA,2022-05-18,35,15,Russian Federation,,enrolled
+801,Male,Online MBA,2022-01-28,48,19,Sweden,,rejected
+802,Male,Online MBA,2023-10-09,29,2,Russian Federation,,enrolled
+803,Male,Online MBA,2020-10-29,41,17,Finland,,deferred
+804,Male,Online MBA,2021-04-13,35,14,Italy,,rejected
+805,Female,Executive MBA,2024-03-29,47,20,Taiwan,,enrolled
+806,Male,Online MBA,2020-11-24,31,6,India,,enrolled
+807,Female,Executive MBA,2023-11-11,46,19,Greece,,enrolled
+808,Female,Part-time MBA,2021-05-21,34,10,China,,withdrawn
+809,Male,Online MBA,2023-02-12,35,12,Germany,,declined_offer
+810,Male,Online MBA,2022-03-02,43,20,Russian Federation,,enrolled
+811,Female,Online MBA,2022-06-14,37,14,Germany,,declined_offer
+812,Female,Part-time MBA,2022-06-27,28,5,Italy,,enrolled
+813,Male,Part-time MBA,2021-05-08,44,19,Poland,,enrolled
+814,Male,Online MBA,2022-04-28,46,19,Germany,,enrolled
+815,Male,Part-time MBA,2022-05-09,29,6,Russian Federation,,withdrawn
+816,Female,Online MBA,2021-04-24,31,9,Pakistan,,rejected
+817,Male,Part-time MBA,2023-01-24,31,5,Russian Federation,,enrolled
+818,Female,Online MBA,2021-12-31,30,7,China,,enrolled
+819,Male,Online MBA,2023-07-04,37,17,Germany,,enrolled
+820,Female,Online MBA,2022-05-25,30,10,France,,enrolled
+821,Female,Online MBA,2021-12-27,34,15,China,,enrolled
+822,Male,Part-time MBA,2022-10-18,34,8,Brazil,,enrolled
+823,Male,Online MBA,2021-11-16,35,11,Russian Federation,Ukraine,rejected
+824,Male,Online MBA,2021-04-27,46,11,Germany,,enrolled
+825,Male,Executive MBA,2021-06-04,35,15,Russian Federation,,enrolled
+826,Male,Online MBA,2022-03-27,35,13,United Kingdom,,withdrawn
+827,Male,Online MBA,2023-09-15,32,12,China,,withdrawn
+828,Male,Part-time MBA,2022-04-10,32,5,Russian Federation,,withdrawn
+829,Male,Part-time MBA,2022-11-09,30,7,Georgia,,enrolled
+830,Male,Executive MBA,2022-05-16,40,9,India,,enrolled
+831,Male,Part-time MBA,2023-03-28,31,3,Colombia,,rejected
+832,Male,Part-time MBA,2021-05-20,38,9,China,,rejected
+833,Male,Executive MBA,2021-03-14,28,7,India,,enrolled
+834,Male,Part-time MBA,2020-12-28,32,6,Italy,,enrolled
+835,Male,Part-time MBA,2023-10-16,30,11,Germany,,rejected
+836,Male,Executive MBA,2021-06-11,43,16,Norway,,enrolled
+837,Male,Online MBA,2020-10-19,42,19,Viet Nam,,on_hold
+838,Male,Part-time MBA,2022-03-08,34,3,Germany,,enrolled
+839,Male,Online MBA,2023-07-10,28,5,Russian Federation,,enrolled
+840,Female,Online MBA,2022-10-14,28,5,India,,enrolled
+841,Male,Online MBA,2021-08-27,31,6,Venezuela,,enrolled
+842,Male,Online MBA,2023-11-03,48,15,Egypt,,withdrawn
+843,Male,Online MBA,2021-09-20,41,18,Russian Federation,,enrolled
+844,Female,Part-time MBA,2021-06-01,30,9,Portugal,,enrolled
+845,Male,Online MBA,2021-06-15,31,3,Pakistan,,withdrawn
+846,Female,Online MBA,2020-12-17,42,17,France,,withdrawn
+847,Male,Executive MBA,2023-10-09,36,5,Poland,,enrolled
+848,Male,Part-time MBA,2021-05-18,35,10,Switzerland,,declined_offer
+849,Male,Part-time MBA,2022-01-20,34,4,India,,enrolled
+850,Male,Executive MBA,2021-04-13,38,14,China,,enrolled
+851,Female,Part-time MBA,2020-10-01,25,5,China,Peru,enrolled
+852,Female,Executive MBA,2024-03-18,27,2,China,,rejected
+853,Female,Online MBA,2023-09-27,37,15,Taiwan,,enrolled
+854,Female,Online MBA,2022-11-04,39,16,China,,rejected
+855,Male,Online MBA,2022-03-07,33,14,Iran,,enrolled
+856,Male,Online MBA,2023-12-22,33,9,Norway,,declined_offer
+857,Male,Online MBA,2023-08-19,35,14,Germany,,enrolled
+858,Male,Executive MBA,2020-12-05,33,9,Russian Federation,,withdrawn
+859,Male,Online MBA,2021-10-24,39,12,Russian Federation,,enrolled
+860,Male,Online MBA,2022-09-10,30,11,India,,enrolled
+861,Female,Part-time MBA,2022-05-04,29,4,China,,withdrawn
+862,Male,Online MBA,2024-02-10,33,13,India,,enrolled
+863,Male,Online MBA,2023-08-29,35,5,Russian Federation,,enrolled
+864,Male,Part-time MBA,2021-08-18,32,2,Turkey,,enrolled
+865,Male,Online MBA,2023-09-29,31,7,India,,on_hold
+866,Male,Online MBA,2022-01-12,28,8,Turkey,,enrolled
+867,Female,Part-time MBA,2022-10-17,26,4,India,Lebanon,enrolled
+868,Male,Online MBA,2023-04-12,33,6,United States,,enrolled
+869,Female,Online MBA,2023-10-09,31,8,China,,withdrawn
+870,Female,Part-time MBA,2022-01-18,31,7,China,,withdrawn
+871,Male,Part-time MBA,2022-05-07,30,9,Poland,Croatia,enrolled
+872,Male,Online MBA,2023-04-26,39,17,Germany,,enrolled
+873,Female,Online MBA,2021-06-03,37,14,China,,enrolled
+874,Male,Online MBA,2022-04-03,36,11,Spain,Colombia,enrolled
+875,Male,Executive MBA,2021-04-17,33,2,Russian Federation,,enrolled
+876,Male,Executive MBA,2022-09-06,40,14,Spain,,enrolled
+877,Male,Executive MBA,2022-02-28,48,18,Russian Federation,,enrolled
+878,Male,Online MBA,2022-06-16,27,7,Russian Federation,,enrolled
+879,Male,Executive MBA,2022-09-03,39,15,India,Egypt,enrolled
+880,Male,Part-time MBA,2023-10-17,26,1,Germany,,rejected
+881,Male,Online MBA,2021-03-03,33,13,China,,enrolled
+882,Male,Online MBA,2024-02-16,50,20,Russian Federation,,enrolled
+883,Male,Online MBA,2023-01-15,30,5,Morocco,,withdrawn
+884,Male,Online MBA,2023-03-15,42,14,Italy,,enrolled
+885,Female,Executive MBA,2022-09-15,31,9,China,,enrolled
+886,Male,Executive MBA,2022-11-12,46,13,Russian Federation,,enrolled
+887,Male,Online MBA,2023-07-22,41,14,Tunisia,,withdrawn
+888,Female,Online MBA,2022-04-26,30,4,Greece,,enrolled
+889,Female,Online MBA,2020-12-25,41,18,Italy,,rejected
+890,Male,Executive MBA,2021-07-31,46,20,Russian Federation,,enrolled
+891,Male,Part-time MBA,2022-01-29,29,4,Germany,,rejected
+892,Male,Online MBA,2021-04-24,40,12,Egypt,,enrolled
+893,Female,Online MBA,2020-12-16,40,13,Taiwan,,rejected
+894,Female,Executive MBA,2022-06-08,36,13,China,,enrolled
+895,Female,Online MBA,2023-10-23,40,10,Italy,,enrolled
+896,Female,Part-time MBA,2021-12-28,34,12,China,,withdrawn
+897,Male,Part-time MBA,2023-08-13,23,3,France,,enrolled
+898,Female,Online MBA,2022-01-31,33,10,Germany,,enrolled
+899,Male,Online MBA,2023-07-06,31,8,Greece,,enrolled
+900,Male,Online MBA,2021-03-27,34,6,China,,enrolled
+901,Male,Online MBA,2020-10-21,31,7,Kenya,,enrolled
+902,Male,Online MBA,2021-07-16,41,19,Russian Federation,,withdrawn
+903,Male,Part-time MBA,2023-06-05,40,13,India,,enrolled
+904,Male,Executive MBA,2022-02-27,44,12,Pakistan,,enrolled
+905,Female,Online MBA,2021-05-29,43,13,Estonia,,rejected
+906,Female,Executive MBA,2021-11-18,41,20,India,Bulgaria,enrolled
+907,Male,Online MBA,2021-07-22,32,4,Poland,,enrolled
+908,Male,Executive MBA,2023-10-29,38,19,Germany,,rejected
+909,Female,Online MBA,2021-12-02,41,12,Taiwan,,enrolled
+910,Male,Online MBA,2021-04-02,26,4,Algeria,,declined_offer
+911,Male,Executive MBA,2021-02-08,24,3,Russian Federation,,enrolled
+912,Male,Online MBA,2021-07-04,31,3,India,,enrolled
+913,Male,Executive MBA,2021-12-30,39,18,India,,enrolled
+914,Male,Online MBA,2023-06-08,29,7,United States,,enrolled
+915,Male,Online MBA,2023-08-11,33,6,China,,enrolled
+916,Male,Online MBA,2023-03-31,44,15,India,,enrolled
+917,Female,Online MBA,2022-08-30,36,13,Czech Republic,,rejected
+918,Male,Online MBA,2022-03-01,34,12,Sweden,,enrolled
+919,Female,Executive MBA,2022-08-20,24,3,Romania,,enrolled
+920,Male,Executive MBA,2020-12-09,43,11,United States,,enrolled
+921,Female,Part-time MBA,2022-11-08,27,4,Germany,,on_hold
+922,Male,Executive MBA,2022-03-10,34,9,Germany,,enrolled
+923,Male,Executive MBA,2023-06-22,37,15,Russian Federation,,enrolled
+924,Male,Part-time MBA,2023-08-22,32,10,Pakistan,,enrolled
+925,Male,Executive MBA,2022-11-09,37,13,China,,rejected
+926,Male,Part-time MBA,2023-06-21,31,8,Venezuela,,enrolled
+927,Female,Online MBA,2022-02-07,42,12,Germany,Morocco,enrolled
+928,Female,Executive MBA,2022-06-05,36,16,Portugal,,enrolled
+929,Male,Online MBA,2022-01-08,35,12,India,,enrolled
+930,Male,Online MBA,2023-06-04,38,9,Germany,,enrolled
+931,Female,Online MBA,2023-05-11,28,3,China,,enrolled
+932,Male,Executive MBA,2023-01-30,39,12,Germany,China,enrolled
+933,Male,Online MBA,2023-05-16,34,12,Germany,,declined_offer
+934,Female,Executive MBA,2023-09-07,42,11,Italy,,rejected
+935,Female,Online MBA,2022-06-28,38,8,China,,declined_offer
+936,Male,Online MBA,2024-03-23,39,16,India,,declined_offer
+937,Male,Online MBA,2022-07-20,44,15,Germany,,enrolled
+938,Male,Executive MBA,2024-03-28,42,17,France,,enrolled
+939,Male,Online MBA,2022-05-19,28,5,United States,,enrolled
+940,Male,Executive MBA,2022-01-14,34,14,Greece,,enrolled
+941,Female,Part-time MBA,2021-03-20,30,3,Pakistan,,withdrawn
+942,Female,Executive MBA,2021-01-24,32,4,Germany,,enrolled
+943,Male,Online MBA,2024-03-07,49,20,United States,,enrolled
+944,Female,Part-time MBA,2023-12-22,33,6,Algeria,,enrolled
+945,Male,Online MBA,2023-08-26,42,19,Mexico,,enrolled
+946,Female,Part-time MBA,2022-06-15,24,4,United Kingdom,Morocco,enrolled
+947,Male,Online MBA,2022-05-23,33,13,France,Georgia,withdrawn
+948,Male,Executive MBA,2021-02-20,29,6,Egypt,,enrolled
+949,Male,Part-time MBA,2023-01-07,37,13,Germany,,rejected
+950,Male,Online MBA,2022-01-04,37,6,Pakistan,,enrolled
+951,Male,Online MBA,2023-02-23,36,14,India,,withdrawn
+952,Female,Online MBA,2020-11-12,27,3,Germany,,enrolled
+953,Male,Part-time MBA,2023-08-01,32,7,Turkey,,enrolled
+954,Male,Executive MBA,2022-02-03,41,15,Serbia,,declined_offer
+955,Female,Part-time MBA,2023-03-29,50,20,Germany,,enrolled
+956,Male,Part-time MBA,2021-09-26,31,6,Norway,,declined_offer
+957,Male,Part-time MBA,2023-08-24,28,5,Germany,,enrolled
+958,Male,Part-time MBA,2022-06-25,38,14,Germany,,enrolled
+959,Male,Executive MBA,2023-10-29,38,18,Russian Federation,,enrolled
+960,Male,Online MBA,2023-06-18,37,17,Russian Federation,,enrolled
+961,Male,Online MBA,2021-10-30,35,10,India,,deferred
+962,Male,Online MBA,2020-10-30,39,17,Germany,,withdrawn
+963,Male,Executive MBA,2022-03-13,27,2,Germany,,enrolled
+964,Female,Online MBA,2020-12-26,38,7,China,,enrolled
+965,Male,Online MBA,2020-12-01,40,13,Greece,,enrolled
+966,Male,Executive MBA,2024-01-21,46,14,Germany,,enrolled
+967,Male,Part-time MBA,2021-05-06,28,4,China,,declined_offer
+968,Female,Executive MBA,2020-11-05,37,13,China,,enrolled
+969,Male,Executive MBA,2022-02-17,43,16,Russian Federation,,declined_offer
+970,Female,Executive MBA,2022-03-11,45,19,China,,declined_offer
+971,Female,Executive MBA,2021-11-27,36,7,Germany,,enrolled
+972,Female,Online MBA,2023-12-15,46,15,China,,enrolled
+973,Female,Online MBA,2023-08-25,38,16,Viet Nam,,withdrawn
+974,Male,Online MBA,2023-12-01,28,4,Russian Federation,,enrolled
+975,Male,Online MBA,2022-01-11,44,16,Germany,,enrolled
+976,Male,Online MBA,2020-10-18,44,20,Russian Federation,,declined_offer
+977,Female,Online MBA,2022-06-13,34,5,Italy,,withdrawn
+978,Male,Executive MBA,2023-01-20,40,16,Germany,,enrolled
+979,Male,Part-time MBA,2023-12-09,32,11,Germany,,rejected
+980,Male,Executive MBA,2023-01-20,42,14,Japan,,enrolled
+981,Male,Online MBA,2020-11-22,34,7,Ghana,,enrolled
+982,Male,Executive MBA,2022-12-18,31,7,Germany,,enrolled
+983,Male,Executive MBA,2020-12-16,39,14,Switzerland,,rejected
+984,Male,Online MBA,2023-03-05,26,4,Portugal,,declined_offer
+985,Male,Part-time MBA,2023-02-28,31,9,Germany,,enrolled
+986,Male,Online MBA,2021-05-22,38,11,Russian Federation,,enrolled

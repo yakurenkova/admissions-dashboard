@@ -52,9 +52,10 @@ if __name__ == "__main__":
     schema_ids = [ "4ad98600", "044b8270", "24548f60", "b52d1230"] # Mockaroo schema ids
     rows_counts = [1998, 115, 778, 987] # Number of rows for each schema
 
+
     # Iterate over Mockaroo schemas, generate data and export to csv files
     for schema_id, rows in zip(schema_ids, rows_counts):
-        generate_mockaroo_data(schema_id, rows, API_KEY).to_csv("../dataset/mock_data/" + schema_id + ".csv")
+        generate_mockaroo_data(schema_id, rows, API_KEY).to_csv("/Users/yana/Library/CloudStorage/Dropbox/Projects/admissions-dashboard/dataset/mock_data/" + schema_id + ".csv")
 
     
     
