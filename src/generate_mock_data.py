@@ -3,6 +3,8 @@ import requests
 import pandas as pd
 import numpy as np
 from io import BytesIO
+
+# Import a Mockaroo API key. Hint: to get a free API key, you need to create an account on Mockaroo.com
 from constants import API_KEY
 
 def generate_mockaroo_data(schema_id, rows, api_key):
@@ -15,13 +17,13 @@ def generate_mockaroo_data(schema_id, rows, api_key):
     concatenates results and returns a Pandas dataframe.
     """ 
   
-    # a dataframe for collecting output data
+    # A dataframe for collecting output data
     df_mockaroo_data = pd.DataFrame()
 
-    # split number of rows into chunks, no more than 1000 rows each
+    # Split number of rows into chunks, no more than 1000 rows each
     chunks = [1000]*(rows//1000) + [rows%1000]
 
-    # generate data by chunks
+    # Generate data by chunks
     for chunk in chunks:
 
         # Put together an URL for the API call
@@ -34,7 +36,7 @@ def generate_mockaroo_data(schema_id, rows, api_key):
         # Convert bytes data into a Pandas dataframe
         df = pd.read_csv(BytesIO(r.content)) 
 
-        # append to the output dataframe
+        # Append to the output dataframe
         df_mockaroo_data = pd.concat([df_mockaroo_data, df])
 
     
@@ -44,7 +46,7 @@ def generate_mockaroo_data(schema_id, rows, api_key):
 
 if __name__ == "__main__":
 
-    # example
+    # Example
     # df = generate_mockaroo_data("4ad98600", 2025, API_KEY)
 
     schema_ids = [ "4ad98600", "044b8270", "24548f60", "b52d1230"] # Mockaroo schema ids
